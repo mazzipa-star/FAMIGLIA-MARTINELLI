@@ -1,0 +1,1442 @@
+{
+  "assets/cartoline/cartolina-001.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-001.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-001-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-001-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "77f4d167ad3da8c38549e1dc960af4b0ed56fd9ea8dd64891e19db9919c5112b"
+  },
+  "assets/cartoline/cartolina-002.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-002.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-002-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-002-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "a9f3234911b61cd14a3863160a3042f8f84303c3010d5ee036b7aaac97d73e4d"
+  },
+  "assets/cartoline/cartolina-003.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-003.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-003-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-003-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "256570970b50ce26e674f0bc49bb8cb1d2eb4c9bcba90f2522e00fee398ff8a5"
+  },
+  "assets/cartoline/cartolina-004.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-004.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-004-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-004-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "ab0e48956b3ebdc0c8fb8ed17c61f3dcfc2d0b5061fd263a2f195683ae62d0d5"
+  },
+  "assets/cartoline/cartolina-005.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-005.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-005-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-005-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2126,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "2183472e7df007a263be52fcd34fdd7cf1f474bd15606fda3b6bb5b159a5f870"
+  },
+  "assets/cartoline/cartolina-006.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-006.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-006-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-006-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2122,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "975ca00c2ac4e38b60a6c6c7c437df795e2b78b4c6bf5e1de90f0ef4d5311f7f"
+  },
+  "assets/cartoline/cartolina-007.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-007.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-007-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-007-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2121,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "83370ebcd127553406b7ddaf70c582070e39d3b788df5709f83d796c0a047275"
+  },
+  "assets/cartoline/cartolina-008.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-008.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-008-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-008-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2084,
+      1733
+    ],
+    "original_dimensions": [
+      3200,
+      1733
+    ],
+    "original_sha256": "803e90a1d098b8b9863c86b9f94a2cff8aa49e2b441afd62aecf80d113f6d074"
+  },
+  "assets/cartoline/cartolina-009.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-009.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-009-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-009-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2121,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "41a38e9a12c65629ba4c74f547e30eee2d73668aeca875e30361c14d27460892"
+  },
+  "assets/cartoline/cartolina-010.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-010.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-010-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-010-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2124,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "757848bf844a20b790f26fddbc55670820ed47b40dd3e1df95a03890970f5306"
+  },
+  "assets/cartoline/cartolina-011.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-011.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-011-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-011-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2188,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "8ee7af4eb163dca21a62ce6560c9b3e343fc6dcf97d7d61ca822bb7482c73cee"
+  },
+  "assets/cartoline/cartolina-012.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-012.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-012-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-012-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2164,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "fd26c2b38a83aab682b9bd6c3e2c1cf59156ac9545c38f9a3cf6fb37f5200423"
+  },
+  "assets/cartoline/cartolina-013.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-013.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-013-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-013-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "ec1d6a572cc79e0e3ac61147355ffa4d3715783deb07558c177c3e8356229f2b"
+  },
+  "assets/cartoline/cartolina-014.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-014.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-014-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-014-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "b377f489d47208811de1b7cf88caa894031727178c068c3c27cd39e2b61d551c"
+  },
+  "assets/cartoline/cartolina-015.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-015.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-015-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-015-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "b563bc3942a6a5a8a33a75446a005c6c44791872cdddff3c299dd35b34c7b1a0"
+  },
+  "assets/cartoline/cartolina-016.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-016.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-016-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-016-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "eab42f66181d702b49fea20517502bee55e6ceedba9acad3212b1524a787cd34"
+  },
+  "assets/cartoline/cartolina-017.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-017.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-017-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-017-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "726a5d164ea60206336d4432eb0fb77c9d4ef21973335c1b5742e31203d206a8"
+  },
+  "assets/cartoline/cartolina-018.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-018.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-018-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-018-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2214,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "6f6039b910ca835dc0f15ea62a9986eb9a6d57f5980faaec0fabbacc1070c6d5"
+  },
+  "assets/cartoline/cartolina-019.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-019.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-019-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-019-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2187,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "c0a72289d15cbc27e9d581b085e18804a7b7a9bd3dd5780d2b739faaa0b50eca"
+  },
+  "assets/cartoline/cartolina-020.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-020.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-020-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-020-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1607
+    ],
+    "original_dimensions": [
+      3307,
+      1607
+    ],
+    "original_sha256": "7b34f24c4bd9c5fe5b3227aca56281033bae82744bd23e71c68ce0886b1f97b6"
+  },
+  "assets/cartoline/cartolina-021.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-021.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-021-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-021-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2199,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "6efaabd36bd06805bdde4157f52afc021a061f30a6527a9a3e3077d4272ed7a2"
+  },
+  "assets/cartoline/cartolina-022.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-022.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-022-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-022-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2275,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "4a411f05f9a987c017e299857639aefaffb1cf5fc763a5fadf2d3de5136010f6"
+  },
+  "assets/cartoline/cartolina-023.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-023.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-023-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-023-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "66f7a0abe3a386052dbc63b8a6fcb06a1868de9e773c47a34d7dec82409a7dae"
+  },
+  "assets/cartoline/cartolina-024.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-024.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-024-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-024-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "9b42329a5c7881292023ce00a6425b28d001a08357072584350ff9e47287bbdd"
+  },
+  "assets/cartoline/cartolina-025.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-025.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-025-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-025-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1070,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "02c24312594c001e5f4d029ce6c66313e6105f5fe0f0a9ee3f3a77a6a8e4a830"
+  },
+  "assets/cartoline/cartolina-026.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-026.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-026-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-026-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1082,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "c696584a20ae4e2ece87678b19f964ff6dd5cedc3bb536ff7eea69d4591eac09"
+  },
+  "assets/cartoline/cartolina-027.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-027.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-027-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-027-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1090,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "10f8edff1b2c2a49866863c240c7e05371ad2fdf3e2bbe28b077ad7de84116db"
+  },
+  "assets/cartoline/cartolina-028.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-028.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-028-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-028-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1067,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "3af0504d197f3cf89e0e9da1c08f78a5bb33dc281541dbcee7d2ae9b4197ad1b"
+  },
+  "assets/cartoline/cartolina-029.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-029.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-029-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-029-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1067,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "41708bc266195640a94cb74eb1fbe4ad7d99e624fce219374963b2ca356cf228"
+  },
+  "assets/cartoline/cartolina-030.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-030.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-030-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-030-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1062,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "5cf91803cdcb9d6ea5fef2ca8f1d46fd3859b2e0b3aa8e6a8a11a38e9394344f"
+  },
+  "assets/cartoline/cartolina-031.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-031.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-031-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-031-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1091,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "8649c496a9a7befeac79ec4ababbeb99dd2e6851db188f29daf1613097fe1d0c"
+  },
+  "assets/cartoline/cartolina-032.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-032.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-032-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-032-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1070,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "623f12c1b59f4e9de3b2f6c412a63af872ece522d48b159e538702d85fa82d51"
+  },
+  "assets/cartoline/cartolina-033.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-033.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-033-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-033-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1047,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "c9e47f3d2db185f4c99ddf8946fa93b3e0bd980202c4a48d668c28e010be9f62"
+  },
+  "assets/cartoline/cartolina-034.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-034.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-034-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-034-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1076,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "460091e347378a007b4bc2be0b6bd84df75e54a08779c169cfb9db8da3ee2b3d"
+  },
+  "assets/cartoline/cartolina-035.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-035.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-035-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-035-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1076,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "5d17c1edec282f4216dfc98cb390e3580467e3c3ee43c28e17a53db77310f6ef"
+  },
+  "assets/cartoline/cartolina-036.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-036.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-036-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-036-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "8b3976133089991966f36d1466ed242e95ed7af655ffc3bd0dd541ee267f3fc2"
+  },
+  "assets/cartoline/cartolina-037.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-037.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-037-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-037-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1124,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "4984a6fb7d05942868177cb529eacc8d295ff1f35af9cfb805d555a38a52da11"
+  },
+  "assets/cartoline/cartolina-038.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-038.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-038-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-038-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "e6fad62ae8f33c2f46d43d41084abc86402ff2d9ffa1ec5656cab713a10a606b"
+  },
+  "assets/cartoline/cartolina-039.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-039.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-039-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-039-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "afe1e5a8cbc3eda01262e8285f3c4cf2d3afe117896c013b1dae21d059b93f5c"
+  },
+  "assets/cartoline/cartolina-040.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-040.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-040-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-040-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1069,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "48d2dd0cbe7d3eefbb67e33652d910342b7ca6d0124a4059422c9935c8f5ff88"
+  },
+  "assets/cartoline/cartolina-041.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-041.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-041-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-041-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "808e6c76f3e4c6de1e428578b61e9ab8d31d6fdc5e993b984064f24fad7f2c39"
+  },
+  "assets/cartoline/cartolina-042.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-042.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-042-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-042-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "6eeb71340c1dbb7029bd8af293f29f6f76c399d5426ca1398b7cf6599e9b9dde"
+  },
+  "assets/cartoline/cartolina-043.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-043.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-043-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-043-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2213,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "b4c108a928ad4c6b5c44bc60a4aa2010175d392c7ea8edacf485f9ef502b032c"
+  },
+  "assets/cartoline/cartolina-044.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-044.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-044-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-044-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2244,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "9fae3b58bed70094e729969fe28cc9fa19ae37ac5e8c0c02fbfeace0da1ecab5"
+  },
+  "assets/cartoline/cartolina-045.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-045.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-045-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-045-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1083,
+      804
+    ],
+    "original_dimensions": [
+      1654,
+      804
+    ],
+    "original_sha256": "b50f84a9e8843bf83b7642bbe280ee4da4d2be183aab692da03d30e7a156e405"
+  },
+  "assets/cartoline/cartolina-046.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-046.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-046-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-046-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1083,
+      827
+    ],
+    "original_dimensions": [
+      1654,
+      827
+    ],
+    "original_sha256": "8c014cefe491aba9d59368c5bce54e2af4abd0bc317d4e749bebef52ff15fbb8"
+  },
+  "assets/cartoline/cartolina-047.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-047.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-047-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-047-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1059,
+      804
+    ],
+    "original_dimensions": [
+      1654,
+      804
+    ],
+    "original_sha256": "cb46e992df92a5706cb6be0882007f0fc1201d122bf25282d1a0781efbf6de86"
+  },
+  "assets/cartoline/cartolina-048.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-048.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-048-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-048-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1083,
+      827
+    ],
+    "original_dimensions": [
+      1654,
+      827
+    ],
+    "original_sha256": "42b9b06fc5c7ba9935b9f906a2d5aea0e33352547d21df9bf2d27baf0c6cd58c"
+  },
+  "assets/cartoline/cartolina-049.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-049.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-049-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-049-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1125,
+      827
+    ],
+    "original_dimensions": [
+      1654,
+      827
+    ],
+    "original_sha256": "ab341d1ea1ac5d29f533fa7ccf13fc195f92f6f2752fc26ea9208012f5132146"
+  },
+  "assets/cartoline/cartolina-050.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-050.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-050-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-050-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1066,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "6908cfb3d5d974ce14b22a1c56bd2efaf65ed3cf1565fdb440f3b31acc6fbfcf"
+  },
+  "assets/cartoline/cartolina-051.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-051.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-051-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-051-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1124,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "3ba7f6b541c155bd1d28465873b77049db8a56b78c9a853ee2d1158fa3188155"
+  },
+  "assets/cartoline/cartolina-052.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-052.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-052-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-052-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1045,
+      809
+    ],
+    "original_dimensions": [
+      1595,
+      809
+    ],
+    "original_sha256": "7cee11c4665514616b0f1d1291513aa5af89c072300c358ffc4155bce44bab0a"
+  },
+  "assets/cartoline/cartolina-053.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-053.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-053-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-053-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1066,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "13ff9dbb90c8b994b357526c9d32bc6fee7bd62fabf8755e82b1b3ea3e3ee5dd"
+  },
+  "assets/cartoline/cartolina-054.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-054.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-054-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-054-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1053,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "ad5f60b490db04e4689e2da2676001617fa075fedcbe7962fa7011523ea0d2ad"
+  },
+  "assets/cartoline/cartolina-055.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-055.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-055-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-055-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1076,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "83b38c2731c5002bd98eb49b285ee09dc7a3c12a7a6a69eb2fe60fa70c1fd138"
+  },
+  "assets/cartoline/cartolina-056.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-056.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-056-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-056-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1066,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "1671998524f0bd72b7ba72534b9c7dc5afdfc8b0faad53a699ee06750d3cf3ba"
+  },
+  "assets/cartoline/cartolina-057.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-057.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-057-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-057-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "6680298ee518498140c285b49913b28a8c826a87e54953d3598265bc026e2d3e"
+  },
+  "assets/cartoline/cartolina-058.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-058.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-058-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-058-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1084,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "4b9f0660ec7c55844e9809841644655eb78989ef9ca7c14401a310cdaa5bd320"
+  },
+  "assets/cartoline/cartolina-059.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-059.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-059-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-059-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1091,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "fe473ea2770d225b883cda5f38bb6a29141e1e6e6a2b94ff49c553720bc95d7a"
+  },
+  "assets/cartoline/cartolina-060.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-060.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-060-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-060-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1058,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "951e35ff3b538da1b63014691f69cb4e36cc9c05227acb02eb9d9b7bdfd8ddbd"
+  },
+  "assets/cartoline/cartolina-061.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-061.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-061-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-061-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "b4f5a29adef5d1b44f79eb5897966c2f8664c3d81a58fc9200ccedc047893387"
+  },
+  "assets/cartoline/cartolina-062.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-062.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-062-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-062-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1066,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "8d1213eb50cdb95debf9b444abf8a431e90e5b5aee8588b8132132e1a61ab2bf"
+  },
+  "assets/cartoline/cartolina-063.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-063.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-063-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-063-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1066,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "9d09ab861515587a6a2ac44f591cda59949879d096d692428bb4c38495b5cbbe"
+  },
+  "assets/cartoline/cartolina-064.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-064.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-064-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-064-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1051,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "32b069833077a87d3876802e7eb1dc5d3f8f1a03524b9197886ac4c56f79f37a"
+  },
+  "assets/cartoline/cartolina-065.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-065.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-065-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-065-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1066,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "b27e06bb1d3110b29c6a8567f1a9f00677ed02faf7b8de69401377dfc00f1d04"
+  },
+  "assets/cartoline/cartolina-066.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-066.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-066-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-066-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "d55017ed42b962f07802dfa763f41e56927fa14ddf9db57609cbd6907df71e8a"
+  },
+  "assets/cartoline/cartolina-067.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-067.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-067-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-067-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1124,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "ff203caf8fde4ea9c68a23c57acc7648d13f67feedd48a40a5ecda982c1da74a"
+  },
+  "assets/cartoline/cartolina-068.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-068.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-068-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-068-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1065,
+      822
+    ],
+    "original_dimensions": [
+      1605,
+      822
+    ],
+    "original_sha256": "7e21e1d339b0c3b064b4fba8d561971d394f4240b968e7a058804628936a3b68"
+  },
+  "assets/cartoline/cartolina-069.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-069.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-069-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-069-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1068,
+      822
+    ],
+    "original_dimensions": [
+      1605,
+      822
+    ],
+    "original_sha256": "918ec93f5f2c5ac26bf35448b8b10f7fde5b7d5c0ed64c957bf22c869d7e4f38"
+  },
+  "assets/cartoline/cartolina-070.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-070.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-070-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-070-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1067,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "8633a2c5ae89fa59e39bd308fbb905d5923ffd02aade58e4a0106d716c5e7b90"
+  },
+  "assets/cartoline/cartolina-071.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-071.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-071-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-071-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1067,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "fdcc1deb10fa8f7b0c854627529b3e65e3273f213ce57f8591d8021b0d3ed6ca"
+  },
+  "assets/cartoline/cartolina-072.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-072.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-072-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-072-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1059,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "d585dc2b9bd8a39d266eccbb3556a531fe7295d7fdc0289291f8af8059dd1477"
+  },
+  "assets/cartoline/cartolina-073.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-073.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-073-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-073-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1059,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "405ce4dba13ec673c2a59b3b28e0a8faaba6a813b984339d23f6a3e83202b336"
+  },
+  "assets/cartoline/cartolina-074.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-074.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-074-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-074-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1045,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "38e39e44fd914133121d89a00a0849427cabdeb42b0d6341280a8d97e9c8657a"
+  },
+  "assets/cartoline/cartolina-075.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-075.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-075-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-075-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1058,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "07e0a08c089e549fb4a5decb13254b1c6693a7c7aaa25f71c692bbfd19e2c724"
+  },
+  "assets/cartoline/cartolina-076.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-076.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-076-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-076-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1053,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "5be6ffae186c382f9ef6980b528b670b8401b3b079f1277056a0a9f9d6612311"
+  },
+  "assets/cartoline/cartolina-077.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-077.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-077-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-077-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1067,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "c21cbf985c7787596968be9ce25471f2104513764f9930061b7aabe09bbbaadb"
+  },
+  "assets/cartoline/cartolina-078.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-078.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-078-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-078-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1083,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "0f7f407ef2a77ee65f9a8873b148fd7a03ebdfea219c859a84cbd15d8faca208"
+  },
+  "assets/cartoline/cartolina-079.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-079.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-079-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-079-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "dd614c254b9ca4b9143645e74ac7b88cb09ae4ef976f777a5377ab14e66529ff"
+  },
+  "assets/cartoline/cartolina-080.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-080.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-080-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-080-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2121,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "ced4dad7d753fb309839ddf996cb75baba45dd667b79b4ebdb7c3e0193ea2f20"
+  },
+  "assets/cartoline/cartolina-081.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-081.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-081-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-081-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2166,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "8a8bbcd6900fcb1e630b29500b7d5ed5aa58ac6616674af968f33eeea38d2132"
+  },
+  "assets/cartoline/cartolina-082.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-082.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-082-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-082-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1080,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "27db60033faa793d31ad957119e82784f1f5e6eccf607239b75c473df3cf9fb2"
+  },
+  "assets/cartoline/cartolina-083.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-083.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-083-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-083-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1074,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "2158ecae3244e1fe10832b2a82ac93689f95b660b0c511568f57291d12615cce"
+  },
+  "assets/cartoline/cartolina-084.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-084.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-084-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-084-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1099,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "757732a35be4ac45c988ef5257b2f4bc424976bc03f7c3134e3e935a9a7e7579"
+  },
+  "assets/cartoline/cartolina-085.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-085.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-085-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-085-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1124,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "2b5b3f7b259ca18c8f1f55cd2560670bbb764604dae0c0d81ae3412a3597efb9"
+  },
+  "assets/cartoline/cartolina-086.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-086.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-086-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-086-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1058,
+      827
+    ],
+    "original_dimensions": [
+      1595,
+      827
+    ],
+    "original_sha256": "cdd6d3104f4ed1e9f3ffbed957c19cd7b0ab1acb68c7061aea606922540c9327"
+  },
+  "assets/cartoline/cartolina-087.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-087.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-087-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-087-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1050,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "77cbb0a4b354d513e10ddca6894c9fe9080c300286ea6cc5cd53e94b0beb23e4"
+  },
+  "assets/cartoline/cartolina-088.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-088.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-088-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-088-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      1045,
+      804
+    ],
+    "original_dimensions": [
+      1595,
+      804
+    ],
+    "original_sha256": "3bcb74e9e4ac6b1f453e00271a566f2caddeae7587592f92dd19409be6a7ebe6"
+  },
+  "assets/cartoline/cartolina-089.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-089.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-089-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-089-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2246,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "8478509952fcba67d6f9cdae10889ba5c7ad47a3b1e85b3f344e7fade30969c3"
+  },
+  "assets/cartoline/cartolina-090.jpg": {
+    "image": "assets/cartoline/ritagli/cartolina-090.jpg",
+    "preview": "assets/cartoline/ritagli/cartolina-090-lettura.jpg",
+    "thumbnail": "assets/cartoline/ritagli/cartolina-090-miniatura.jpg",
+    "crop_box": [
+      0,
+      0,
+      2256,
+      1654
+    ],
+    "original_dimensions": [
+      3307,
+      1654
+    ],
+    "original_sha256": "271114ad3a879eb4002f6fc3ca4f75a5437f2afa24eabf371613273c0f10a640"
+  }
+}
