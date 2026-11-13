@@ -102,3 +102,6 @@ for name in ('media-gallery.html','gli-audio.html'):
  path=R/'dist'/name;html=path.read_text().replace('</head>',media_css+'</head>')
  html=html.replace('Per vedere video in qualità HD (link esterno)','Guarda il filmato direttamente in questa pagina, anche a schermo intero.')
  path.write_text(html)
+
+from prigionia import apply_prigionia
+apply_prigionia(R)
