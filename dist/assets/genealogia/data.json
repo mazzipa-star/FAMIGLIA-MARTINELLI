@@ -14,7 +14,15 @@
         "parents": [],
         "partners": [
           "antenati-1"
-        ]
+        ],
+        "birth": "1711",
+        "death": "1780",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-80",
+        "record_name": "Clemente Martinelli",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-1",
@@ -26,7 +34,15 @@
         "parents": [],
         "partners": [
           "antenati-0"
-        ]
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-25",
+        "record_name": "Rosa Pizzingroia",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-2",
@@ -41,7 +57,15 @@
         ],
         "partners": [
           "antenati-3"
-        ]
+        ],
+        "birth": "1755",
+        "death": "1818",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-62",
+        "record_name": "Francesco Paolo Martinelli",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-3",
@@ -53,7 +77,15 @@
         "parents": [],
         "partners": [
           "antenati-2"
-        ]
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-33",
+        "record_name": "Eleonora Indelli",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-4",
@@ -68,7 +100,15 @@
         ],
         "partners": [
           "antenati-5"
-        ]
+        ],
+        "birth": "1778",
+        "death": "1836",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-53",
+        "record_name": "Clemente Maria Martinelli",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-5",
@@ -80,7 +120,15 @@
         "parents": [],
         "partners": [
           "antenati-4"
-        ]
+        ],
+        "birth": "",
+        "death": "1830",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-37",
+        "record_name": "Benedetta Noja (Martinelli)",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-6",
@@ -95,7 +143,15 @@
         ],
         "partners": [
           "antenati-7"
-        ]
+        ],
+        "birth": "12 marzo 1803",
+        "death": "4 gennaio 1885",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-0",
+        "record_name": "Francesco Paolo Martinelli",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-7",
@@ -107,7 +163,15 @@
         "parents": [],
         "partners": [
           "antenati-6"
-        ]
+        ],
+        "birth": "",
+        "death": "4 aprile 1875",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-73",
+        "record_name": "Francesca Antonacci (Martinelli)",
+        "identity_note": "",
+        "portrait_source": "Segnaposto del documento genealogico, non un ritratto storico."
       },
       {
         "id": "antenati-8",
@@ -115,14 +179,23 @@
         "date": "1865-?",
         "x": 535,
         "y": 1104,
-        "portrait": "assets/genealogia/antenati-8.jpg",
+        "portrait": "assets/ritratti-famiglia/family-32.webp",
         "parents": [
           "antenati-6",
           "antenati-7"
         ],
         "partners": [
           "antenati-9"
-        ]
+        ],
+        "birth": "2 aprile 1865",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-32",
+        "record_name": "Sante Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-32-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "antenati-9",
@@ -130,11 +203,20 @@
         "date": "",
         "x": 733,
         "y": 1104,
-        "portrait": "assets/genealogia/antenati-9.jpg",
+        "portrait": "assets/ritratti-famiglia/family-51.webp",
         "parents": [],
         "partners": [
           "antenati-8"
-        ]
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-51",
+        "record_name": "Marianna Antonelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-51-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "antenati-10",
@@ -142,12 +224,21 @@
         "date": "?-?",
         "x": 634,
         "y": 1300,
-        "portrait": "assets/genealogia/antenati-10.jpg",
+        "portrait": "assets/ritratti-famiglia/family-34.webp",
         "parents": [
           "antenati-8",
           "antenati-9"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "23 giugno 1882",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-34",
+        "record_name": "Giovanni Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-34-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       }
     ],
     "families": [
@@ -207,25 +298,43 @@
         "id": "discendenti-0",
         "name": "Giovanni Martinelli",
         "date": "?-?",
-        "x": 1702,
+        "x": 2845,
         "y": 318,
-        "portrait": "assets/genealogia/discendenti-0.jpg",
+        "portrait": "assets/ritratti-famiglia/family-34.webp",
         "parents": [],
         "partners": [
           "discendenti-1"
-        ]
+        ],
+        "birth": "23 giugno 1882",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-34",
+        "record_name": "Giovanni Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-34-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-1",
         "name": "Lina Masoni",
         "date": "?-?",
-        "x": 1889,
+        "x": 3030,
         "y": 318,
-        "portrait": "assets/genealogia/discendenti-1.jpg",
+        "portrait": "assets/ritratti-famiglia/family-67.webp",
         "parents": [],
         "partners": [
           "discendenti-0"
-        ]
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-67",
+        "record_name": "Lina Masoni",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-67-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-2",
@@ -233,14 +342,23 @@
         "date": "1930",
         "x": 670,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-2.jpg",
+        "portrait": "assets/ritratti-famiglia/family-77.webp",
         "parents": [
           "discendenti-0",
           "discendenti-1"
         ],
         "partners": [
           "discendenti-3"
-        ]
+        ],
+        "birth": "24 giugno 1930",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-77",
+        "record_name": "Grazia Martinelli (Mazzi)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-77-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-3",
@@ -248,11 +366,20 @@
         "date": "1925-1994",
         "x": 858,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-3.jpg",
+        "portrait": "assets/ritratti-famiglia/family-21.webp",
         "parents": [],
         "partners": [
           "discendenti-2"
-        ]
+        ],
+        "birth": "gennaio 1925",
+        "death": "28 ottobre 1994",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-21",
+        "record_name": "Eros Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-21-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-4",
@@ -260,14 +387,23 @@
         "date": "",
         "x": 1801,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-4.jpg",
+        "portrait": "assets/ritratti-famiglia/family-6.webp",
         "parents": [
           "discendenti-0",
           "discendenti-1"
         ],
         "partners": [
           "discendenti-5"
-        ]
+        ],
+        "birth": "1921",
+        "death": "2020",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-6",
+        "record_name": "Vera Martinelli (Martucci)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-6-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-5",
@@ -275,65 +411,112 @@
         "date": "1914-1986",
         "x": 1987,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-5.jpg",
+        "portrait": "assets/ritratti-famiglia/family-71.webp",
         "parents": [],
         "partners": [
           "discendenti-4"
-        ]
+        ],
+        "birth": "14 gennaio 1914",
+        "death": "marzo 1986",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-71",
+        "record_name": "Carlo Martucci",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-71-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-6",
         "name": "Sante Martinelli",
         "date": "?-?",
-        "x": 2421,
+        "x": 3400,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-6.jpg",
+        "portrait": "assets/ritratti-famiglia/family-5.webp",
         "parents": [
           "discendenti-0",
           "discendenti-1"
         ],
         "partners": [
           "discendenti-7"
-        ]
+        ],
+        "birth": "13 febbraio 1922",
+        "death": "17 novembre 1995",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-5",
+        "record_name": "Sante Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-5-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
       },
       {
         "id": "discendenti-7",
-        "name": "Ines Martinelli",
+        "name": "Ines Ardoino",
         "date": "?-?",
-        "x": 2606,
+        "x": 3585,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-7.jpg",
+        "portrait": "assets/ritratti-famiglia/family-35.webp",
         "parents": [],
         "partners": [
           "discendenti-6"
-        ]
+        ],
+        "birth": "28 settembre 1921",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-35",
+        "record_name": "Ines Ardoino (Martinelli)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-35-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
       },
       {
         "id": "discendenti-8",
         "name": "Annamaria Martinelli",
         "date": "?-?",
-        "x": 3026,
+        "x": 4926,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-8.jpg",
+        "portrait": "assets/ritratti-famiglia/family-23.webp",
         "parents": [
           "discendenti-0",
           "discendenti-1"
         ],
         "partners": [
           "discendenti-9"
-        ]
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-23",
+        "record_name": "Annamaria Martinelli (Tortora)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-23-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-9",
         "name": "Mario Tortora",
         "date": "?-?",
-        "x": 3212,
+        "x": 5112,
         "y": 474,
-        "portrait": "assets/genealogia/discendenti-9.jpg",
+        "portrait": "assets/ritratti-famiglia/family-49.webp",
         "parents": [],
         "partners": [
           "discendenti-8"
-        ]
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-49",
+        "record_name": "Mario Tortora",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-49-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-10",
@@ -341,14 +524,23 @@
         "date": "1957",
         "x": 234,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-10.jpg",
+        "portrait": "assets/ritratti-famiglia/family-41.webp",
         "parents": [
           "discendenti-2",
           "discendenti-3"
         ],
         "partners": [
           "discendenti-11"
-        ]
+        ],
+        "birth": "10 luglio 1957",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-41",
+        "record_name": "Stefano Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-41-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-11",
@@ -356,11 +548,20 @@
         "date": "",
         "x": 418,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-11.jpg",
+        "portrait": "assets/ritratti-famiglia/family-82.webp",
         "parents": [],
         "partners": [
           "discendenti-10"
-        ]
+        ],
+        "birth": "12 febbraio 1964",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-82",
+        "record_name": "Giulia Bolla (Mazzi)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-82-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-12",
@@ -368,14 +569,23 @@
         "date": "1959",
         "x": 670,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-12.jpg",
+        "portrait": "assets/ritratti-famiglia/family-26.webp",
         "parents": [
           "discendenti-2",
           "discendenti-3"
         ],
         "partners": [
           "discendenti-13"
-        ]
+        ],
+        "birth": "1959",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-26",
+        "record_name": "Paolo Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-26-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-13",
@@ -383,11 +593,20 @@
         "date": "1964",
         "x": 855,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-13.jpg",
+        "portrait": "assets/ritratti-famiglia/family-36.webp",
         "parents": [],
         "partners": [
           "discendenti-12"
-        ]
+        ],
+        "birth": "24 febbraio 1964",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-36",
+        "record_name": "Rita Colantonio (Mazzi)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-36-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-14",
@@ -395,14 +614,23 @@
         "date": "1963",
         "x": 1107,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-14.jpg",
+        "portrait": "assets/ritratti-famiglia/family-38.webp",
         "parents": [
           "discendenti-2",
           "discendenti-3"
         ],
         "partners": [
           "discendenti-15"
-        ]
+        ],
+        "birth": "1 ottobre 1963",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-38",
+        "record_name": "Alberto Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-38-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-15",
@@ -410,11 +638,20 @@
         "date": "1964",
         "x": 1290,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-15.jpg",
+        "portrait": "assets/ritratti-famiglia/family-63.webp",
         "parents": [],
         "partners": [
           "discendenti-14"
-        ]
+        ],
+        "birth": "30 agosto 1964",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-63",
+        "record_name": "Carla Tomatis (Mazzi)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-63-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-16",
@@ -422,14 +659,23 @@
         "date": "1958",
         "x": 1625,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-16.jpg",
+        "portrait": "assets/ritratti-famiglia/family-1.webp",
         "parents": [
           "discendenti-4",
           "discendenti-5"
         ],
         "partners": [
           "discendenti-17"
-        ]
+        ],
+        "birth": "31 marzo 1958",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-1",
+        "record_name": "Susanna Martucci (Fortuna)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-1-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-17",
@@ -437,11 +683,20 @@
         "date": "1959",
         "x": 1811,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-17.jpg",
+        "portrait": "assets/ritratti-famiglia/family-8.webp",
         "parents": [],
         "partners": [
           "discendenti-16"
-        ]
+        ],
+        "birth": "8 aprile 1959",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-8",
+        "record_name": "Gianni Fortuna",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-8-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-18",
@@ -449,12 +704,21 @@
         "date": "",
         "x": 1992,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-18.jpg",
+        "portrait": "assets/ritratti-famiglia/family-45.webp",
         "parents": [
           "discendenti-4",
           "discendenti-5"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-45",
+        "record_name": "Rossella Martucci (Mauro)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-45-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-19",
@@ -462,103 +726,184 @@
         "date": "",
         "x": 2162,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-19.jpg",
+        "portrait": "assets/ritratti-famiglia/family-20.webp",
         "parents": [
           "discendenti-4",
           "discendenti-5"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-20",
+        "record_name": "Patrizia Martucci (Galletti)",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-20-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-20",
-        "name": "Piergiovanni Martinelli",
+        "name": "Pietro Giovanni Martinelli",
         "date": "",
-        "x": 2343,
+        "x": 4100,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-20.jpg",
+        "portrait": "assets/ritratti-famiglia/family-65.webp",
         "parents": [
           "discendenti-6",
           "discendenti-7"
         ],
-        "partners": []
+        "partners": [
+          "discendenti-sante-69"
+        ],
+        "birth": "6 dicembre 1953",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-65",
+        "record_name": "Pietro Giovanni Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-65-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
       },
       {
         "id": "discendenti-21",
         "name": "Roberto Martinelli",
         "date": "",
-        "x": 2514,
+        "x": 3400,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-21.jpg",
+        "portrait": "assets/ritratti-famiglia/family-83.webp",
         "parents": [
           "discendenti-6",
           "discendenti-7"
         ],
-        "partners": []
+        "partners": [
+          "discendenti-sante-24"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-83",
+        "record_name": "Roberto Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-83-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
       },
       {
         "id": "discendenti-22",
         "name": "Enrico Martinelli",
         "date": "",
-        "x": 2682,
+        "x": 2700,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-22.jpg",
+        "portrait": "assets/ritratti-famiglia/family-18.webp",
         "parents": [
           "discendenti-6",
           "discendenti-7"
         ],
-        "partners": []
+        "partners": [
+          "discendenti-sante-52"
+        ],
+        "birth": "",
+        "death": "18 aprile 2017",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-18",
+        "record_name": "Enrico Martinelli",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-18-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
       },
       {
         "id": "discendenti-23",
-        "name": "Loletta Tortora",
+        "name": "Loletta Calenda",
         "date": "",
-        "x": 2864,
+        "x": 4764,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-23.jpg",
+        "portrait": "assets/ritratti-famiglia/family-11.webp",
         "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "20/08/1941",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-11",
+        "record_name": "Loletta Calenda",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-11-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-24",
         "name": "Stefano Tortora",
         "date": "",
-        "x": 3032,
+        "x": 4932,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-24.jpg",
+        "portrait": "assets/ritratti-famiglia/family-16.webp",
         "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-16",
+        "record_name": "Stefano Tortora",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-16-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-25",
         "name": "Marcello Tortora",
         "date": "?-?",
-        "x": 3201,
+        "x": 5101,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-25.jpg",
+        "portrait": "assets/ritratti-famiglia/family-78.webp",
         "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "8/7/54",
+        "death": "11/5/97",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-78",
+        "record_name": "Marcello Tortora",
+        "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare. La data di morte mantiene l’anno a due cifre del documento.",
+        "portrait_full": "assets/ritratti-famiglia/family-78-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-26",
         "name": "Andrea Tortora",
         "date": "",
-        "x": 3372,
+        "x": 5272,
         "y": 630,
-        "portrait": "assets/genealogia/discendenti-26.jpg",
+        "portrait": "assets/ritratti-famiglia/family-61.webp",
         "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "29/5/58",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-61",
+        "record_name": "Andrea Tortora",
+        "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+        "portrait_full": "assets/ritratti-famiglia/family-61-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-27",
@@ -566,12 +911,21 @@
         "date": "",
         "x": 156,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-27.jpg",
+        "portrait": "assets/ritratti-famiglia/family-75.webp",
         "parents": [
           "discendenti-10",
           "discendenti-11"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "29 novembre 1989",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-75",
+        "record_name": "Francesco Paolo Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-75-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-28",
@@ -579,12 +933,21 @@
         "date": "",
         "x": 327,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-28.jpg",
+        "portrait": "assets/ritratti-famiglia/family-84.webp",
         "parents": [
           "discendenti-10",
           "discendenti-11"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "3 febbraio 1991",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-84",
+        "record_name": "Alessandro Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-84-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-29",
@@ -592,12 +955,21 @@
         "date": "",
         "x": 498,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-29.jpg",
+        "portrait": "assets/ritratti-famiglia/family-55.webp",
         "parents": [
           "discendenti-10",
           "discendenti-11"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "3 febbraio 1991",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-55",
+        "record_name": "Alberto Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-55-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-30",
@@ -605,12 +977,21 @@
         "date": "1993",
         "x": 678,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-30.jpg",
+        "portrait": "assets/ritratti-famiglia/family-30.webp",
         "parents": [
           "discendenti-12",
           "discendenti-13"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "16 settembre 1993",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-30",
+        "record_name": "Camilla Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-30-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-31",
@@ -618,12 +999,21 @@
         "date": "1997",
         "x": 846,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-31.jpg",
+        "portrait": "assets/ritratti-famiglia/family-22.webp",
         "parents": [
           "discendenti-12",
           "discendenti-13"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "3 luglio 1997",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-22",
+        "record_name": "Margherita Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-22-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-32",
@@ -631,12 +1021,21 @@
         "date": "",
         "x": 1029,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-32.jpg",
+        "portrait": "assets/ritratti-famiglia/family-3.webp",
         "parents": [
           "discendenti-14",
           "discendenti-15"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "30 agosto 1993",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-3",
+        "record_name": "Federico Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-3-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-33",
@@ -644,12 +1043,21 @@
         "date": "",
         "x": 1198,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-33.jpg",
+        "portrait": "assets/ritratti-famiglia/family-59.webp",
         "parents": [
           "discendenti-14",
           "discendenti-15"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "20 settembre 1996",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-59",
+        "record_name": "Alberta Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-59-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-34",
@@ -657,12 +1065,21 @@
         "date": "",
         "x": 1369,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-34.jpg",
+        "portrait": "assets/ritratti-famiglia/family-40.webp",
         "parents": [
           "discendenti-14",
           "discendenti-15"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "16 novembre 2006",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-40",
+        "record_name": "Milo Mazzi",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-40-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-35",
@@ -670,12 +1087,21 @@
         "date": "1992",
         "x": 1549,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-35.jpg",
+        "portrait": "assets/ritratti-famiglia/family-9.webp",
         "parents": [
           "discendenti-16",
           "discendenti-17"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "29 giugno 1992",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-9",
+        "record_name": "Giulia Fortuna",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-9-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-36",
@@ -683,12 +1109,21 @@
         "date": "1994",
         "x": 1716,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-36.jpg",
+        "portrait": "assets/ritratti-famiglia/family-46.webp",
         "parents": [
           "discendenti-16",
           "discendenti-17"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "4 marzo 1994",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-46",
+        "record_name": "Alessandro Fortuna",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-46-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       },
       {
         "id": "discendenti-37",
@@ -696,12 +1131,311 @@
         "date": "1997",
         "x": 1887,
         "y": 786,
-        "portrait": "assets/genealogia/discendenti-37.jpg",
+        "portrait": "assets/ritratti-famiglia/family-64.webp",
         "parents": [
           "discendenti-16",
           "discendenti-17"
         ],
-        "partners": []
+        "partners": [],
+        "birth": "11 aprile 1997",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-64",
+        "record_name": "Alice Fortuna",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-64-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
+      },
+      {
+        "id": "discendenti-sante-52",
+        "name": "Alessandra Corbelli",
+        "date": "",
+        "x": 2885,
+        "y": 630,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [],
+        "partners": [
+          "discendenti-22"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-52",
+        "record_name": "Alessandra Corbelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-24",
+        "name": "Tiziana Alvari",
+        "date": "",
+        "x": 3585,
+        "y": 630,
+        "portrait": "assets/ritratti-famiglia/family-24.webp",
+        "parents": [],
+        "partners": [
+          "discendenti-21"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-24",
+        "record_name": "Tiziana Alvari",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_full": "assets/ritratti-famiglia/family-24-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
+      },
+      {
+        "id": "discendenti-sante-69",
+        "name": "Giovanna Recchia",
+        "date": "",
+        "x": 4285,
+        "y": 630,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [],
+        "partners": [
+          "discendenti-20"
+        ],
+        "birth": "1 luglio 1959",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-69",
+        "record_name": "Giovanna Recchia (Martinelli)",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-54",
+        "name": "Valentina Martinelli",
+        "date": "",
+        "x": 2600,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [
+          "discendenti-22",
+          "discendenti-sante-52"
+        ],
+        "partners": [
+          "discendenti-sante-68"
+        ],
+        "birth": "9 ottobre 1978",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-54",
+        "record_name": "Valentina Martinelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-68",
+        "name": "Stefano Benini",
+        "date": "",
+        "x": 2785,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [],
+        "partners": [
+          "discendenti-sante-54"
+        ],
+        "birth": "15 dicembre 1964",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-68",
+        "record_name": "Stefano Benini",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-27",
+        "name": "Andrea Martinelli",
+        "date": "",
+        "x": 3000,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [
+          "discendenti-22",
+          "discendenti-sante-52"
+        ],
+        "partners": [],
+        "birth": "17 dicembre 1985",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-27",
+        "record_name": "Andrea Martinelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-57",
+        "name": "Paola Martinelli",
+        "date": "",
+        "x": 3400,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/family-57.webp",
+        "parents": [
+          "discendenti-21",
+          "discendenti-sante-24"
+        ],
+        "partners": [
+          "discendenti-sante-72"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-57",
+        "record_name": "Paola Martinelli (Alvari)",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_full": "assets/ritratti-famiglia/family-57-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
+      },
+      {
+        "id": "discendenti-sante-72",
+        "name": "Felice Bonavolontà",
+        "date": "",
+        "x": 3585,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/family-72.webp",
+        "parents": [],
+        "partners": [
+          "discendenti-sante-57"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-72",
+        "record_name": "Felice Bonaventura",
+        "identity_note": "Cognome verificato nella scheda MyHeritage; nel precedente documento familiare compare Bonaventura.",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_full": "assets/ritratti-famiglia/family-72-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
+      },
+      {
+        "id": "discendenti-sante-50",
+        "name": "Edoardo Martinelli",
+        "date": "",
+        "x": 4000,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [
+          "discendenti-20",
+          "discendenti-sante-69"
+        ],
+        "partners": [],
+        "birth": "26 gennaio 1982",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-50",
+        "record_name": "Edoardo Martinelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-12",
+        "name": "Federico Martinelli",
+        "date": "",
+        "x": 4200,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/family-12.webp",
+        "parents": [
+          "discendenti-20",
+          "discendenti-sante-69"
+        ],
+        "partners": [],
+        "birth": "26 marzo 1983",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-12",
+        "record_name": "Federico Martinelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_full": "assets/ritratti-famiglia/family-12-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
+      },
+      {
+        "id": "discendenti-sante-13",
+        "name": "Carlo Benini Martinelli",
+        "date": "",
+        "x": 2550,
+        "y": 942,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [
+          "discendenti-sante-54",
+          "discendenti-sante-68"
+        ],
+        "partners": [],
+        "birth": "20 ottobre 2010",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-13",
+        "record_name": "Carlo Benini Martinelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-7",
+        "name": "Mia Benini Martinelli",
+        "date": "",
+        "x": 2750,
+        "y": 942,
+        "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
+        "parents": [
+          "discendenti-sante-54",
+          "discendenti-sante-68"
+        ],
+        "partners": [],
+        "birth": "30 marzo 2012",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-7",
+        "record_name": "Mia Benini Martinelli",
+        "identity_note": "",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_source": "Segnaposto: fotografia non disponibile."
+      },
+      {
+        "id": "discendenti-sante-66",
+        "name": "Sara Bonavolontà Martinelli",
+        "date": "",
+        "x": 3500,
+        "y": 942,
+        "portrait": "assets/ritratti-famiglia/family-66.webp",
+        "parents": [
+          "discendenti-sante-57",
+          "discendenti-sante-72"
+        ],
+        "partners": [],
+        "birth": "20 ottobre 2016",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "catalog_id": "family-66",
+        "record_name": "Sara Bonaventura Martinelli",
+        "identity_note": "Cognome verificato nella scheda MyHeritage; nel precedente documento familiare compare Bonaventura.",
+        "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+        "portrait_full": "assets/ritratti-famiglia/family-66-grande.webp",
+        "portrait_source": "Archivio fotografico familiare"
       }
     ],
     "families": [
@@ -737,17 +1471,6 @@
           "discendenti-16",
           "discendenti-18",
           "discendenti-19"
-        ]
-      },
-      {
-        "parents": [
-          "discendenti-6",
-          "discendenti-7"
-        ],
-        "children": [
-          "discendenti-20",
-          "discendenti-21",
-          "discendenti-22"
         ]
       },
       {
@@ -803,6 +1526,65 @@
           "discendenti-35",
           "discendenti-36",
           "discendenti-37"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-6",
+          "discendenti-7"
+        ],
+        "children": [
+          "discendenti-22",
+          "discendenti-21",
+          "discendenti-20"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-22",
+          "discendenti-sante-52"
+        ],
+        "children": [
+          "discendenti-sante-54",
+          "discendenti-sante-27"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-sante-54",
+          "discendenti-sante-68"
+        ],
+        "children": [
+          "discendenti-sante-13",
+          "discendenti-sante-7"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-21",
+          "discendenti-sante-24"
+        ],
+        "children": [
+          "discendenti-sante-57"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-sante-57",
+          "discendenti-sante-72"
+        ],
+        "children": [
+          "discendenti-sante-66"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-20",
+          "discendenti-sante-69"
+        ],
+        "children": [
+          "discendenti-sante-50",
+          "discendenti-sante-12"
         ]
       }
     ]

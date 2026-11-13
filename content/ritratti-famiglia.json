@@ -1,0 +1,2247 @@
+[
+  {
+    "id": "family-0",
+    "name": "Francesco Paolo Martinelli",
+    "text": "Francesco Paolo\nMartinelli\nNascita 12 MAR 1803\nNapoli\nDecesso 4 JAN 1885 (81a 9m\n23g)\nY\nMonopoli",
+    "box": [
+      2981.599,
+      3252.8989999999994,
+      3161.599,
+      3668.3989999999994
+    ],
+    "record_name": "Francesco Paolo Martinelli",
+    "birth": "12 marzo 1803",
+    "death": "4 gennaio 1885",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-6"
+    ]
+  },
+  {
+    "id": "family-1",
+    "name": "Susanna Martucci",
+    "text": "Susanna Martucci\n(Fortuna)\nNascita 31 MAR 1958\nVerona\nMatrimonio\nGianni Fortuna",
+    "box": [
+      3841.599,
+      5413.898999999999,
+      4021.599,
+      5808.398999999999
+    ],
+    "record_name": "Susanna Martucci (Fortuna)",
+    "birth": "31 marzo 1958",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-1.webp",
+    "photo_full": "assets/ritratti-famiglia/family-1-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-16"
+    ]
+  },
+  {
+    "id": "family-2",
+    "name": "Marcella Tortora",
+    "text": "Marcella Tortora\nNascita 13/2/80\nClearwater, Florida, USA",
+    "box": [
+      1104.099,
+      5973.398999999999,
+      1284.099,
+      6321.898999999999
+    ],
+    "record_name": "Marcella Tortora",
+    "birth": "13/2/80",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "family-3",
+    "name": "Federico Mazzi",
+    "text": "Federico Mazzi\nNascita 30 AUG 1993\nverona",
+    "box": [
+      7226.599,
+      5973.398999999999,
+      7406.599,
+      6321.898999999999
+    ],
+    "record_name": "Federico Mazzi",
+    "birth": "30 agosto 1993",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-3.webp",
+    "photo_full": "assets/ritratti-famiglia/family-3-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-32"
+    ]
+  },
+  {
+    "id": "family-4",
+    "name": "Giacomo Galletti",
+    "text": "Giacomo Galletti",
+    "box": [
+      3119.099,
+      5973.398999999999,
+      3299.099,
+      6287.898999999999
+    ],
+    "record_name": "Giacomo Galletti",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-4.webp",
+    "photo_full": "assets/ritratti-famiglia/family-4-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": []
+  },
+  {
+    "id": "family-5",
+    "name": "Sante Martinelli",
+    "text": "Sante Martinelli\nNascita 13 FEB 1922\nPeschiera del Garda\nMatrimonio\nInes Ardoino\nDecesso 17 NOV 1995 (73a 9m\n4g)\nY",
+    "box": [
+      4895.349,
+      4807.398999999999,
+      5075.349,
+      5219.898999999999
+    ],
+    "record_name": "Sante Martinelli",
+    "birth": "13 febbraio 1922",
+    "death": "17 novembre 1995",
+    "deceased_recorded": true,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-5.webp",
+    "photo_full": "assets/ritratti-famiglia/family-5-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-6"
+    ]
+  },
+  {
+    "id": "family-6",
+    "name": "Vera Martinelli",
+    "text": "Vera Martinelli\n(Martucci)\nMatrimonio\nCarlo Martucci",
+    "box": [
+      3236.599,
+      4807.398999999999,
+      3416.599,
+      5175.898999999999
+    ],
+    "record_name": "Vera Martinelli (Martucci)",
+    "birth": "1921",
+    "death": "2020",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-6.webp",
+    "photo_full": "assets/ritratti-famiglia/family-6-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-4"
+    ]
+  },
+  {
+    "id": "family-7",
+    "name": "Mia Benini Martinelli",
+    "text": "Mia Benini Martinelli\nNascita 30 MAR 2012",
+    "box": [
+      4879.099,
+      6497.898999999999,
+      5059.099,
+      6837.398999999999
+    ],
+    "record_name": "Mia Benini Martinelli",
+    "birth": "30 marzo 2012",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-7"
+    ]
+  },
+  {
+    "id": "family-8",
+    "name": "Gianni Fortuna",
+    "text": "Gianni Fortuna\nNascita 8 APR 1959\nVicenza\nMatrimonio\nSusanna Martucci",
+    "box": [
+      4036.599,
+      5423.898999999999,
+      4216.599,
+      5798.398999999999
+    ],
+    "record_name": "Gianni Fortuna",
+    "birth": "8 aprile 1959",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-8.webp",
+    "photo_full": "assets/ritratti-famiglia/family-8-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-17"
+    ]
+  },
+  {
+    "id": "family-9",
+    "name": "Giulia Fortuna",
+    "text": "Giulia Fortuna\nNascita 29 JUN 1992\nVicenza",
+    "box": [
+      3841.599,
+      5973.398999999999,
+      4021.599,
+      6321.898999999999
+    ],
+    "record_name": "Giulia Fortuna",
+    "birth": "29 giugno 1992",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-9.webp",
+    "photo_full": "assets/ritratti-famiglia/family-9-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-35"
+    ]
+  },
+  {
+    "id": "family-10",
+    "name": "Davide Tortora",
+    "text": "Davide Tortora\nNascita 25/9/93",
+    "box": [
+      1729.099,
+      5973.398999999999,
+      1909.099,
+      6312.898999999999
+    ],
+    "record_name": "Davide Tortora",
+    "birth": "25/9/93",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "family-11",
+    "name": "Loletta Calenda",
+    "text": "Loletta Calenda\nNascita 20/08/1941\nAsmara, Eritrea",
+    "box": [
+      2229.099,
+      5413.898999999999,
+      2409.099,
+      5762.398999999999
+    ],
+    "record_name": "Loletta Calenda",
+    "birth": "20/08/1941",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Loletta Tortora"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-11.webp",
+    "photo_full": "assets/ritratti-famiglia/family-11-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-23"
+    ]
+  },
+  {
+    "id": "family-12",
+    "name": "Federico Martinelli",
+    "text": "Federico Martinelli\nNascita 26 MAR 1983\nVerona",
+    "box": [
+      5886.599,
+      5973.398999999999,
+      6066.599,
+      6321.898999999999
+    ],
+    "record_name": "Federico Martinelli",
+    "birth": "26 marzo 1983",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-12.webp",
+    "photo_full": "assets/ritratti-famiglia/family-12-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-sante-12"
+    ]
+  },
+  {
+    "id": "family-13",
+    "name": "Carlo Benini Martinelli",
+    "text": "Carlo Benini Martinelli\nNascita 20 OCT 2010\nverona",
+    "box": [
+      4684.099,
+      6497.898999999999,
+      4864.099,
+      6846.398999999999
+    ],
+    "record_name": "Carlo Benini Martinelli",
+    "birth": "20 ottobre 2010",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-13"
+    ]
+  },
+  {
+    "id": "family-14",
+    "name": "Francesca Romana Colussi",
+    "text": "Francesca Romana\nColussi\nNascita 01/04/1973\nverona",
+    "box": [
+      2209.099,
+      5973.398999999999,
+      2389.099,
+      6341.898999999999
+    ],
+    "record_name": "Francesca Romana Colussi",
+    "birth": "01/04/1973",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-14.webp",
+    "photo_full": "assets/ritratti-famiglia/family-14-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-15",
+    "name": "Laura Uribe",
+    "text": "Laura Uribe (Tortora)\nNascita 10/11/52\nCartagena, Colombia",
+    "box": [
+      1006.599,
+      5426.898999999999,
+      1186.599,
+      5775.398999999999
+    ],
+    "record_name": "Laura Uribe (Tortora)",
+    "birth": "10/11/52",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-15.webp",
+    "photo_full": "assets/ritratti-famiglia/family-15-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-16",
+    "name": "Stefano Tortora",
+    "text": "Stefano Tortora",
+    "box": [
+      284.099,
+      5413.898999999999,
+      464.099,
+      5728.398999999999
+    ],
+    "record_name": "Stefano Tortora",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-16.webp",
+    "photo_full": "assets/ritratti-famiglia/family-16-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-24"
+    ]
+  },
+  {
+    "id": "family-17",
+    "name": "Anna Carolina Tortora",
+    "text": "Anna Carolina Tortora\nNascita 30/9/77\nOttawa, Canada",
+    "box": [
+      714.099,
+      5973.398999999999,
+      894.099,
+      6321.898999999999
+    ],
+    "record_name": "Anna Carolina Tortora",
+    "birth": "30/9/77",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-17.webp",
+    "photo_full": "assets/ritratti-famiglia/family-17-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-18",
+    "name": "Enrico Martinelli",
+    "text": "Enrico Martinelli\nMatrimonio\nAlessandra Corbelli\nDecesso 18 APR 2017\nY\nRimini\nSepoltura\nAvesa (Verona)",
+    "box": [
+      4586.599,
+      5413.898999999999,
+      4766.599,
+      5823.398999999999
+    ],
+    "record_name": "Enrico Martinelli",
+    "birth": "",
+    "death": "18 aprile 2017",
+    "deceased_recorded": true,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-18.webp",
+    "photo_full": "assets/ritratti-famiglia/family-18-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-22"
+    ]
+  },
+  {
+    "id": "family-19",
+    "name": "Ludovica Colussi",
+    "text": "Ludovica Colussi\nNascita 26/05/1977\nVerona",
+    "box": [
+      2639.099,
+      5973.398999999999,
+      2819.099,
+      6321.898999999999
+    ],
+    "record_name": "Ludovica Colussi",
+    "birth": "26/05/1977",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-19.webp",
+    "photo_full": "assets/ritratti-famiglia/family-19-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-20",
+    "name": "Patrizia Martucci",
+    "text": "Patrizia Martucci\n(Galletti)\nNascita\nverona\nMatrimonio\nTullo Galletti",
+    "box": [
+      3021.599,
+      5413.898999999999,
+      3201.599,
+      5808.398999999999
+    ],
+    "record_name": "Patrizia Martucci (Galletti)",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Pucci"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-20.webp",
+    "photo_full": "assets/ritratti-famiglia/family-20-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-19"
+    ]
+  },
+  {
+    "id": "family-21",
+    "name": "Eros Mazzi",
+    "text": "Eros Mazzi\nNascita JAN 1925\nMatrimonio\nGrazia Martinelli\nverona\nDecesso 28 OCT 1994 (69a 8m\n28g)\nY\nIncidente\nverona\nSepoltura\nLugagnano di Verona",
+    "box": [
+      6699.099,
+      4780.898999999999,
+      6879.099,
+      5237.398999999999
+    ],
+    "record_name": "Eros Mazzi",
+    "birth": "gennaio 1925",
+    "death": "28 ottobre 1994",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-21.webp",
+    "photo_full": "assets/ritratti-famiglia/family-21-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-3"
+    ]
+  },
+  {
+    "id": "family-22",
+    "name": "Margherita Mazzi",
+    "text": "Margherita Mazzi\nNascita 3 JUL 1997\nVerona",
+    "box": [
+      6991.599,
+      5973.398999999999,
+      7171.599,
+      6321.898999999999
+    ],
+    "record_name": "Margherita Mazzi",
+    "birth": "3 luglio 1997",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Maggie"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-22.webp",
+    "photo_full": "assets/ritratti-famiglia/family-22-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-31"
+    ]
+  },
+  {
+    "id": "family-23",
+    "name": "Annamaria Martinelli",
+    "text": "Annamaria Martinelli\n(Tortora)\nMatrimonio\nEnrico Calenda\nMatrimonio\nMario Tortora\nDecesso\nY",
+    "box": [
+      714.099,
+      4807.398999999999,
+      894.099,
+      5227.898999999999
+    ],
+    "record_name": "Annamaria Martinelli (Tortora)",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Mannina",
+      "Anna"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-23.webp",
+    "photo_full": "assets/ritratti-famiglia/family-23-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-8"
+    ]
+  },
+  {
+    "id": "family-24",
+    "name": "Tiziana Alvari",
+    "text": "Tiziana Alvari\nMatrimonio\nRoberto Martinelli",
+    "box": [
+      5261.599,
+      5413.898999999999,
+      5441.599,
+      5762.398999999999
+    ],
+    "record_name": "Tiziana Alvari",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-24.webp",
+    "photo_full": "assets/ritratti-famiglia/family-24-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-sante-24"
+    ]
+  },
+  {
+    "id": "family-25",
+    "name": "Rosa Pizzingroia",
+    "text": "Rosa Pizzingroia\nDecesso\nY",
+    "box": [
+      2884.099,
+      1639.3989999999994,
+      3064.099,
+      1987.8989999999994
+    ],
+    "record_name": "Rosa Pizzingroia",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-1"
+    ]
+  },
+  {
+    "id": "family-26",
+    "name": "Paolo Mazzi",
+    "text": "Paolo Mazzi\nNascita 1959\nverona\nMatrimonio 26 MAY 1990 (30a\n10m 26g)\nRita Colantonio\nVerona",
+    "box": [
+      6699.099,
+      5413.898999999999,
+      6879.099,
+      5809.398999999999
+    ],
+    "record_name": "Paolo Mazzi",
+    "birth": "1959",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-26.webp",
+    "photo_full": "assets/ritratti-famiglia/family-26-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-12"
+    ]
+  },
+  {
+    "id": "family-27",
+    "name": "Andrea Martinelli",
+    "text": "Andrea Martinelli\nNascita 17 DEC 1985\nverona",
+    "box": [
+      4976.599,
+      5973.398999999999,
+      5156.599,
+      6321.898999999999
+    ],
+    "record_name": "Andrea Martinelli",
+    "birth": "17 dicembre 1985",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-27"
+    ]
+  },
+  {
+    "id": "family-28",
+    "name": "Nicola Mauro",
+    "text": "Nicola Mauro\nMatrimonio\nRossella Martucci",
+    "box": [
+      3606.599,
+      5436.898999999999,
+      3786.599,
+      5785.398999999999
+    ],
+    "record_name": "Nicola Mauro",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-28.webp",
+    "photo_full": "assets/ritratti-famiglia/family-28-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": []
+  },
+  {
+    "id": "family-29",
+    "name": "Gaia Lainez",
+    "text": "Gaia Lainez\nNascita 19/08/2018",
+    "box": [
+      2931.599,
+      6497.898999999999,
+      3111.599,
+      6837.398999999999
+    ],
+    "record_name": "Gaia Lainez",
+    "birth": "19/08/2018",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "family-30",
+    "name": "Camilla Mazzi",
+    "text": "Camilla Mazzi\nNascita 16 SEP 1993\nverona",
+    "box": [
+      6796.599,
+      5973.398999999999,
+      6976.599,
+      6321.898999999999
+    ],
+    "record_name": "Camilla Mazzi",
+    "birth": "16 settembre 1993",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Cami"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-30.webp",
+    "photo_full": "assets/ritratti-famiglia/family-30-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-30"
+    ]
+  },
+  {
+    "id": "family-31",
+    "name": "Laura Emilia Tortora",
+    "text": "Laura Emilia Tortora\nNascita 5/11/85\nPaterson, New Jersey, USA",
+    "box": [
+      1299.099,
+      5973.398999999999,
+      1479.099,
+      6321.898999999999
+    ],
+    "record_name": "Laura Emilia Tortora",
+    "birth": "5/11/85",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-31.webp",
+    "photo_full": "assets/ritratti-famiglia/family-31-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-32",
+    "name": "Sante Martinelli",
+    "text": "Sante Martinelli\nNascita 2 APR 1865\nMonopoli\nDecesso\nY",
+    "box": [
+      3124.099,
+      3818.3989999999994,
+      3304.099,
+      4197.398999999999
+    ],
+    "record_name": "Sante Martinelli",
+    "birth": "2 aprile 1865",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-32.webp",
+    "photo_full": "assets/ritratti-famiglia/family-32-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [
+      "antenati-8"
+    ]
+  },
+  {
+    "id": "family-33",
+    "name": "Eleonora Indelli",
+    "text": "Eleonora Indelli\nDecesso\nY",
+    "box": [
+      2981.599,
+      2172.8989999999994,
+      3161.599,
+      2521.3989999999994
+    ],
+    "record_name": "Eleonora Indelli",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-3"
+    ]
+  },
+  {
+    "id": "family-34",
+    "name": "Giovanni Martinelli",
+    "text": "Giovanni Martinelli\nMatrimonio\nLina Masoni\nDecesso\nY",
+    "box": [
+      3414.099,
+      4282.898999999999,
+      3594.099,
+      4657.398999999999
+    ],
+    "record_name": "Giovanni Martinelli",
+    "birth": "23 giugno 1882",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-34.webp",
+    "photo_full": "assets/ritratti-famiglia/family-34-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [
+      "antenati-10",
+      "discendenti-0"
+    ]
+  },
+  {
+    "id": "family-35",
+    "name": "Ines Ardoino",
+    "text": "Ines Ardoino\n(Martinelli)\nNascita 28 SEP 1921\nMatrimonio\nSante Martinelli\nDecesso\nY",
+    "box": [
+      5090.349,
+      4807.898999999999,
+      5270.349,
+      5219.398999999999
+    ],
+    "record_name": "Ines Ardoino (Martinelli)",
+    "birth": "28 settembre 1921",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-35.webp",
+    "photo_full": "assets/ritratti-famiglia/family-35-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-7"
+    ]
+  },
+  {
+    "id": "family-36",
+    "name": "Rita Colantonio",
+    "text": "Rita Colantonio (Mazzi)\nNascita 24 FEB 1964\nPescara\nMatrimonio 26 MAY 1990 (26a\n3m 2g)\nPaolo Mazzi\nVerona",
+    "box": [
+      6894.099,
+      5413.898999999999,
+      7074.099,
+      5809.398999999999
+    ],
+    "record_name": "Rita Colantonio (Mazzi)",
+    "birth": "24 febbraio 1964",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-36.webp",
+    "photo_full": "assets/ritratti-famiglia/family-36-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-13"
+    ]
+  },
+  {
+    "id": "family-37",
+    "name": "Benedetta Noja",
+    "text": "Benedetta Noja\n(Martinelli)\nNascita\nMola\nDecesso 1830\nY",
+    "box": [
+      3079.099,
+      2708.3989999999994,
+      3259.099,
+      3102.8989999999994
+    ],
+    "record_name": "Benedetta Noja (Martinelli)",
+    "birth": "",
+    "death": "1830",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-5"
+    ]
+  },
+  {
+    "id": "family-38",
+    "name": "Alberto Mazzi",
+    "text": "Alberto Mazzi\nNascita 1 OCT 1963\nverona\nMatrimonio\nCarla Tomatis",
+    "box": [
+      7226.599,
+      5413.898999999999,
+      7406.599,
+      5788.398999999999
+    ],
+    "record_name": "Alberto Mazzi",
+    "birth": "1 ottobre 1963",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-38.webp",
+    "photo_full": "assets/ritratti-famiglia/family-38-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-14"
+    ]
+  },
+  {
+    "id": "family-39",
+    "name": "Matteo Mauro Scuriatti",
+    "text": "Matteo Mauro Scuriatti\nNascita 7/10/17\nLondra, Regno Unito",
+    "box": [
+      909.099,
+      6497.898999999999,
+      1089.099,
+      6846.398999999999
+    ],
+    "record_name": "Matteo Mauro Scuriatti",
+    "birth": "7/10/17",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-39.webp",
+    "photo_full": "assets/ritratti-famiglia/family-39-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-40",
+    "name": "Milo Mazzi",
+    "text": "Milo Mazzi\nNascita 16 NOV 2006\nverona",
+    "box": [
+      7616.599,
+      5973.398999999999,
+      7796.599,
+      6321.898999999999
+    ],
+    "record_name": "Milo Mazzi",
+    "birth": "16 novembre 2006",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-40.webp",
+    "photo_full": "assets/ritratti-famiglia/family-40-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-34"
+    ]
+  },
+  {
+    "id": "family-41",
+    "name": "Stefano Mazzi",
+    "text": "Stefano Mazzi\nNascita 10 JUL 1957\nMatrimonio\nGiulia Bolla",
+    "box": [
+      6171.599,
+      5413.898999999999,
+      6351.599,
+      5779.398999999999
+    ],
+    "record_name": "Stefano Mazzi",
+    "birth": "10 luglio 1957",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-41.webp",
+    "photo_full": "assets/ritratti-famiglia/family-41-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-10"
+    ]
+  },
+  {
+    "id": "family-42",
+    "name": "Luca Scuriatti",
+    "text": "Luca Scuriatti\nNascita 2/10/73\nRoma, Italia",
+    "box": [
+      909.099,
+      5973.398999999999,
+      1089.099,
+      6321.898999999999
+    ],
+    "record_name": "Luca Scuriatti",
+    "birth": "2/10/73",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-42.webp",
+    "photo_full": "assets/ritratti-famiglia/family-42-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-43",
+    "name": "Fabio Colussi",
+    "text": "Fabio Colussi",
+    "box": [
+      2424.099,
+      5430.898999999999,
+      2604.099,
+      5745.398999999999
+    ],
+    "record_name": "Fabio Colussi",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-43.webp",
+    "photo_full": "assets/ritratti-famiglia/family-43-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-44",
+    "name": "Andrea Mecozzi",
+    "text": "Andrea Mecozzi",
+    "box": [
+      2404.099,
+      6000.398999999999,
+      2584.099,
+      6314.898999999999
+    ],
+    "record_name": "Andrea Mecozzi",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-44.webp",
+    "photo_full": "assets/ritratti-famiglia/family-44-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-45",
+    "name": "Rossella Martucci",
+    "text": "Rossella Martucci\n(Mauro)\nNascita\nverona\nMatrimonio\nNicola Mauro",
+    "box": [
+      3411.599,
+      5413.898999999999,
+      3591.599,
+      5808.398999999999
+    ],
+    "record_name": "Rossella Martucci (Mauro)",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-45.webp",
+    "photo_full": "assets/ritratti-famiglia/family-45-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-18"
+    ]
+  },
+  {
+    "id": "family-46",
+    "name": "Alessandro Fortuna",
+    "text": "Alessandro Fortuna\nNascita 4 MAR 1994\nVicenza",
+    "box": [
+      4036.599,
+      5973.398999999999,
+      4216.599,
+      6321.898999999999
+    ],
+    "record_name": "Alessandro Fortuna",
+    "birth": "4 marzo 1994",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-46.webp",
+    "photo_full": "assets/ritratti-famiglia/family-46-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-36"
+    ]
+  },
+  {
+    "id": "family-47",
+    "name": "Niccolò Tortora",
+    "text": "Niccolò Tortora\nNascita 30/5/95",
+    "box": [
+      1924.099,
+      5973.398999999999,
+      2104.099,
+      6312.898999999999
+    ],
+    "record_name": "Niccolò Tortora",
+    "birth": "30/5/95",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-47.webp",
+    "photo_full": "assets/ritratti-famiglia/family-47-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-48",
+    "name": "Marcello Galletti",
+    "text": "Marcello Galletti",
+    "box": [
+      3314.099,
+      5973.398999999999,
+      3494.099,
+      6287.898999999999
+    ],
+    "record_name": "Marcello Galletti",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-48.webp",
+    "photo_full": "assets/ritratti-famiglia/family-48-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": []
+  },
+  {
+    "id": "family-49",
+    "name": "Mario Tortora",
+    "text": "Mario Tortora\nMatrimonio\nAnnamaria Martinelli\nDecesso\nY",
+    "box": [
+      909.099,
+      4830.398999999999,
+      1089.099,
+      5204.898999999999
+    ],
+    "record_name": "Mario Tortora",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-49.webp",
+    "photo_full": "assets/ritratti-famiglia/family-49-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-9"
+    ]
+  },
+  {
+    "id": "family-50",
+    "name": "Edoardo Martinelli",
+    "text": "Edoardo Martinelli\nNascita 26 JAN 1982",
+    "box": [
+      5691.599,
+      5973.398999999999,
+      5871.599,
+      6312.898999999999
+    ],
+    "record_name": "Edoardo Martinelli",
+    "birth": "26 gennaio 1982",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-50"
+    ]
+  },
+  {
+    "id": "family-51",
+    "name": "Marianna Antonelli",
+    "text": "Marianna Antonelli",
+    "box": [
+      3414.099,
+      3850.6489999999994,
+      3594.099,
+      4165.148999999999
+    ],
+    "record_name": "Marianna Antonelli",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-51.webp",
+    "photo_full": "assets/ritratti-famiglia/family-51-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [
+      "antenati-9"
+    ]
+  },
+  {
+    "id": "family-52",
+    "name": "Alessandra Corbelli",
+    "text": "Alessandra Corbelli\nMatrimonio\nEnrico Martinelli",
+    "box": [
+      4781.599,
+      5444.398999999999,
+      4961.599,
+      5792.898999999999
+    ],
+    "record_name": "Alessandra Corbelli",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-52"
+    ]
+  },
+  {
+    "id": "family-53",
+    "name": "Clemente Maria Martinelli",
+    "text": "Clemente Maria\nMartinelli\nNascita 1778\nMonopoli\nDecesso 1836 (58a)\nY",
+    "box": [
+      2884.099,
+      2708.3989999999994,
+      3064.099,
+      3102.8989999999994
+    ],
+    "record_name": "Clemente Maria Martinelli",
+    "birth": "1778",
+    "death": "1836",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-4"
+    ]
+  },
+  {
+    "id": "family-54",
+    "name": "Valentina Martinelli",
+    "text": "Valentina Martinelli\nNascita 9 OCT 1978\nverona\nMatrimonio\nStefano Benini",
+    "box": [
+      4586.599,
+      5973.398999999999,
+      4766.599,
+      6347.898999999999
+    ],
+    "record_name": "Valentina Martinelli",
+    "birth": "9 ottobre 1978",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-54"
+    ]
+  },
+  {
+    "id": "family-55",
+    "name": "Alberto Mazzi",
+    "text": "Alberto Mazzi\nNascita 3 FEB 1991\nverona",
+    "box": [
+      6366.599,
+      5973.398999999999,
+      6546.599,
+      6321.898999999999
+    ],
+    "record_name": "Alberto Mazzi",
+    "birth": "3 febbraio 1991",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-55.webp",
+    "photo_full": "assets/ritratti-famiglia/family-55-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-29"
+    ]
+  },
+  {
+    "id": "family-56",
+    "name": "Tullo Galletti",
+    "text": "Tullo Galletti\nMatrimonio\nPatrizia Martucci",
+    "box": [
+      3216.599,
+      5436.898999999999,
+      3396.599,
+      5785.398999999999
+    ],
+    "record_name": "Tullo Galletti",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-56.webp",
+    "photo_full": "assets/ritratti-famiglia/family-56-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": []
+  },
+  {
+    "id": "family-57",
+    "name": "Paola Martinelli",
+    "text": "Paola Martinelli (Alvari)\nMatrimonio\nFelice Bonaventura",
+    "box": [
+      5261.599,
+      5973.398999999999,
+      5441.599,
+      6321.898999999999
+    ],
+    "record_name": "Paola Martinelli (Alvari)",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-57.webp",
+    "photo_full": "assets/ritratti-famiglia/family-57-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-sante-57"
+    ]
+  },
+  {
+    "id": "family-58",
+    "name": "Enrico Calenda",
+    "text": "Enrico Calenda\nNascita 17/12/1914\nNapoli\nMatrimonio\nAnnamaria Martinelli\nDecesso 25/08/1941 (26a 8m\n8g)\nGuerra d'Etiopia\nUolkefit, Etiopia",
+    "box": [
+      2229.099,
+      4806.898999999999,
+      2409.099,
+      5228.398999999999
+    ],
+    "record_name": "Enrico Calenda",
+    "birth": "17/12/1914",
+    "death": "25/08/1941",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-58.webp",
+    "photo_full": "assets/ritratti-famiglia/family-58-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-59",
+    "name": "Alberta Mazzi",
+    "text": "Alberta Mazzi\nNascita 20 SEP 1996\nverona",
+    "box": [
+      7421.599,
+      5973.398999999999,
+      7601.599,
+      6321.898999999999
+    ],
+    "record_name": "Alberta Mazzi",
+    "birth": "20 settembre 1996",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-59.webp",
+    "photo_full": "assets/ritratti-famiglia/family-59-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-33"
+    ]
+  },
+  {
+    "id": "family-60",
+    "name": "Flavia Mecozzi",
+    "text": "Flavia Mecozzi\nNascita 11/10/2016",
+    "box": [
+      2404.099,
+      6497.898999999999,
+      2584.099,
+      6837.398999999999
+    ],
+    "record_name": "Flavia Mecozzi",
+    "birth": "11/10/2016",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "family-61",
+    "name": "Andrea Tortora",
+    "text": "Andrea Tortora\nNascita 29/5/58\nMatrimonio\nLucia Inviso",
+    "box": [
+      1534.099,
+      5413.898999999999,
+      1714.099,
+      5779.398999999999
+    ],
+    "record_name": "Andrea Tortora",
+    "birth": "29/5/58",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-61.webp",
+    "photo_full": "assets/ritratti-famiglia/family-61-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-26"
+    ]
+  },
+  {
+    "id": "family-62",
+    "name": "Francesco Paolo Martinelli",
+    "text": "Francesco Paolo\nMartinelli\nNascita 1755\nDecesso 1818 (63a)\nY",
+    "box": [
+      2786.599,
+      2172.8989999999994,
+      2966.599,
+      2558.3989999999994
+    ],
+    "record_name": "Francesco Paolo Martinelli",
+    "birth": "1755",
+    "death": "1818",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-2"
+    ]
+  },
+  {
+    "id": "family-63",
+    "name": "Carla Tomatis",
+    "text": "Carla Tomatis (Mazzi)\nNascita 30 AUG 1964\nverona\nMatrimonio\nAlberto Mazzi",
+    "box": [
+      7421.599,
+      5413.898999999999,
+      7601.599,
+      5788.398999999999
+    ],
+    "record_name": "Carla Tomatis (Mazzi)",
+    "birth": "30 agosto 1964",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-63.webp",
+    "photo_full": "assets/ritratti-famiglia/family-63-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-15"
+    ]
+  },
+  {
+    "id": "family-64",
+    "name": "Alice Fortuna",
+    "text": "Alice Fortuna\nNascita 11 APR 1997\nverona",
+    "box": [
+      4231.599,
+      5973.398999999999,
+      4411.599,
+      6321.898999999999
+    ],
+    "record_name": "Alice Fortuna",
+    "birth": "11 aprile 1997",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-64.webp",
+    "photo_full": "assets/ritratti-famiglia/family-64-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-37"
+    ]
+  },
+  {
+    "id": "family-65",
+    "name": "Pietro Giovanni Martinelli",
+    "text": "Pietro Giovanni\nMartinelli\nNascita 6 DEC 1953\nBussolengo (VR)\nMatrimonio\nGiovanna Recchia",
+    "box": [
+      5594.099,
+      5413.898999999999,
+      5774.099,
+      5808.398999999999
+    ],
+    "record_name": "Pietro Giovanni Martinelli",
+    "birth": "6 dicembre 1953",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Pigi",
+      "Piergiovanni"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-65.webp",
+    "photo_full": "assets/ritratti-famiglia/family-65-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-20"
+    ]
+  },
+  {
+    "id": "family-66",
+    "name": "Sara Bonavolontà Martinelli",
+    "text": "Sara Bonaventura\nMartinelli\nNascita 20 OCT 2016\nTrieste",
+    "box": [
+      5456.599,
+      6497.898999999999,
+      5636.599,
+      6866.398999999999
+    ],
+    "record_name": "Sara Bonaventura Martinelli",
+    "birth": "20 ottobre 2016",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "Cognome verificato nella scheda MyHeritage; nel precedente documento familiare compare Bonaventura.",
+    "photo": "assets/ritratti-famiglia/family-66.webp",
+    "photo_full": "assets/ritratti-famiglia/family-66-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-sante-66"
+    ]
+  },
+  {
+    "id": "family-67",
+    "name": "Lina Masoni",
+    "text": "Lina Masoni\nMatrimonio\nGiovanni Martinelli\nDecesso\nY",
+    "box": [
+      3609.099,
+      4282.898999999999,
+      3789.099,
+      4657.398999999999
+    ],
+    "record_name": "Lina Masoni",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-67.webp",
+    "photo_full": "assets/ritratti-famiglia/family-67-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [
+      "discendenti-1"
+    ]
+  },
+  {
+    "id": "family-68",
+    "name": "Stefano Benini",
+    "text": "Stefano Benini\nNascita 15 DEC 1964\nverona\nMatrimonio\nValentina Martinelli",
+    "box": [
+      4781.599,
+      5973.398999999999,
+      4961.599,
+      6347.898999999999
+    ],
+    "record_name": "Stefano Benini",
+    "birth": "15 dicembre 1964",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-68"
+    ]
+  },
+  {
+    "id": "family-69",
+    "name": "Giovanna Recchia",
+    "text": "Giovanna Recchia\n(Martinelli)\nNascita 1 JUL 1959\nverona\nMatrimonio\nPietro Giovanni Martinelli",
+    "box": [
+      5789.099,
+      5413.898999999999,
+      5969.099,
+      5808.398999999999
+    ],
+    "record_name": "Giovanna Recchia (Martinelli)",
+    "birth": "1 luglio 1959",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "discendenti-sante-69"
+    ]
+  },
+  {
+    "id": "family-70",
+    "name": "Giovanna Limone",
+    "text": "Giovanna Limone\n(Tortora)",
+    "box": [
+      479.099,
+      5403.898999999999,
+      659.099,
+      5738.398999999999
+    ],
+    "record_name": "Giovanna Limone (Tortora)",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-70.webp",
+    "photo_full": "assets/ritratti-famiglia/family-70-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-71",
+    "name": "Carlo Martucci",
+    "text": "Carlo Martucci\nNascita 14 JAN 1914\nNapoli\nMatrimonio\nVera Martinelli\nDecesso MAR 1986 (72a 2m\n16g)\nY\nVerona\nSepoltura\nParona",
+    "box": [
+      3431.599,
+      4767.898999999999,
+      3611.599,
+      5215.398999999999
+    ],
+    "record_name": "Carlo Martucci",
+    "birth": "14 gennaio 1914",
+    "death": "marzo 1986",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-71.webp",
+    "photo_full": "assets/ritratti-famiglia/family-71-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-5"
+    ]
+  },
+  {
+    "id": "family-72",
+    "name": "Felice Bonavolontà",
+    "text": "Felice Bonaventura\nMatrimonio\nPaola Martinelli",
+    "box": [
+      5456.599,
+      5973.398999999999,
+      5636.599,
+      6321.898999999999
+    ],
+    "record_name": "Felice Bonaventura",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "Cognome verificato nella scheda MyHeritage; nel precedente documento familiare compare Bonaventura.",
+    "photo": "assets/ritratti-famiglia/family-72.webp",
+    "photo_full": "assets/ritratti-famiglia/family-72-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-sante-72"
+    ]
+  },
+  {
+    "id": "family-73",
+    "name": "Francesca Antonacci",
+    "text": "Francesca Antonacci\n(Martinelli)\nDecesso 4 APR 1875\nY",
+    "box": [
+      3266.599,
+      3252.8989999999994,
+      3446.599,
+      3621.3989999999994
+    ],
+    "record_name": "Francesca Antonacci (Martinelli)",
+    "birth": "",
+    "death": "4 aprile 1875",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-7"
+    ]
+  },
+  {
+    "id": "family-74",
+    "name": "Mila Lainez",
+    "text": "Mila Lainez\nNascita 06/02/2017",
+    "box": [
+      2736.599,
+      6497.898999999999,
+      2916.599,
+      6837.398999999999
+    ],
+    "record_name": "Mila Lainez",
+    "birth": "06/02/2017",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "family-75",
+    "name": "Francesco Paolo Mazzi",
+    "text": "Francesco Paolo Mazzi\nNascita 29 NOV 1989\nverona",
+    "box": [
+      6171.599,
+      5973.398999999999,
+      6351.599,
+      6321.898999999999
+    ],
+    "record_name": "Francesco Paolo Mazzi",
+    "birth": "29 novembre 1989",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Chicchi"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-75.webp",
+    "photo_full": "assets/ritratti-famiglia/family-75-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-27"
+    ]
+  },
+  {
+    "id": "family-76",
+    "name": "Beatrice Tortora",
+    "text": "Beatrice Tortora",
+    "box": [
+      479.099,
+      5973.398999999999,
+      659.099,
+      6287.898999999999
+    ],
+    "record_name": "Beatrice Tortora",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-76.webp",
+    "photo_full": "assets/ritratti-famiglia/family-76-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-77",
+    "name": "Grazia Martinelli",
+    "text": "Grazia Martinelli\n(Mazzi)\nNascita 24 JUN 1930\nVerona\nMatrimonio\nEros Mazzi\nverona",
+    "box": [
+      6504.099,
+      4807.398999999999,
+      6684.099,
+      5210.898999999999
+    ],
+    "record_name": "Grazia Martinelli (Mazzi)",
+    "birth": "24 giugno 1930",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [
+      "Graziella"
+    ],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-77.webp",
+    "photo_full": "assets/ritratti-famiglia/family-77-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-2"
+    ]
+  },
+  {
+    "id": "family-78",
+    "name": "Marcello Tortora",
+    "text": "Marcello Tortora\nNascita 8/7/54\nDecesso 11/5/97 (42a 10m 3g)\nY\nRoma",
+    "box": [
+      811.599,
+      5413.898999999999,
+      991.599,
+      5788.398999999999
+    ],
+    "record_name": "Marcello Tortora",
+    "birth": "8/7/54",
+    "death": "11/5/97",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare. La data di morte mantiene l’anno a due cifre del documento.",
+    "photo": "assets/ritratti-famiglia/family-78.webp",
+    "photo_full": "assets/ritratti-famiglia/family-78-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-25"
+    ]
+  },
+  {
+    "id": "family-79",
+    "name": "Nacho Lainez",
+    "text": "Nacho Lainez",
+    "box": [
+      2834.099,
+      5990.398999999999,
+      3014.099,
+      6304.898999999999
+    ],
+    "record_name": "Nacho Lainez",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "family-80",
+    "name": "Clemente Martinelli",
+    "text": "Clemente Martinelli\nNascita 1711\nMola\nDecesso 1780 (69a)\nY\nMonopoli",
+    "box": [
+      2689.099,
+      1639.3989999999994,
+      2869.099,
+      2022.8989999999994
+    ],
+    "record_name": "Clemente Martinelli",
+    "birth": "1711",
+    "death": "1780",
+    "deceased_recorded": true,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": [
+      "antenati-0"
+    ]
+  },
+  {
+    "id": "family-81",
+    "name": "Lucia Inviso",
+    "text": "Lucia Inviso (Tortora)\nNascita 5/4/58\nMatrimonio\nAndrea Tortora",
+    "box": [
+      1729.099,
+      5413.898999999999,
+      1909.099,
+      5779.398999999999
+    ],
+    "record_name": "Lucia Inviso (Tortora)",
+    "birth": "5/4/58",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "assets/ritratti-famiglia/family-81.webp",
+    "photo_full": "assets/ritratti-famiglia/family-81-grande.webp",
+    "collection": "Tortora",
+    "tree_ids": []
+  },
+  {
+    "id": "family-82",
+    "name": "Giulia Bolla",
+    "text": "Giulia Bolla (Mazzi)\nNascita 12 FEB 1964\nverona\nMatrimonio\nStefano Mazzi",
+    "box": [
+      6366.599,
+      5409.398999999999,
+      6546.599,
+      5783.898999999999
+    ],
+    "record_name": "Giulia Bolla (Mazzi)",
+    "birth": "12 febbraio 1964",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-82.webp",
+    "photo_full": "assets/ritratti-famiglia/family-82-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-11"
+    ]
+  },
+  {
+    "id": "family-83",
+    "name": "Roberto Martinelli",
+    "text": "Roberto Martinelli\nMatrimonio\nTiziana Alvari",
+    "box": [
+      5066.599,
+      5413.898999999999,
+      5246.599,
+      5762.398999999999
+    ],
+    "record_name": "Roberto Martinelli",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-83.webp",
+    "photo_full": "assets/ritratti-famiglia/family-83-grande.webp",
+    "collection": "Martinelli",
+    "tree_ids": [
+      "discendenti-21"
+    ]
+  },
+  {
+    "id": "family-84",
+    "name": "Alessandro Mazzi",
+    "text": "Alessandro Mazzi\nNascita 3 FEB 1991\nverona",
+    "box": [
+      6561.599,
+      5973.398999999999,
+      6741.599,
+      6321.898999999999
+    ],
+    "record_name": "Alessandro Mazzi",
+    "birth": "3 febbraio 1991",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/family-84.webp",
+    "photo_full": "assets/ritratti-famiglia/family-84-grande.webp",
+    "collection": "Mazzi",
+    "tree_ids": [
+      "discendenti-28"
+    ]
+  },
+  {
+    "id": "family-85",
+    "name": "Jacopo Tortora",
+    "text": "Jacopo Tortora\nNascita 3/4/86",
+    "box": [
+      1534.099,
+      5973.398999999999,
+      1714.099,
+      6312.898999999999
+    ],
+    "record_name": "Jacopo Tortora",
+    "birth": "3/4/86",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source_pdf": "assets/genealogia/famiglia-completa.pdf",
+    "aliases": [],
+    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Albero familiare",
+    "tree_ids": []
+  },
+  {
+    "id": "extra-0",
+    "name": "Adelino Mazzi",
+    "record_name": "Adelino",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "Nome completo verificato su MyHeritage.",
+    "photo": "assets/ritratti-famiglia/extra-0.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-0-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  },
+  {
+    "id": "extra-1",
+    "name": "Amedeo Masoni",
+    "record_name": "Amedeo Masoni",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome riportato sul file dell’archivio familiare.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/extra-1.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-1-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  },
+  {
+    "id": "extra-2",
+    "name": "Emilia Conti",
+    "record_name": "Emilia Conti",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome riportato sul file dell’archivio familiare.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/extra-2.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-2-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  },
+  {
+    "id": "extra-3",
+    "name": "Ester Barlottini",
+    "record_name": "Ester",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": true,
+    "source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "Nome completo verificato su MyHeritage.",
+    "photo": "assets/ritratti-famiglia/extra-3.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-3-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  },
+  {
+    "id": "extra-4",
+    "name": "Camilla Galletti",
+    "record_name": "Camilla Galletti",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome riportato sul file dell’archivio familiare.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/extra-4.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-4-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  },
+  {
+    "id": "extra-5",
+    "name": "Elisabetta Galletti",
+    "record_name": "Elisabetta Galletti",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome riportato sul file dell’archivio familiare.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/extra-5.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-5-grande.webp",
+    "collection": "Martucci",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  },
+  {
+    "id": "extra-6",
+    "name": "Alfredo Martinelli",
+    "record_name": "Alfredo Martinelli",
+    "birth": "",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome riportato sul file dell’archivio familiare.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "assets/ritratti-famiglia/extra-6.webp",
+    "photo_full": "assets/ritratti-famiglia/extra-6-grande.webp",
+    "collection": "Antenati",
+    "tree_ids": [],
+    "text": "",
+    "box": null
+  }
+]

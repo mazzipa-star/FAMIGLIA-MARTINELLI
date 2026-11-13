@@ -114,3 +114,6 @@ apply_cartoline(R)
 
 from layout import apply_layout
 apply_layout(R)
+
+from ritratti import apply_ritratti
+apply_ritratti(R)

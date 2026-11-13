@@ -1,0 +1,982 @@
+[
+  {
+    "id": "family-1",
+    "name": "Susanna Martucci",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/SUSANNA.JPG",
+    "source_sha256": "dc9b6d6e7f55218448f74b09e66e944c5f71f611f907b95277db2a0856fb18b8",
+    "source_dimensions": [
+      359,
+      494
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "31 marzo 1958",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-3",
+    "name": "Federico Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/FEDERICO.jpg",
+    "source_sha256": "b87044de9078fbea2e751f06f8d65ca982ed6b6c971972730f41a5e21a651173",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "30 agosto 1993",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-4",
+    "name": "Giacomo Galletti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/GIACOMO.JPG",
+    "source_sha256": "73320d8a60a961baec80d642d8f633f57c6c810d44261a25488dc813cff486eb",
+    "source_dimensions": [
+      195,
+      243
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-5",
+    "name": "Sante Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/SANTE.JPG",
+    "source_sha256": "3518521e1379a3f58a66c1ff92a9dfa744574c76cc9e3b652a7030732a0f2a56",
+    "source_dimensions": [
+      786,
+      1095
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "13 febbraio 1922",
+    "death": "17 novembre 1995",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-6",
+    "name": "Vera Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/VERA.jpg",
+    "source_sha256": "e648c71b9a7e7cfb3837d51207a6b6b31240058dd1ba719bacffaccc67880013",
+    "source_dimensions": [
+      650,
+      924
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "1921",
+    "death": "2020",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-8",
+    "name": "Gianni Fortuna",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/GIANNI.JPG",
+    "source_sha256": "ad9343caf187de1ca80a5c2af91fc60856fd20f4ec7d2e9c6a8e1b525e1ac507",
+    "source_dimensions": [
+      167,
+      258
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "8 aprile 1959",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-9",
+    "name": "Giulia Fortuna",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/GIULIA.JPG",
+    "source_sha256": "4ecd2fddf48c3470b3902337c678a3d8c3e40a1ea7321819c68870452c0fe0a7",
+    "source_dimensions": [
+      218,
+      308
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "29 giugno 1992",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-11",
+    "name": "Loletta Calenda",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/LOLETTA.JPG",
+    "source_sha256": "4ca01e91e179bf4ca323e5b4e93d04a9fac2cf79e7f797f8d27aaa121cc99a0b",
+    "source_dimensions": [
+      653,
+      783
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "20/08/1941",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-12",
+    "name": "Federico Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/FEDERICO.JPG",
+    "source_sha256": "b9f9de50583fd8c444aeb837a377606325d4f8751b538a45cc191cdb486b67fc",
+    "source_dimensions": [
+      216,
+      280
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "26 marzo 1983",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-14",
+    "name": "Francesca Romana Colussi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/FRANCESCA.JPG",
+    "source_sha256": "13caea2aeb3e524df5a72b5f37cea03710b7c61fcbe32ff682c958b9b00a170c",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "01/04/1973",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-15",
+    "name": "Laura Uribe",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/LAURA URIBE.JPG",
+    "source_sha256": "e3c02f3f7062052f35ba5e006611c9bca13e05c1c39ca49e6f734ca4b643773f",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "10/11/52",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-16",
+    "name": "Stefano Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/STEFANO.jpg",
+    "source_sha256": "910e3b6ff279ddc7cdefb63c21e003419cf6b8805f4316a619ae703ea7eaa9b9",
+    "source_dimensions": [
+      1452,
+      1978
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-17",
+    "name": "Anna Carolina Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/CAROLINA.JPG",
+    "source_sha256": "6bbb450cb26291b33d6a62521aaae73e449b2ddbd40b39dd5b7e719c18d9603c",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "30/9/77",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-18",
+    "name": "Enrico Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/ENRICO.JPG",
+    "source_sha256": "57b0cbbf5ef48b458b3e2686c6ec1d3d46b733cfcff81c26fe0459b5ae9f39ad",
+    "source_dimensions": [
+      2953,
+      3784
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "18 aprile 2017",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-19",
+    "name": "Ludovica Colussi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/LUDOVICA.JPG",
+    "source_sha256": "83b10c5ea3d348d38bfd33a235faaeb99e30d4638292fc12709f71ba799ca7aa",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "26/05/1977",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-20",
+    "name": "Patrizia Martucci",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/PUCCI.JPG",
+    "source_sha256": "399439fa99ef2dbe6c56e441941ed63160c181f8bbebe0b84454e3a7978d8767",
+    "source_dimensions": [
+      269,
+      355
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-21",
+    "name": "Eros Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/EROS.jpg",
+    "source_sha256": "d62bc5c47f673e3ffe51a9331986c657050f58c276e114bb4b8d160995a7b286",
+    "source_dimensions": [
+      812,
+      1174
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "gennaio 1925",
+    "death": "28 ottobre 1994",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-22",
+    "name": "Margherita Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/MAGGIE.jpg",
+    "source_sha256": "08e5beae1d56a075035f018c3032d66ef69f85caa27ceaed8445496c1c18fac2",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "3 luglio 1997",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-23",
+    "name": "Annamaria Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/MANNINA.jpg",
+    "source_sha256": "90886f61ea87568dbefba529abde9a6bec0d6119a317fd6df5780b0df000454b",
+    "source_dimensions": [
+      710,
+      1023
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-24",
+    "name": "Tiziana Alvari",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/TIZIANA.JPG",
+    "source_sha256": "c7fdde980bc99bfa2f94232d1510a26246d73e13cbfdd15fc0b2dd2732646878",
+    "source_dimensions": [
+      1063,
+      1378
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-26",
+    "name": "Paolo Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/PAOLO.jpg",
+    "source_sha256": "e9e43ef081506bd4b051de875f7de8eb01f70f3208f59b3ed5a6c94b5883ed3e",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "1959",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-28",
+    "name": "Nicola Mauro",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/MAURO.JPG",
+    "source_sha256": "1857790d4a99aa6cb7784e21d7b965eed1a65fb353b99072dcfb1bcbf3a21c28",
+    "source_dimensions": [
+      186,
+      241
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-30",
+    "name": "Camilla Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/CAMI.jpg",
+    "source_sha256": "8d1dd45b7ba1f1f1a0a9465c4dab9816d98cc19b6effdba4c26545ba956cba05",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "16 settembre 1993",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-31",
+    "name": "Laura Emilia Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/LAURA EMILIA.JPG",
+    "source_sha256": "d521b66a401e35cc196d7aa185404faa33dd187a8ea00e058e6ff12a8a9ccb1d",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "5/11/85",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-32",
+    "name": "Sante Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/SANTE MARTINELLI1 copia.jpg",
+    "source_sha256": "f0a9f5f1155e92df36099d57eb18ea8a75cf9b4c460aa6b2b849a3e3ef26c84a",
+    "source_dimensions": [
+      2000,
+      2918
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "2 aprile 1865",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-34",
+    "name": "Giovanni Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/TATTARANNO copia.jpg",
+    "source_sha256": "e1400b7962e10967f414225f265ea0179e81f104abf7f63aee704a79bee128d1",
+    "source_dimensions": [
+      2000,
+      2838
+    ],
+    "basis": "Attribuzione a Giovanni Martinelli confermata dalla famiglia il 13 novembre 2026.",
+    "birth": "23 giugno 1882",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-35",
+    "name": "Ines Ardoino",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/INES copia.jpg",
+    "source_sha256": "71a695125561d16887671732f571516c0d5a6292e11a248b1460cbaea629f32c",
+    "source_dimensions": [
+      696,
+      936
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "28 settembre 1921",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-36",
+    "name": "Rita Colantonio",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/RITA.JPG",
+    "source_sha256": "2c341cbe7e776a942fb2f4436b2aac773174c45e8cccded8cbe09602216c4173",
+    "source_dimensions": [
+      681,
+      1024
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "24 febbraio 1964",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-38",
+    "name": "Alberto Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/ALBERTO.jpg",
+    "source_sha256": "8599c4268762936fa44127a91c15a189e1975685819412e2f07df459f29f56e5",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "1 ottobre 1963",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-39",
+    "name": "Matteo Mauro Scuriatti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/MATTEO.JPG",
+    "source_sha256": "fff620cc75392ddfea66ae9781f425bf78e88292b19632b6dc462323ae09b2a4",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "7/10/17",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-40",
+    "name": "Milo Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/MILO.jpg",
+    "source_sha256": "debff93e211d9d6313d007e305072ab8cd8491a428befa574d7c4ae70b8aa361",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "16 novembre 2006",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-41",
+    "name": "Stefano Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/STEFANO.jpg",
+    "source_sha256": "4cdc6869eb807878060bf283189057a2168a57158b8eadf94a7a17181d4d26ee",
+    "source_dimensions": [
+      2296,
+      2880
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "10 luglio 1957",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-42",
+    "name": "Luca Scuriatti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/LUCA SCURIATTI.JPG",
+    "source_sha256": "8775c40defab0d4258c7ec05e46e1371bf393ac8dadebf5ec0b2c60f2ef13cc7",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "2/10/73",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-43",
+    "name": "Fabio Colussi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/fabio.jpg",
+    "source_sha256": "c8389d06b26f1cdcd0b174715e1f01776fa0226ad5b5eb890f8948537257de29",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-44",
+    "name": "Andrea Mecozzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/ANDREA MECOZZI.JPG",
+    "source_sha256": "65a90178b9bbd081c8e583d1da64252e6a9bf782df852ab03e4e1981be4ab051",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-45",
+    "name": "Rossella Martucci",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/ROSSELLA.jpg",
+    "source_sha256": "c6d28dec1640814db2cc82a7ecd2646ff9868cd3b4d44e662b880e98b3c9c013",
+    "source_dimensions": [
+      720,
+      1010
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-46",
+    "name": "Alessandro Fortuna",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/ALESSANDRO.JPG",
+    "source_sha256": "3a1b6af4cff1a633d83317d2776360b79f1ed8461ae2a8d68f3b42476c3b878f",
+    "source_dimensions": [
+      272,
+      362
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "4 marzo 1994",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-47",
+    "name": "Niccolò Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/NICCOLO'.JPG",
+    "source_sha256": "479258142b83bc310053c0e8aed4786c2e1db565fcf83aa81e674d16ee45bffb",
+    "source_dimensions": [
+      234,
+      319
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "30/5/95",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-48",
+    "name": "Marcello Galletti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/MARCELLO.JPG",
+    "source_sha256": "af53b1fc806519815b83c741095f71c16b91a42ba2dbe63b972e67c679f44370",
+    "source_dimensions": [
+      269,
+      342
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-49",
+    "name": "Mario Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/MARIO TORTORA.jpg",
+    "source_sha256": "0a12685215f6358b6b3256027c90751b429df8d3d80db59e888107f9ad854d30",
+    "source_dimensions": [
+      939,
+      1204
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-51",
+    "name": "Marianna Antonelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/MARIANNA ANTONELLI1 copia.jpg",
+    "source_sha256": "108fba3ff7e538447bb7be3b50990c8e15f572ee826d1aa725bda2e65246895c",
+    "source_dimensions": [
+      2000,
+      2637
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-55",
+    "name": "Alberto Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/ALBERTO2.jpg",
+    "source_sha256": "203447d6fba6af09c789df73b499bff6afeddddd98f8ad731e665aeacacb1669",
+    "source_dimensions": [
+      216,
+      280
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "3 febbraio 1991",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-56",
+    "name": "Tullo Galletti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/TULLO.jpg",
+    "source_sha256": "4c049c2886b60699a51075abe541dfb785b1d2a05d076ae86dda0540b7c2d06d",
+    "source_dimensions": [
+      186,
+      241
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-57",
+    "name": "Paola Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/PAOLA.JPG",
+    "source_sha256": "542db1a28e6f949302a6a51cd25875b553aec8022f33c7980b2960aae797446c",
+    "source_dimensions": [
+      216,
+      280
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-58",
+    "name": "Enrico Calenda",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/ENRICO CALENDA.jpg",
+    "source_sha256": "da55935274293d915bdf6b88b2e63884858d3359ac79158acf2c566814995de0",
+    "source_dimensions": [
+      1033,
+      1412
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "17/12/1914",
+    "death": "25/08/1941",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-59",
+    "name": "Alberta Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/ALBERTA.jpg",
+    "source_sha256": "1c55f9fe51f08e73de3b13e1f8ee02907ba7ba01bbe3e6f9e8b4c836b70c6ec9",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "20 settembre 1996",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-61",
+    "name": "Andrea Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/ANDREA.JPG",
+    "source_sha256": "f5668404bc1555e67fb14648733d20f88ddf28a2182dee7009a224b6aff8e1fc",
+    "source_dimensions": [
+      227,
+      309
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "29/5/58",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-63",
+    "name": "Carla Tomatis",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/CARLA.JPG",
+    "source_sha256": "39bd9ca61ad94f30b7e0581370bb29e1aed9be6819d72cd8e00697ae866bc217",
+    "source_dimensions": [
+      216,
+      280
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "30 agosto 1964",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-64",
+    "name": "Alice Fortuna",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/ALICE.jpg",
+    "source_sha256": "878880f3fe0dfbf745660f8d0910ec59f95179a986ab9d1c799b914a62034a23",
+    "source_dimensions": [
+      483,
+      638
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "11 aprile 1997",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-65",
+    "name": "Pietro Giovanni Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/PIGI.JPG",
+    "source_sha256": "79ec29bfc7d1d5a3bc0a5d02c106eea71a72afd75034fe237934899ee8c33ce4",
+    "source_dimensions": [
+      208,
+      309
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "6 dicembre 1953",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-66",
+    "name": "Sara Bonavolontà Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/SARA.JPG",
+    "source_sha256": "53ff304d6b6335064cd92abe448ffa68888d134a0aee2f42eb615910458ee431",
+    "source_dimensions": [
+      1063,
+      1378
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "20 ottobre 2016",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-67",
+    "name": "Lina Masoni",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/LINA copia.jpg",
+    "source_sha256": "46b88393f2c810d6fefae24ce4648c1af35d26a245e1b3603505f6a79a12bb99",
+    "source_dimensions": [
+      3000,
+      3972
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-70",
+    "name": "Giovanna Limone",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/GIOVANNA.JPG",
+    "source_sha256": "b3b24172a3d33e47aea58a830dc76682614b546ed67b28b323a87d14adc16b84",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-71",
+    "name": "Carlo Martucci",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/CARLO2.jpg",
+    "source_sha256": "6818d26d78477834e2856c0f256871d9b7e1414d20cc4a9c7840913563c7ffb2",
+    "source_dimensions": [
+      498,
+      733
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "14 gennaio 1914",
+    "death": "marzo 1986",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-72",
+    "name": "Felice Bonavolontà",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/BONAVENTURA.JPG",
+    "source_sha256": "7f5a4def934ffeca7344c067cc422aa0b63a43e50da694e6c596c43365910a59",
+    "source_dimensions": [
+      1063,
+      1378
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-75",
+    "name": "Francesco Paolo Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/CHICCHI.JPG",
+    "source_sha256": "6d2571e043f7c9902e8d3b1f6d4bdac4fdb46cf5bc77e2e0fd89ea2ee2eb2fca",
+    "source_dimensions": [
+      216,
+      280
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "29 novembre 1989",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-76",
+    "name": "Beatrice Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/BEATRICE.JPG",
+    "source_sha256": "289da7fa01b7bc4f78a2af2c0fa66727c8e4186ae6ce2038c5f14874b16b8cea",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-77",
+    "name": "Grazia Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/GRAZIELLA.jpg",
+    "source_sha256": "26227f7685ef7c5c99653c92a46102918340e80102336430997ef56fe75f9131",
+    "source_dimensions": [
+      741,
+      1168
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "24 giugno 1930",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-78",
+    "name": "Marcello Tortora",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/marcello.jpg",
+    "source_sha256": "4b0b3b2a41cf6148a8cc3d932470055262b4c55a948aa37c8c6161f541425bac",
+    "source_dimensions": [
+      544,
+      724
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "8/7/54",
+    "death": "11/5/97",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-81",
+    "name": "Lucia Inviso",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/TORTORA/LUCIA.JPG",
+    "source_sha256": "fe7e731048ebecdd4cfaeb246268b7dfe85af68fd0774b6b5aa4055051371500",
+    "source_dimensions": [
+      710,
+      1023
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "5/4/58",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-82",
+    "name": "Giulia Bolla",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/GIULIA.jpg",
+    "source_sha256": "1ed7d875e809f247ee7b17a949affc4742bfc96d05a8034ec3fc2410b63b0f2d",
+    "source_dimensions": [
+      1422,
+      1807
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "12 febbraio 1964",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "family-83",
+    "name": "Roberto Martinelli",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTINELLI/ROBERTO.JPG",
+    "source_sha256": "5a486f647cd05abef3a4133ec0bd6bcbf84c26a2d1367b21240530b9d4c73284",
+    "source_dimensions": [
+      116,
+      183
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "family-84",
+    "name": "Alessandro Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MAZZI/ALESSANDRO.JPG",
+    "source_sha256": "641f25303e47610e33c2fa2b6a5f3b49fac0afb806e0ea23fbaeb378bbcdf0b9",
+    "source_dimensions": [
+      216,
+      280
+    ],
+    "basis": "Ritratto abbinato alla stessa immagine nella scheda nominativa dell’albero familiare.",
+    "birth": "3 febbraio 1991",
+    "death": "",
+    "date_source": "Albero familiare «La Famiglia Martinelli.pdf»"
+  },
+  {
+    "id": "extra-0",
+    "name": "Adelino Mazzi",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/ADELINO copia.jpg",
+    "source_sha256": "e3a12a3dd77f1396361bc079062bff701e6ed34ea754055f42925d4ef027cf78",
+    "source_dimensions": [
+      915,
+      1099
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "extra-1",
+    "name": "Amedeo Masoni",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/AMEDEO MASONI copia.jpg",
+    "source_sha256": "71eddff61c060a6ff41330285288e365fc0ea624e542473e4941ab513b9e2856",
+    "source_dimensions": [
+      5530,
+      7895
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Nome riportato sul file dell’archivio familiare."
+  },
+  {
+    "id": "extra-2",
+    "name": "Emilia Conti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/EMILIA CONTI copia.jpg",
+    "source_sha256": "7c834ff7e7711d3d2740bd086b00d384711c758f2442641ecc2dc4bd9e9206b6",
+    "source_dimensions": [
+      3000,
+      4649
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Nome riportato sul file dell’archivio familiare."
+  },
+  {
+    "id": "extra-3",
+    "name": "Ester Barlottini",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/ANTENATI/ESTER2 copia.JPG",
+    "source_sha256": "4af0a94a45c5b79be76feaad70bc7a55a6071218861236062ac90e0b2d002632",
+    "source_dimensions": [
+      1303,
+      1711
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026."
+  },
+  {
+    "id": "extra-4",
+    "name": "Camilla Galletti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/CAMILLA GALLETTI.JPG",
+    "source_sha256": "68924f41eea28b1bee0f21cd443372b2c146841ba97a36df4375235fd345a2c5",
+    "source_dimensions": [
+      960,
+      1403
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Nome riportato sul file dell’archivio familiare."
+  },
+  {
+    "id": "extra-5",
+    "name": "Elisabetta Galletti",
+    "source_file": "FOTO/IMMAGINI PER GENEALOGIA/MARTUCCI/ELISABETTA GALLETTI.jpg",
+    "source_sha256": "b698654b8af144f639bc62fbe4f9f31a36d082985b773b391f0f9ff08bba0f7b",
+    "source_dimensions": [
+      960,
+      1403
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Nome riportato sul file dell’archivio familiare."
+  },
+  {
+    "id": "extra-6",
+    "name": "Alfredo Martinelli",
+    "source_file": "FOTO/ANTENATI/ALFREDO MARTINELLI- ZIO SANTE MARTINELLI.jpg",
+    "source_sha256": "7672c0ec209603f4bfbb3a0cc709c3585bfc3b5c4547fa7fe226d62eac3cb1a7",
+    "source_dimensions": [
+      900,
+      1286
+    ],
+    "basis": "Nome esplicito del file; ulteriori dati non indicati.",
+    "birth": "",
+    "death": "",
+    "date_source": "Nome riportato sul file dell’archivio familiare."
+  }
+]
