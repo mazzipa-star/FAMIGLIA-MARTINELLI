@@ -13,7 +13,7 @@ def apply_deposit(root):
  if enabled and url and not cfg.get('notification_verified',False):raise ValueError('Verificare le notifiche del modulo prima di pubblicarlo.')
  if enabled and not form_ready and not email:raise ValueError('Per pubblicare la pagina serve un modulo attivo o un indirizzo email.')
  if form_ready and provider=='google':
-  primary='<p class="eyebrow">CON UN ACCOUNT GOOGLE</p><h3>Carica con Google.</h3><p>Compila il modulo e allega i materiali. I file vengono raccolti nel Drive dell’amministratore, che riceve una notifica per ogni nuovo invio.</p><p class="deposit-small">Per allegare file è necessario accedere al proprio account Google.</p><a class="button primary" href="'+escape(url)+'" target="_blank" rel="noopener">Apri il modulo Google ↗</a>'
+  primary='<p class="eyebrow">CON UN ACCOUNT GOOGLE</p><h3>Carica con Google.</h3><p>Compila il modulo e allega i materiali. I file vengono raccolti nel Drive dell’amministratore, che riceve una notifica per ogni nuovo invio.</p><p class="deposit-small">Per allegare file è necessario accedere al proprio account Google. Puoi allegare fino a 10 file per invio, da 10 MB ciascuno. Per file più grandi puoi indicare un collegamento nella descrizione.</p><a class="button primary" href="'+escape(url)+'" target="_blank" rel="noopener">Apri il modulo Google ↗</a>'
  elif form_ready:
   primary='<p class="eyebrow">DEPOSITO ONLINE</p><h3>Carica il materiale.</h3><p>Apri il modulo di raccolta per aggiungere descrizione e allegati. Il contributo sarà valutato prima della pubblicazione.</p><a class="button primary" href="'+escape(url)+'" target="_blank" rel="noopener">Apri il deposito ↗</a>'
  else:

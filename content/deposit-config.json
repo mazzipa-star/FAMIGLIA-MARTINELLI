@@ -1,7 +1,11 @@
 {
   "enabled": true,
   "provider": "google",
-  "form_url": "",
-  "notification_verified": false,
-  "contact_email": "pamazzi59@gmail.com"
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdnmBtVMwouI4kzbyh0KtIthRhpPaYe_-O5CnEpLbGsqhqxyQ/viewform",
+  "notification_verified": true,
+  "contact_email": "pamazzi59@gmail.com",
+  "notification_delivery_confirmed": true,
+  "verification_date": "2026-11-13",
+  "max_files": 10,
+  "max_file_mb": 10
 }

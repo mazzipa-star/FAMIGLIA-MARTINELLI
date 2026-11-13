@@ -1,29 +1,29 @@
 # Raccolta materiali — email e Google Drive
 
-Indirizzo confermato dall’amministratore: pamazzi59@gmail.com.
+Aggiornamento del 13 novembre 2026: modulo pubblicato e raccolta attiva.
 
-## Stato
+## Stato verificato
 
-- Pagina Contribuisci all’album predisposta e alternativa email configurata.
-- Il pulsante email apre la posta con destinatario, oggetto e traccia del messaggio. Non invia automaticamente né allega file da solo.
-- È disponibile il pulsante Copia indirizzo per chi usa la webmail.
-- Il modulo Google deve ancora essere creato nell’account pamazzi59@gmail.com; è richiesto l’accesso del titolare.
-- Finché non viene collegato un modulo reale, la pagina indica chiaramente che il caricamento Google non è ancora attivo.
+- Pagina Contribuisci collegata al modulo Google e alternativa email a pamazzi59@gmail.com.
+- Modulo creato nell’account pamazzi59@gmail.com; i file vengono raccolti nel Drive di quell’account.
+- Link di compilazione: https://docs.google.com/forms/d/e/1FAIpQLSdnmBtVMwouI4kzbyh0KtIthRhpPaYe_-O5CnEpLbGsqhqxyQ/viewform
+- Rispondenti: chiunque abbia il link, con accesso a Google necessario per gli allegati. Il riepilogo delle risposte NON è pubblico.
+- Fino a 10 file per invio, da 10 MB ciascuno. Tipi consentiti: documenti, PDF, immagini, audio e video. Limite cumulativo iniziale del modulo: 1 GB. Al raggiungimento del limite il servizio interrompe la raccolta di nuove risposte; l’amministratore può gestirlo nelle impostazioni Google in base allo spazio disponibile sul proprio Drive.
+- Nome, email, titolo, descrizione e conferma di poter condividere sono obbligatori. Allegati facoltativi per consentire anche racconti solo scritti. Nella descrizione si possono indicare periodo e link a file grandi.
+- Notifiche email abilitate nel menu Risposte. Verificato un invio tecnico con verifica-deposito.txt, senza immagini o dati familiari: il modulo ha confermato la ricezione, è comparsa 1 risposta e l’avviso di Moduli Google è stato trovato nella casella dell’amministratore. La prova è etichettata esplicitamente come non destinata alla pubblicazione e resta separata dai contenuti del sito.
+- Nessuna pubblicazione automatica dei contributi.
 
-## Modulo Google da creare
+## Gestione
 
-Titolo: Condividi un ricordo — Famiglia Martinelli.
-Campi: nome e cognome, email, titolo del ricordo, descrizione, persone/luogo/data anche approssimativa, file allegati (multipli), eventuale link a file grandi, conferma di poter condividere il materiale per la valutazione prima della pubblicazione.
+Accedere a Google con pamazzi59@gmail.com e aprire il modulo da Moduli Google. La scheda Risposte mostra i nuovi contributi; il campo degli allegati permette di aprire la cartella Drive. Non condividere la cartella con accesso pubblico. Per pubblicare materiale selezionato nel sito, copiarlo nel progetto e aggiungere descrizione, provenienza e data quando note.
 
-Creare il modulo in Il mio Drive dell’account pamazzi59@gmail.com e scegliere Caricamento di file per gli allegati. I visitatori dovranno accedere con il proprio account Google. Non rendere pubbliche le risposte né la cartella degli allegati. Pubblicare l’accesso per i rispondenti senza limitare ai soli utenti di una organizzazione, se l’account lo permette.
+Le email normali arrivano direttamente a pamazzi59@gmail.com; gli allegati email vanno salvati nel Drive dall’amministratore.
 
-Nella scheda Risposte, menu a tre puntini, attivare Ricevi notifiche email per le nuove risposte. Le email normali arrivano invece direttamente a pamazzi59@gmail.com e i loro allegati vanno salvati nel Drive dall’amministratore.
+Il pulsante email apre la posta e NON allega o invia automaticamente: chi contribuisce deve completare il messaggio e premere Invia. Il pulsante Copia indirizzo consente di usare una webmail.
 
-Verificare un invio di prova e la ricezione della notifica con il titolare. Poi copiare il link pubblico del modulo in content/deposit-config.json, form_url; mantenere provider=google e impostare notification_verified=true. Non pubblicare il link di modifica del modulo.
+## Configurazione del sito
 
-Il sito apre il modulo in una nuova finestra per agevolare accesso Google e allegati, anziché incorporare un modulo di caricamento non utilizzabile in alcuni contesti.
-
-Rigenerare con python3 scripts/build.py e caricare su main per aggiornare GitHub Pages.
+content/deposit-config.json contiene il solo URL pubblico del modulo e l’indirizzo scelto per ricevere i materiali, senza credenziali. Il generatore valida il link e richiede notification_verified=true prima di attivare il modulo. notification_delivery_confirmed documenta la verifica della consegna. Per aggiornare il collegamento, modificare form_url, rigenerare con python3 scripts/build.py e caricare su main.
 
 Fonti Google:
 - https://support.google.com/docs/answer/7322334
