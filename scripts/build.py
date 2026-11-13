@@ -105,3 +105,6 @@ for name in ('media-gallery.html','gli-audio.html'):
 
 from prigionia import apply_prigionia
 apply_prigionia(R)
+
+from foto import apply_foto
+apply_foto(R)
