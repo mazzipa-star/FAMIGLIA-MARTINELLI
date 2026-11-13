@@ -73,3 +73,6 @@ if genealogy_template.exists():
 
 from album import apply_album
 apply_album(R)
+
+from deposit import apply_deposit
+apply_deposit(R)
