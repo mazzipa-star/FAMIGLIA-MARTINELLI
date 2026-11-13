@@ -31,3 +31,7 @@ Confrontare l’inventario con l’editor Weebly e un eventuale export dall’ac
 ## Genealogia interattiva (13 novembre 2026)
 
 La pagina genealogia conserva i due PDF e offre alberi navigabili, zoom, ricerca trasversale e schede leggibili. Dati in content/genealogia.json (11 presenze negli antenati, 38 nei discendenti; Giovanni compare in entrambi), modello in templates/genealogia.html, interazioni e stile in dist/genealogia.js e dist/genealogia.css. I ritratti sono ritagli dei PDF. Le date mancanti restano mancanti. Il generatore incorpora i dati per permettere anche apertura locale senza server. Aggiornare i dati e rigenerare con python3 scripts/build.py. La pubblicazione parte anche a ogni caricamento sul ramo main.
+
+## Template Album di famiglia (13 novembre 2026)
+
+Il template grafico viene applicato a tutte le pagine da scripts/album.py, richiamato al termine della generazione. La homepage è in templates/home-album.html. Stile comune in dist/style.css, visualizzatore delle gallerie in dist/album.js. La timeline iniziale usa le didascalie delle cartoline 1914, 1915, 1916 e 1919 da content/galleries.json; non attribuisce date alle fotografie non datate. Le immagini restaurate per la homepage sono in dist/assets/album/: sono rielaborazioni con IA, mentre il ritratto originale resta scaricabile dalla homepage e lo stemma originale è conservato in archive/brand/. La genealogia interattiva conserva il proprio comportamento. Per ricostruire tutte le pagine: python3 scripts/build.py. Il caricamento sul ramo main avvia GitHub Pages.

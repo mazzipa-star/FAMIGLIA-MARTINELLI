@@ -1,0 +1,22 @@
+{
+  "theme": "Album di famiglia",
+  "updated": "2026-11-13",
+  "palette": {
+    "paper": "#f6f2eb",
+    "ink": "#352f2a",
+    "accent": "#854c3d"
+  },
+  "assets": [
+    {
+      "file": "assets/album/stemma-martinelli.webp",
+      "original": "archive/brand/stemma-originale.png",
+      "processing": "Rielaborazione ImageGen, dettagli grafici ricostruiti; conversione WebP per il sito."
+    },
+    {
+      "file": "assets/album/famiglia-martinelli.webp",
+      "original": "dist/assets/d049641054-famiglia_orig.jpg",
+      "processing": "Restauro ImageGen e rimozione della scritta incorporata; conversione WebP per il sito."
+    }
+  ],
+  "timeline": "Date tratte dalle didascalie dei documenti originali; fotografie non datate non inserite nella cronologia."
+}

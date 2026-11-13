@@ -70,3 +70,6 @@ genealogy_template=R/"templates/genealogia.html"
 if genealogy_template.exists():
  data=(R/"content/genealogia.json").read_text()
  (R/"dist/genealogia.html").write_text(genealogy_template.read_text().replace("__GENEALOGY_DATA__",data.replace("</", "<\\/")))
+
+from album import apply_album
+apply_album(R)
