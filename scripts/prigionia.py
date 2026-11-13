@@ -14,6 +14,7 @@ def apply_prigionia(root):
  s=s.replace('Tocca una fotografia per ingrandirla. Puoi sfogliare la raccolta senza uscire dalla pagina.','')
  s=re.sub(r'Inserirò le pagine originali.*?mano a mano che le avrò trascritte\.?','',s,flags=re.S)
  s=s.replace('<article class="page-content">','<article class="page-content">'+template+'<h2>Il campo e i documenti di approfondimento</h2>',1)
+ s=s.replace('<h2>Il campo e i documenti di approfondimento</h2>', (root/'templates/prigionia-fotografie.html').read_text()+'<h2>Il campo e i documenti di approfondimento</h2>')
  s=s.replace('</head>','<link rel="stylesheet" href="prigionia.css?v=20261113"></head>')
  s=s.replace('<p class="page-caption">Una pagina dell’album di famiglia.</p>','<p class="page-caption">Il manoscritto di Giovanni, con una trascrizione parziale da revisionare.</p>')
  page.write_text(s)
