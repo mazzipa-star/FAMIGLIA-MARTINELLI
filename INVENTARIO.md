@@ -32,7 +32,7 @@ Rilevazione: 12 novembre 2026. Origine: https://famiglia-martinelli.weebly.com/.
 - Le immagini sono quelle servite pubblicamente. Le scansioni degli slideshow dichiarano spesso una larghezza di 400 pixel: non equivalgono necessariamente agli originali ad alta risoluzione. Testi dentro fotografie e PDF restano nei documenti, senza trascrizioni inventate.
 - Sono preservate le didascalie, comprese eventuali incongruenze nelle date: ad esempio la raccolta 1914 contiene didascalie del 1915.
 - Il collegamento MyHeritage conduce a un servizio con accesso: gli alberi privati presenti nell’account non sono stati recuperati.
-- Vimeo e YouTube sono dipendenze esterne: sono conservati i link, non scaricati i video o le tracce audio. Disponibilità, permessi di download e originali vanno verificati con il titolare.
+- Aggiornamento multimediale: i tre filmati sono ospitati nel sito in MP4 H.264/AAC, ricavati dagli originali locali del titolare. I due racconti dispongono anche della traccia audio M4A. Inventario: `content/local-media.json`. Le versioni Vimeo e YouTube non sono necessarie alla riproduzione.
 - Aggiornamento del 13 novembre 2026: i due PDF genealogici sono anche consultabili in una pagina interattiva. I dati trascritti e i collegamenti sono in `content/genealogia.json`; i PDF originali restano invariati.
 - Nessun accesso a messaggi, contatti raccolti, statistiche o servizi lato server. Gli script Weebly, pubblicità e tracciamenti non sono trasferiti nella nuova versione.
 - Il recapito pubblico offuscato da Cloudflare è stato ricostruito per il collegamento email della pagina Contatti.

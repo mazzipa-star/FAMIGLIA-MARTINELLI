@@ -1,0 +1,29 @@
+[
+  {
+    "id": "famiglia-martinelli",
+    "title": "La storia della famiglia Martinelli",
+    "source": "FAMIGLIA MARTINELLI.mov",
+    "duration": 553.53,
+    "file": "assets/media/famiglia-martinelli.mp4",
+    "bytes": 30135301,
+    "sha256": "ebd841e6fea9af9bf7538d02c59bdb12422f04e16a0525ae12125e7200dde5ee"
+  },
+  {
+    "id": "marmellata-di-caprino",
+    "title": "La marmellata di Caprino",
+    "source": "videoclip/Marmellata di Caprino.mov",
+    "duration": 82.97,
+    "file": "assets/media/marmellata-di-caprino.mp4",
+    "bytes": 2468977,
+    "sha256": "9604f1022bd16d4ff4cdcb01807d18ea9852201c7bc9f8f9307ee27b1c1be566"
+  },
+  {
+    "id": "una-giornata-particolare",
+    "title": "Una giornata particolare",
+    "source": "videoclip/Matrimonio Anna e Vera.mov",
+    "duration": 161.27,
+    "file": "assets/media/una-giornata-particolare.mp4",
+    "bytes": 15212967,
+    "sha256": "30a5999008837dec8651ff90e325ea6a34c53147c7376d1b1ce4395d651820d3"
+  }
+]

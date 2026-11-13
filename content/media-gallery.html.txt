@@ -15,7 +15,7 @@
 
 
 
-  Apri il video sul sito esterno ↗  
+   Il browser non supporta il lettore video.   Scarica il filmato MP4   
 
 
 
@@ -50,9 +50,7 @@
 						
 
 
- 
- 
- 
+
 
 
 

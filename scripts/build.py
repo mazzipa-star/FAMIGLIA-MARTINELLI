@@ -23,6 +23,18 @@ def local(u):
  if p.netloc==urlparse(BASE).netloc and (p.path=='/' or p.path.endswith('.html')):return 'index.html' if p.path=='/' else p.path.lstrip('/')
  return full
 external=set()
+media_seen=set()
+def media_player(url):
+ matches=[('yVfCvKf06Bw','famiglia-martinelli','La storia della famiglia Martinelli'),('128317693','famiglia-martinelli','La storia della famiglia Martinelli'),('374387936','marmellata-di-caprino','La marmellata di Caprino'),('376536296','una-giornata-particolare','Una giornata particolare')]
+ for key,slug,title in matches:
+  if key not in url:continue
+  if slug in media_seen:return ''
+  media_seen.add(slug)
+  base='assets/media/'+slug
+  player='<section class="local-media" aria-label="'+title+'"><video controls playsinline preload="none" poster="'+base+'.jpg" aria-label="'+title+'"><source src="'+base+'.mp4" type="video/mp4">Il browser non supporta il lettore video.</video><p><a href="'+base+'.mp4" download>Scarica il filmato MP4</a></p>'
+  if slug!='famiglia-martinelli':player+='<details><summary>Ascolta solo l’audio</summary><audio controls preload="none" aria-label="Audio: '+title+'"><source src="'+base+'.m4a" type="audio/mp4"></audio><p><a href="'+base+'.m4a" download>Scarica la registrazione audio</a></p></details>'
+  return player+'</section>'
+ return None
 def render(n):
  if isinstance(n,str):return escape(n)
  t=n.t;a=n.a
@@ -34,17 +46,22 @@ def render(n):
    b=bytes.fromhex(a['data-cfemail']);mail=''.join(chr(x^b[0]) for x in b[1:]);return '<a href="mailto:'+escape(mail)+'">'+escape(mail)+'</a>'
   if not a.get('href'):return inner
   u=local(a['href'])
+  player=media_player(u)
+  if player is not None:return player
   if u.endswith('.pdf'):inner='Apri il documento PDF · '+escape(a['href'].split('/')[-1])
   if u.startswith('http') and not u.startswith(BASE):external.add(u)
   return '<a href="'+escape(u)+'">'+inner+'</a>'
  if t=='iframe':
-  u=local(a.get('src',''));external.add(u);return '<p class="media-link"><a href="'+escape(u)+'" target="_blank" rel="noopener">Apri il video sul sito esterno ↗</a></p>'
+  u=local(a.get('src',''));player=media_player(u)
+  if player is not None:return player
+  external.add(u);return '<p class="media-link"><a href="'+escape(u)+'" target="_blank" rel="noopener">Apri il video sul sito esterno ↗</a></p>'
  if t in ('h1','h2','h3','p','blockquote','strong','em','ul','ol','li','br','hr'):return '<'+t+'>'+inner+('' if t in ('br','hr') else '</'+t+'>')
  if t=='div' and 'paragraph' in a.get('class',''):return '<div class="paragraph">'+inner+'</div>'
  return inner
 nav=[('index.html','Home'),('la-storia.html','La storia'),('documenti.html','Documenti'),('la-memoria.html','La memoria'),('genealogia.html','Genealogia'),('media-gallery.html','Media Gallery'),('contact.html','Contatti')]
 rows=[]
 for p in pages:
+ media_seen.clear()
  name='index.html' if p['path']=='/' else p['path'].lstrip('/'); d=DOM();d.feed((R/'archive/pages'/name).read_text());body=render(d.main).replace('Your browser does not support viewing this document. Click ', '').replace(' to download the document.', ''); title=unescape(p['title'].split(' - ')[0]); title='Viaggio nella memoria' if name=='index.html' else title
  gal=galleries.get(name,[])
  if gal:
@@ -61,7 +78,7 @@ for p in pages:
  rows.append('| ['+title+']('+p['url']+') | `'+name+'` | '+str(len(imgs))+' | '+str(len(gal))+' |')
 (R/'content/external-links.json').write_text(json.dumps(sorted(external),indent=2))
 counts=collections.Counter(a['type'].split(';')[0] for a in assets)
-report='# Inventario di migrazione\n\nRilevazione: 12 novembre 2026. Origine: '+BASE+'/. Recupero in sola lettura delle pagine pubbliche raggiungibili dai collegamenti HTML.\n\n'+str(len(pages))+' pagine; '+str(len(assets))+' URL di risorse scaricate ('+str(len({a['sha256'] for a in assets}))+' file con contenuto distinto). Tipi: '+str(dict(counts))+'.\n\n| Pagina | Percorso conservato | Risorse referenziate | Immagini slideshow |\n|---|---|---:|---:|\n'+'\n'.join(rows)+'\n\n## File e testi\n\n`content/assets.json`: URL originale, percorso locale, dimensione, tipo e impronta SHA-256 di ciascun file. `content/pages.json`: testi integrali estratti e collegamenti delle pagine pubbliche, inclusa la navigazione originale. `content/*.html.txt`: contenuti del corpo della nuova pagina. `content/galleries.json`: ordine e didascalie originali delle presentazioni. `archive/pages/`: HTML originale per confronto; non destinato alla pubblicazione. `content/external-links.json`: riferimenti esterni da mantenere.\n\n## Limiti e verifiche richieste\n\n- La copia comprende il sito pubblico raggiungibile, non il pannello Weebly, bozze, pagine private o pagine non collegate. La completezza rispetto all’account richiede confronto con l’elenco pagine dell’editor e con un eventuale archivio esportato dall’account.\n- Le immagini sono quelle servite pubblicamente. Le scansioni degli slideshow dichiarano spesso una larghezza di 400 pixel: non equivalgono necessariamente agli originali ad alta risoluzione. Testi dentro fotografie e PDF restano nei documenti, senza trascrizioni inventate.\n- Sono preservate le didascalie, comprese eventuali incongruenze nelle date: ad esempio la raccolta 1914 contiene didascalie del 1915.\n- Il collegamento MyHeritage conduce a un servizio con accesso: gli alberi privati presenti nell’account non sono stati recuperati.\n- Vimeo e YouTube sono dipendenze esterne: sono conservati i link, non scaricati i video o le tracce audio. Disponibilità, permessi di download e originali vanno verificati con il titolare.\n- Aggiornamento del 13 novembre 2026: i due PDF genealogici sono anche consultabili in una pagina interattiva. I dati trascritti e i collegamenti sono in `content/genealogia.json`; i PDF originali restano invariati.\n- Nessun accesso a messaggi, contatti raccolti, statistiche o servizi lato server. Gli script Weebly, pubblicità e tracciamenti non sono trasferiti nella nuova versione.\n- Il recapito pubblico offuscato da Cloudflare è stato ricostruito per il collegamento email della pagina Contatti.\n- Non sono stati modificati dominio, DNS, sito Weebly o account GitHub. Prima della pubblicazione controllare i dati delle persone viventi e i diritti sulle fotografie. Nessuna licenza pubblica dei contenuti è presunta.\n- I vecchi percorsi sono conservati per agevolare la transizione; il reindirizzamento dal sottodominio Weebly non è sotto il controllo di questo progetto.\n'
+report='# Inventario di migrazione\n\nRilevazione: 12 novembre 2026. Origine: '+BASE+'/. Recupero in sola lettura delle pagine pubbliche raggiungibili dai collegamenti HTML.\n\n'+str(len(pages))+' pagine; '+str(len(assets))+' URL di risorse scaricate ('+str(len({a['sha256'] for a in assets}))+' file con contenuto distinto). Tipi: '+str(dict(counts))+'.\n\n| Pagina | Percorso conservato | Risorse referenziate | Immagini slideshow |\n|---|---|---:|---:|\n'+'\n'.join(rows)+'\n\n## File e testi\n\n`content/assets.json`: URL originale, percorso locale, dimensione, tipo e impronta SHA-256 di ciascun file. `content/pages.json`: testi integrali estratti e collegamenti delle pagine pubbliche, inclusa la navigazione originale. `content/*.html.txt`: contenuti del corpo della nuova pagina. `content/galleries.json`: ordine e didascalie originali delle presentazioni. `archive/pages/`: HTML originale per confronto; non destinato alla pubblicazione. `content/external-links.json`: riferimenti esterni da mantenere.\n\n## Limiti e verifiche richieste\n\n- La copia comprende il sito pubblico raggiungibile, non il pannello Weebly, bozze, pagine private o pagine non collegate. La completezza rispetto all’account richiede confronto con l’elenco pagine dell’editor e con un eventuale archivio esportato dall’account.\n- Le immagini sono quelle servite pubblicamente. Le scansioni degli slideshow dichiarano spesso una larghezza di 400 pixel: non equivalgono necessariamente agli originali ad alta risoluzione. Testi dentro fotografie e PDF restano nei documenti, senza trascrizioni inventate.\n- Sono preservate le didascalie, comprese eventuali incongruenze nelle date: ad esempio la raccolta 1914 contiene didascalie del 1915.\n- Il collegamento MyHeritage conduce a un servizio con accesso: gli alberi privati presenti nell’account non sono stati recuperati.\n- Aggiornamento multimediale: i tre filmati sono ospitati nel sito in MP4 H.264/AAC, ricavati dagli originali locali del titolare. I due racconti dispongono anche della traccia audio M4A. Inventario: `content/local-media.json`. Le versioni Vimeo e YouTube non sono necessarie alla riproduzione.\n- Aggiornamento del 13 novembre 2026: i due PDF genealogici sono anche consultabili in una pagina interattiva. I dati trascritti e i collegamenti sono in `content/genealogia.json`; i PDF originali restano invariati.\n- Nessun accesso a messaggi, contatti raccolti, statistiche o servizi lato server. Gli script Weebly, pubblicità e tracciamenti non sono trasferiti nella nuova versione.\n- Il recapito pubblico offuscato da Cloudflare è stato ricostruito per il collegamento email della pagina Contatti.\n- Non sono stati modificati dominio, DNS, sito Weebly o account GitHub. Prima della pubblicazione controllare i dati delle persone viventi e i diritti sulle fotografie. Nessuna licenza pubblica dei contenuti è presunta.\n- I vecchi percorsi sono conservati per agevolare la transizione; il reindirizzamento dal sottodominio Weebly non è sotto il controllo di questo progetto.\n'
 (R/'INVENTARIO.md').write_text(report)
 print(counts);print('Pagine generate:',len(pages));print('Errori recupero:',(R/'content/errors.json').read_text())
 
@@ -76,3 +93,9 @@ apply_album(R)
 
 from deposit import apply_deposit
 apply_deposit(R)
+
+media_css='<style>.local-media{margin:1.5rem 0 2.5rem;padding:clamp(.7rem,2vw,1.3rem);background:#f4eee5;border:1px solid #d9cbb8;border-radius:12px}.local-media video{display:block;width:100%;max-height:75vh;background:#171713;border-radius:6px}.local-media audio{display:block;width:100%;margin:1rem 0}.local-media summary{cursor:pointer;padding:.6rem 0;font-weight:600}.local-media p{font-size:.95rem}.local-media a{overflow-wrap:anywhere}</style>'
+for name in ('media-gallery.html','gli-audio.html'):
+ path=R/'dist'/name;html=path.read_text().replace('</head>',media_css+'</head>')
+ html=html.replace('Per vedere video in qualità HD (link esterno)','Guarda il filmato direttamente in questa pagina, anche a schermo intero.')
+ path.write_text(html)
