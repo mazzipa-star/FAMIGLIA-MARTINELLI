@@ -1,0 +1,1 @@
+(()=>{const button=document.getElementById('start-family-film'),video=document.getElementById('family-film');if(!button||!video)return;button.addEventListener('click',()=>{button.hidden=true;video.hidden=false;video.focus();video.play().catch(()=>{});});})();

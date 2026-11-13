@@ -111,3 +111,6 @@ apply_foto(R)
 
 from cartoline import apply_cartoline
 apply_cartoline(R)
+
+from layout import apply_layout
+apply_layout(R)
