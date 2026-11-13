@@ -94,6 +94,9 @@ apply_album(R)
 from deposit import apply_deposit
 apply_deposit(R)
 
+from history import apply_history
+apply_history(R)
+
 media_css='<style>.local-media{margin:1.5rem 0 2.5rem;padding:clamp(.7rem,2vw,1.3rem);background:#f4eee5;border:1px solid #d9cbb8;border-radius:12px}.local-media video{display:block;width:100%;max-height:75vh;background:#171713;border-radius:6px}.local-media audio{display:block;width:100%;margin:1rem 0}.local-media summary{cursor:pointer;padding:.6rem 0;font-weight:600}.local-media p{font-size:.95rem}.local-media a{overflow-wrap:anywhere}</style>'
 for name in ('media-gallery.html','gli-audio.html'):
  path=R/'dist'/name;html=path.read_text().replace('</head>',media_css+'</head>')
