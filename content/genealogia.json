@@ -1,0 +1,810 @@
+[
+  {
+    "id": "antenati",
+    "title": "Antenati",
+    "pdf": "assets/7e060ac2df-000007_45960935m7h35ab5qd5549.pdf",
+    "people": [
+      {
+        "id": "antenati-0",
+        "name": "Clemente Martinelli",
+        "date": "1711-1780",
+        "x": 149,
+        "y": 318,
+        "portrait": "assets/genealogia/antenati-0.jpg",
+        "parents": [],
+        "partners": [
+          "antenati-1"
+        ]
+      },
+      {
+        "id": "antenati-1",
+        "name": "Rosa Pizzingroia",
+        "date": "?-?",
+        "x": 318,
+        "y": 318,
+        "portrait": "assets/genealogia/antenati-1.jpg",
+        "parents": [],
+        "partners": [
+          "antenati-0"
+        ]
+      },
+      {
+        "id": "antenati-2",
+        "name": "Francesco Paolo Martinelli",
+        "date": "1755-1818",
+        "x": 233,
+        "y": 514,
+        "portrait": "assets/genealogia/antenati-2.jpg",
+        "parents": [
+          "antenati-0",
+          "antenati-1"
+        ],
+        "partners": [
+          "antenati-3"
+        ]
+      },
+      {
+        "id": "antenati-3",
+        "name": "Eleonora Indelli",
+        "date": "?-?",
+        "x": 434,
+        "y": 514,
+        "portrait": "assets/genealogia/antenati-3.jpg",
+        "parents": [],
+        "partners": [
+          "antenati-2"
+        ]
+      },
+      {
+        "id": "antenati-4",
+        "name": "Clemente Maria Martinelli",
+        "date": "1778-1836",
+        "x": 333,
+        "y": 711,
+        "portrait": "assets/genealogia/antenati-4.jpg",
+        "parents": [
+          "antenati-2",
+          "antenati-3"
+        ],
+        "partners": [
+          "antenati-5"
+        ]
+      },
+      {
+        "id": "antenati-5",
+        "name": "Benedetta Noja",
+        "date": "?-1830",
+        "x": 534,
+        "y": 711,
+        "portrait": "assets/genealogia/antenati-5.jpg",
+        "parents": [],
+        "partners": [
+          "antenati-4"
+        ]
+      },
+      {
+        "id": "antenati-6",
+        "name": "Francesco Paolo Martinelli",
+        "date": "1803-1885",
+        "x": 433,
+        "y": 907,
+        "portrait": "assets/genealogia/antenati-6.jpg",
+        "parents": [
+          "antenati-4",
+          "antenati-5"
+        ],
+        "partners": [
+          "antenati-7"
+        ]
+      },
+      {
+        "id": "antenati-7",
+        "name": "Francesca Antonacci",
+        "date": "?-1875",
+        "x": 633,
+        "y": 907,
+        "portrait": "assets/genealogia/antenati-7.jpg",
+        "parents": [],
+        "partners": [
+          "antenati-6"
+        ]
+      },
+      {
+        "id": "antenati-8",
+        "name": "Sante Martinelli",
+        "date": "1865-?",
+        "x": 535,
+        "y": 1104,
+        "portrait": "assets/genealogia/antenati-8.jpg",
+        "parents": [
+          "antenati-6",
+          "antenati-7"
+        ],
+        "partners": [
+          "antenati-9"
+        ]
+      },
+      {
+        "id": "antenati-9",
+        "name": "Marianna Antonelli",
+        "date": "",
+        "x": 733,
+        "y": 1104,
+        "portrait": "assets/genealogia/antenati-9.jpg",
+        "parents": [],
+        "partners": [
+          "antenati-8"
+        ]
+      },
+      {
+        "id": "antenati-10",
+        "name": "Giovanni Martinelli",
+        "date": "?-?",
+        "x": 634,
+        "y": 1300,
+        "portrait": "assets/genealogia/antenati-10.jpg",
+        "parents": [
+          "antenati-8",
+          "antenati-9"
+        ],
+        "partners": []
+      }
+    ],
+    "families": [
+      {
+        "parents": [
+          "antenati-0",
+          "antenati-1"
+        ],
+        "children": [
+          "antenati-2"
+        ]
+      },
+      {
+        "parents": [
+          "antenati-2",
+          "antenati-3"
+        ],
+        "children": [
+          "antenati-4"
+        ]
+      },
+      {
+        "parents": [
+          "antenati-4",
+          "antenati-5"
+        ],
+        "children": [
+          "antenati-6"
+        ]
+      },
+      {
+        "parents": [
+          "antenati-6",
+          "antenati-7"
+        ],
+        "children": [
+          "antenati-8"
+        ]
+      },
+      {
+        "parents": [
+          "antenati-8",
+          "antenati-9"
+        ],
+        "children": [
+          "antenati-10"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "discendenti",
+    "title": "Discendenti",
+    "pdf": "assets/d45cf3ffa2-000011_6784902bwi52fe425c57i6.pdf",
+    "people": [
+      {
+        "id": "discendenti-0",
+        "name": "Giovanni Martinelli",
+        "date": "?-?",
+        "x": 1702,
+        "y": 318,
+        "portrait": "assets/genealogia/discendenti-0.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-1"
+        ]
+      },
+      {
+        "id": "discendenti-1",
+        "name": "Lina Masoni",
+        "date": "?-?",
+        "x": 1889,
+        "y": 318,
+        "portrait": "assets/genealogia/discendenti-1.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-0"
+        ]
+      },
+      {
+        "id": "discendenti-2",
+        "name": "Grazia Martinelli",
+        "date": "1930",
+        "x": 670,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-2.jpg",
+        "parents": [
+          "discendenti-0",
+          "discendenti-1"
+        ],
+        "partners": [
+          "discendenti-3"
+        ]
+      },
+      {
+        "id": "discendenti-3",
+        "name": "Eros Mazzi",
+        "date": "1925-1994",
+        "x": 858,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-3.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-2"
+        ]
+      },
+      {
+        "id": "discendenti-4",
+        "name": "Vera Martinelli",
+        "date": "",
+        "x": 1801,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-4.jpg",
+        "parents": [
+          "discendenti-0",
+          "discendenti-1"
+        ],
+        "partners": [
+          "discendenti-5"
+        ]
+      },
+      {
+        "id": "discendenti-5",
+        "name": "Carlo Martucci",
+        "date": "1914-1986",
+        "x": 1987,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-5.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-4"
+        ]
+      },
+      {
+        "id": "discendenti-6",
+        "name": "Sante Martinelli",
+        "date": "?-?",
+        "x": 2421,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-6.jpg",
+        "parents": [
+          "discendenti-0",
+          "discendenti-1"
+        ],
+        "partners": [
+          "discendenti-7"
+        ]
+      },
+      {
+        "id": "discendenti-7",
+        "name": "Ines Martinelli",
+        "date": "?-?",
+        "x": 2606,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-7.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-6"
+        ]
+      },
+      {
+        "id": "discendenti-8",
+        "name": "Annamaria Martinelli",
+        "date": "?-?",
+        "x": 3026,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-8.jpg",
+        "parents": [
+          "discendenti-0",
+          "discendenti-1"
+        ],
+        "partners": [
+          "discendenti-9"
+        ]
+      },
+      {
+        "id": "discendenti-9",
+        "name": "Mario Tortora",
+        "date": "?-?",
+        "x": 3212,
+        "y": 474,
+        "portrait": "assets/genealogia/discendenti-9.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-8"
+        ]
+      },
+      {
+        "id": "discendenti-10",
+        "name": "Stefano Mazzi",
+        "date": "1957",
+        "x": 234,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-10.jpg",
+        "parents": [
+          "discendenti-2",
+          "discendenti-3"
+        ],
+        "partners": [
+          "discendenti-11"
+        ]
+      },
+      {
+        "id": "discendenti-11",
+        "name": "Giulia Bolla",
+        "date": "",
+        "x": 418,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-11.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-10"
+        ]
+      },
+      {
+        "id": "discendenti-12",
+        "name": "Paolo Mazzi",
+        "date": "1959",
+        "x": 670,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-12.jpg",
+        "parents": [
+          "discendenti-2",
+          "discendenti-3"
+        ],
+        "partners": [
+          "discendenti-13"
+        ]
+      },
+      {
+        "id": "discendenti-13",
+        "name": "Rita Colantonio",
+        "date": "1964",
+        "x": 855,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-13.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-12"
+        ]
+      },
+      {
+        "id": "discendenti-14",
+        "name": "Alberto Mazzi",
+        "date": "1963",
+        "x": 1107,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-14.jpg",
+        "parents": [
+          "discendenti-2",
+          "discendenti-3"
+        ],
+        "partners": [
+          "discendenti-15"
+        ]
+      },
+      {
+        "id": "discendenti-15",
+        "name": "Carla Tomatis",
+        "date": "1964",
+        "x": 1290,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-15.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-14"
+        ]
+      },
+      {
+        "id": "discendenti-16",
+        "name": "Susanna Martucci",
+        "date": "1958",
+        "x": 1625,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-16.jpg",
+        "parents": [
+          "discendenti-4",
+          "discendenti-5"
+        ],
+        "partners": [
+          "discendenti-17"
+        ]
+      },
+      {
+        "id": "discendenti-17",
+        "name": "Gianni Fortuna",
+        "date": "1959",
+        "x": 1811,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-17.jpg",
+        "parents": [],
+        "partners": [
+          "discendenti-16"
+        ]
+      },
+      {
+        "id": "discendenti-18",
+        "name": "Rossella Martucci",
+        "date": "",
+        "x": 1992,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-18.jpg",
+        "parents": [
+          "discendenti-4",
+          "discendenti-5"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-19",
+        "name": "Patrizia Martucci",
+        "date": "",
+        "x": 2162,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-19.jpg",
+        "parents": [
+          "discendenti-4",
+          "discendenti-5"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-20",
+        "name": "Piergiovanni Martinelli",
+        "date": "",
+        "x": 2343,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-20.jpg",
+        "parents": [
+          "discendenti-6",
+          "discendenti-7"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-21",
+        "name": "Roberto Martinelli",
+        "date": "",
+        "x": 2514,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-21.jpg",
+        "parents": [
+          "discendenti-6",
+          "discendenti-7"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-22",
+        "name": "Enrico Martinelli",
+        "date": "",
+        "x": 2682,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-22.jpg",
+        "parents": [
+          "discendenti-6",
+          "discendenti-7"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-23",
+        "name": "Loletta Tortora",
+        "date": "",
+        "x": 2864,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-23.jpg",
+        "parents": [
+          "discendenti-8",
+          "discendenti-9"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-24",
+        "name": "Stefano Tortora",
+        "date": "",
+        "x": 3032,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-24.jpg",
+        "parents": [
+          "discendenti-8",
+          "discendenti-9"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-25",
+        "name": "Marcello Tortora",
+        "date": "?-?",
+        "x": 3201,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-25.jpg",
+        "parents": [
+          "discendenti-8",
+          "discendenti-9"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-26",
+        "name": "Andrea Tortora",
+        "date": "",
+        "x": 3372,
+        "y": 630,
+        "portrait": "assets/genealogia/discendenti-26.jpg",
+        "parents": [
+          "discendenti-8",
+          "discendenti-9"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-27",
+        "name": "Francesco Paolo Mazzi",
+        "date": "",
+        "x": 156,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-27.jpg",
+        "parents": [
+          "discendenti-10",
+          "discendenti-11"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-28",
+        "name": "Alessandro Mazzi",
+        "date": "",
+        "x": 327,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-28.jpg",
+        "parents": [
+          "discendenti-10",
+          "discendenti-11"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-29",
+        "name": "Alberto Mazzi",
+        "date": "",
+        "x": 498,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-29.jpg",
+        "parents": [
+          "discendenti-10",
+          "discendenti-11"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-30",
+        "name": "Camilla Mazzi",
+        "date": "1993",
+        "x": 678,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-30.jpg",
+        "parents": [
+          "discendenti-12",
+          "discendenti-13"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-31",
+        "name": "Margherita Mazzi",
+        "date": "1997",
+        "x": 846,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-31.jpg",
+        "parents": [
+          "discendenti-12",
+          "discendenti-13"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-32",
+        "name": "Federico Mazzi",
+        "date": "",
+        "x": 1029,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-32.jpg",
+        "parents": [
+          "discendenti-14",
+          "discendenti-15"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-33",
+        "name": "Alberta Mazzi",
+        "date": "",
+        "x": 1198,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-33.jpg",
+        "parents": [
+          "discendenti-14",
+          "discendenti-15"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-34",
+        "name": "Milo Mazzi",
+        "date": "",
+        "x": 1369,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-34.jpg",
+        "parents": [
+          "discendenti-14",
+          "discendenti-15"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-35",
+        "name": "Giulia Fortuna",
+        "date": "1992",
+        "x": 1549,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-35.jpg",
+        "parents": [
+          "discendenti-16",
+          "discendenti-17"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-36",
+        "name": "Alessandro Fortuna",
+        "date": "1994",
+        "x": 1716,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-36.jpg",
+        "parents": [
+          "discendenti-16",
+          "discendenti-17"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-37",
+        "name": "Alice Fortuna",
+        "date": "1997",
+        "x": 1887,
+        "y": 786,
+        "portrait": "assets/genealogia/discendenti-37.jpg",
+        "parents": [
+          "discendenti-16",
+          "discendenti-17"
+        ],
+        "partners": []
+      }
+    ],
+    "families": [
+      {
+        "parents": [
+          "discendenti-0",
+          "discendenti-1"
+        ],
+        "children": [
+          "discendenti-2",
+          "discendenti-4",
+          "discendenti-6",
+          "discendenti-8"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-2",
+          "discendenti-3"
+        ],
+        "children": [
+          "discendenti-10",
+          "discendenti-12",
+          "discendenti-14"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-4",
+          "discendenti-5"
+        ],
+        "children": [
+          "discendenti-16",
+          "discendenti-18",
+          "discendenti-19"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-6",
+          "discendenti-7"
+        ],
+        "children": [
+          "discendenti-20",
+          "discendenti-21",
+          "discendenti-22"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-8",
+          "discendenti-9"
+        ],
+        "children": [
+          "discendenti-23",
+          "discendenti-24",
+          "discendenti-25",
+          "discendenti-26"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-10",
+          "discendenti-11"
+        ],
+        "children": [
+          "discendenti-27",
+          "discendenti-28",
+          "discendenti-29"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-12",
+          "discendenti-13"
+        ],
+        "children": [
+          "discendenti-30",
+          "discendenti-31"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-14",
+          "discendenti-15"
+        ],
+        "children": [
+          "discendenti-32",
+          "discendenti-33",
+          "discendenti-34"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-16",
+          "discendenti-17"
+        ],
+        "children": [
+          "discendenti-35",
+          "discendenti-36",
+          "discendenti-37"
+        ]
+      }
+    ]
+  }
+]

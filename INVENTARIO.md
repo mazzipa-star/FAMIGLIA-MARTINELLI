@@ -33,7 +33,7 @@ Rilevazione: 12 novembre 2026. Origine: https://famiglia-martinelli.weebly.com/.
 - Sono preservate le didascalie, comprese eventuali incongruenze nelle date: ad esempio la raccolta 1914 contiene didascalie del 1915.
 - Il collegamento MyHeritage conduce a un servizio con accesso: gli alberi privati presenti nell’account non sono stati recuperati.
 - Vimeo e YouTube sono dipendenze esterne: sono conservati i link, non scaricati i video o le tracce audio. Disponibilità, permessi di download e originali vanno verificati con il titolare.
-- I PDF di genealogia sono copiati come documenti; non diventano automaticamente un albero genealogico modificabile.
+- Aggiornamento del 13 novembre 2026: i due PDF genealogici sono anche consultabili in una pagina interattiva. I dati trascritti e i collegamenti sono in `content/genealogia.json`; i PDF originali restano invariati.
 - Nessun accesso a messaggi, contatti raccolti, statistiche o servizi lato server. Gli script Weebly, pubblicità e tracciamenti non sono trasferiti nella nuova versione.
 - Il recapito pubblico offuscato da Cloudflare è stato ricostruito per il collegamento email della pagina Contatti.
 - Non sono stati modificati dominio, DNS, sito Weebly o account GitHub. Prima della pubblicazione controllare i dati delle persone viventi e i diritti sulle fotografie. Nessuna licenza pubblica dei contenuti è presunta.

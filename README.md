@@ -27,3 +27,7 @@ Prima di rendere pubblico il repository controllare anche archive/ e content/: c
 ## Completamento della migrazione
 
 Confrontare l’inventario con l’editor Weebly e un eventuale export dall’account; aggiungere pagine private o non collegate solo se desiderato; sostituire scansioni con originali migliori se disponibili; verificare i media Vimeo/YouTube e le date delle didascalie. Controllare navigazione e leggibilità su telefono prima della pubblicazione definitiva. Il sito originale può restare online durante tutto il processo.
+
+## Genealogia interattiva (13 novembre 2026)
+
+La pagina genealogia conserva i due PDF e offre alberi navigabili, zoom, ricerca trasversale e schede leggibili. Dati in content/genealogia.json (11 presenze negli antenati, 38 nei discendenti; Giovanni compare in entrambi), modello in templates/genealogia.html, interazioni e stile in dist/genealogia.js e dist/genealogia.css. I ritratti sono ritagli dei PDF. Le date mancanti restano mancanti. Il generatore incorpora i dati per permettere anche apertura locale senza server. Aggiornare i dati e rigenerare con python3 scripts/build.py. La pubblicazione parte anche a ogni caricamento sul ramo main.
