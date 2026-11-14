@@ -117,3 +117,6 @@ apply_layout(R)
 
 from ritratti import apply_ritratti
 apply_ritratti(R)
+
+from araldo import apply_araldo
+apply_araldo(R)
