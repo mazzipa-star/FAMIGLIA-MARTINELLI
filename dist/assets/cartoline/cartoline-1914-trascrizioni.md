@@ -1,27 +1,8 @@
 # Cartoline 1914
 
-Letture preliminari: confrontare con le scansioni originali. Le date delle didascalie e le collocazioni delle raccolte sono quelle del sito Weebly.
+Revisione del 14 novembre 2026. Le letture dubbie non sono completate per supposizione.
 
-## 1 · 27/01/1915
-
-Trascrizione familiare recuperata · da verificare sul manoscritto
-
-27 gennaio 1915 20.00
-
-!!!… Sempre così!…
-Giovannino tuo
-
-Un pensiero… 1000 affezioni
-1000 baci…
-Giovanni tuo
-
-Al mio caro ideale
-… Linuccia
-Mia…
-
-Testo dal documento familiare Paolo Mazzi-000004.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
-
-## 2 · 27/02/1914
+## 1 · 27/02/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -36,7 +17,7 @@ Signorina Lina Masoni
 
 Testo dal documento familiare Paolo Mazzi-000005.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 3 · 28/02/1914
+## 2 · 28/02/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -47,19 +28,19 @@ Ho terminato ora di scriverle; ma
 temendo di abusare troppo della sua
 benevolenza, scrivendole ogni giorno, gliela
 invierò domani.
-Inviando le sinceri simili e affettuosissimi saluti.
+Inviandole sincerissimi e affettuosissimi saluti.
 Giovanni
 
 Alla dilettissima
 signorina Lina
 
-Testo dal documento familiare Paolo Mazzi-000006.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000006.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 4 · 15/03/1914
+## 3 · 15/03/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
-15 marzo 1915 12.00
+15 marzo 1914 12.00
 
 Attendo domani una sua lunghissima lettera.
 Spero nel tempo cattivo.
@@ -69,9 +50,9 @@ Domani pioverà
 
 Alla mia cara Lina
 
-Testo dal documento familiare Paolo Mazzi-000007.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000007.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Anno 1914 verificato sulla data manoscritta; la precedente trascrizione familiare riportava 1915. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 5 · 22/03/1914
+## 4 · 22/03/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -81,30 +62,15 @@ ore 12.20
 Bella serata primaverile!…
 È vero Lina mia carissima?
 È l’ultima della serie, dato però, il bel
-faccino e la svenevolezzza della signorina,
+faccino e la svenevolezza della signorina,
 spero vorrai accettarla di buon grado…
 Ti invio mille pensieri affettuosissimi
 saluti Il tuo, sempre tuo
 Giovanni
 
-Testo dal documento familiare Paolo Mazzi-000008.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000008.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 6 · 23/03/1915
-
-Trascrizione familiare recuperata · da verificare sul manoscritto
-
-Poiano 23 marzo 1915
-
-Affettuosissimi…
-Giovanni
-
-Distintissima
-Signorina Lina Masoni
-Peschiera
-
-Testo dal documento familiare Paolo Mazzi-000009.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
-
-## 7 · 24/03/1914
+## 5 · 24/03/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -116,11 +82,11 @@ Ti piace Lina questa cartolina?
 
 Testo dal documento familiare Paolo Mazzi-000010.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 8 · 27/03/1914
+## 6 · 27/03/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
-27 tre 1914 ore 21.50
+27 marzo 1914 ore 21.50
 
 Sognandoti!…
 Il tuo affezionatissimo Giovanni
@@ -131,20 +97,20 @@ Nota:
 ( ti è antipatica Lina la signorina?)
 Mi sembra troppo svenevole
 
-Testo dal documento familiare Paolo Mazzi-000011.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000011.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 9 · 12/04/1914
+## 7 · 12/04/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
-12 aprile 1914 ore ore 23
+12 aprile 1914 ore 23
 Alla mia cara, affettuosa e dilettissima Lina, all’unico mio pensiero costante e immutabile, invio saluti appassionatissimi e tantissimi baci.
 Il tuo, eternamente tuo
 Giovanni
 
-Testo dal documento familiare Paolo Mazzi-000012.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000012.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 10 · 15/04/1914
+## 8 · 15/04/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -158,7 +124,7 @@ Tuo Giovanni
 
 Testo dal documento familiare Paolo Mazzi-000013.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 11 · 26/04/1914
+## 9 · 26/04/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -167,18 +133,18 @@ Saluti affettuosissimi, tenerissime carezze e tanti e tanti… pensieri… dall�
 
 Testo dal documento familiare Paolo Mazzi-000014.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 12 · 02/05/1914
+## 10 · 02/05/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
 Bari 2 maggio 1914 ore 12.40
 
 Pensieri, saluti baci e nessuna nuvola
-Tuo affezionatissimo Giovanni chi teneramente chiama e ti adora.
+Tuo affezionatissimo Giovanni che teneramente ti ama e ti adora.
 
-Testo dal documento familiare Paolo Mazzi-000015.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000015.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 13 · 03/05/1914
+## 11 · 03/05/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -194,7 +160,22 @@ Lina M
 
 Testo dal documento familiare Paolo Mazzi-000016.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 14 · 16/5/1914
+## 12 · 15/05/1914
+
+Trascrizione familiare recuperata · da verificare sul manoscritto
+
+Verona 15 maggio 1914
+
+
+Distinta signorina Lina Masoni
+Peschiera
+
+Affettuosissimi saluti pensieri.
+Giovanni
+
+Testo dal documento familiare Paolo Mazzi-000018.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+
+## 13 · 16/5/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -211,28 +192,13 @@ Giovanni
 
 Testo dal documento familiare Paolo Mazzi-000019.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 15 · 15/05/1914
-
-Trascrizione familiare recuperata · da verificare sul manoscritto
-
-Verona 15 maggio 1914
-
-
-Distinta signorina Lina Masoni
-Peschiera
-
-Affettuosissimi saluti pensieri.
-Giovanni
-
-Testo dal documento familiare Paolo Mazzi-000018.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
-
-## 16 · 17/5/1914
+## 14 · 17/5/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
 17 maggio 1914
 
-Linuncia mia…
+Linuccia mia…
 Ti mando il mio indirizzo, per potermi scrivere al campo.
 Quando mi invierai delle cartoline, sarà meglio chiudermi in busta, non potendo ritirare io personalmente la corrispondenza, essendo l’ufficio postale in un altro paese:
 Eccolo!: Il mio nome lo conosci…
@@ -246,9 +212,9 @@ Verona
 
 Saluti e pensieri…
 
-Testo dal documento familiare Paolo Mazzi-000020.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000020.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 17 · 18/5/1914
+## 15 · 18/5/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -261,7 +227,7 @@ Addio
 
 Testo dal documento familiare Paolo Mazzi-000021.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 18 · 20/5/1914
+## 16 · 20/5/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -279,7 +245,7 @@ Giovanni
 
 Testo dal documento familiare Paolo Mazzi-000023.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 19 · 20/5/1914
+## 17 · 20/5/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -291,7 +257,7 @@ Tuo Giovanni
 
 Testo dal documento familiare Paolo Mazzi-000022.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 20 · 23/5/1914
+## 18 · 23/5/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -308,20 +274,21 @@ Lina
 
 Testo dal documento familiare Paolo Mazzi-000024.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 21 · 25/5/1914
+## 19 · 25/5/1914
 
-Trascrizione familiare recuperata · da verificare sul manoscritto
+Trascrizione rivista sul manoscritto · 14 novembre 2026
 
-Fosse 25 maggio 1914 ore 19.50
+Fosse 25 maggio 1914 ore 19.10
+
 Grazie delle cartoline illustrate.
 Questa volta non hai indovinato il mio pensiero.
-Quattro pensierini non formavano la parola bac, io messi a caso… la sospensione sarà costante…
-Come mai la tua cartolina datata 23 mi giunta oggi mentre un’altra, pure proveniente da Peschiera con data 24 lo Utah assieme alla tua?
+I 4 pensierini non formavano la parola baci e né Lina, li ho messi a caso… La sospensione sarà costante…
+Come mai la tua cartolina datata 23 mi è giunta oggi, mentre un’altra, pure proveniente da Peschiera con data 24, l’ho avuta assieme alla tua?
 Saluti Giovanni
 
-Testo dal documento familiare Paolo Mazzi-000025.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo riletto sulla scansione manoscritta il 14 novembre 2026. Corretti il passo sui quattro pensierini, la frase «l’ho avuta» e l’ora 19.10. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 22 · 14/6/1914
+## 20 · 14/6/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -329,13 +296,13 @@ Sirolo Ancona 14/6/1914 ore 20.00
 Saluti affettuosissimi cari pensieri
 Giovanni
 
-Signorina Tina Manzoni
+Signorina Lina Masoni
 Peschiera sul Garda
 Verona
 
-Testo dal documento familiare Paolo Mazzi-000026.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000026.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Destinataria verificata sul manoscritto: Lina Masoni, non Tina Manzoni. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 23 · 20/6/1914
+## 21 · 20/6/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -354,12 +321,12 @@ Giovanni tuo
 
 Testo dal documento familiare Paolo Mazzi-000027.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 24 · 26/6/1914
+## 22 · 26/6/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
 Sirolo 26 giugno 1914 ore 15.00
-Infiitntissimi ringraziamenti.
+Infinitissimi ringraziamenti.
 Saluti affettuosi, carissimi pensierini e baci…
 Giovanni
 Sempre tuo…
@@ -369,9 +336,9 @@ Lina Masoni
 Peschiera Sul Garda
 Verona
 
-Testo dal documento familiare Paolo Mazzi-000028.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+Testo dal documento familiare Paolo Mazzi-000028.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 25 · 8/7/1914
+## 23 · 8/7/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -387,15 +354,23 @@ Un bacione
 
 Testo dal documento familiare Paolo Mazzi-000029.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 26 · 17/8/1914 parte 1
+## 24 · 17/8/1914
+
+Trascrizione familiare recuperata · da verificare sul manoscritto
+
+Verona 17 agosto 1914
+
+Ti penso… Ti voglio bene…  ti mando una miriade di baci.
+Giovannino tuo tutto tutto tutto tuo.
+Alla mia gioia carissima
+A Linuccia adorata
+
+Testo dal documento familiare Paolo Mazzi-000031.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+
+## 25 · 17/8/1914 parte 1
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-7,14
-івм.
-0 1040
-тавь.
-чатоо
 Cartolina 1 di 2
 Verona 17 agosto 1914
 19.00
@@ -412,13 +387,12 @@ che mi tocca montare di servizio.
 Mercoledi o giovedi spero di
 ...continua cartolina successiva (parte 2)
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 27 · 17/8/1914 parte 2
+## 26 · 17/8/1914 parte 2
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-ош'
 Cartolina 2 di 2
 ...continua da cartolina precedente
 poter venire. Verrò facilmente
@@ -436,22 +410,32 @@ Ti bacio con passione
 sulla bocca Tu affettuosamente
 Giovanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 28 · 17/8/1914
+## 27 · 20/8/1914
 
-Trascrizione familiare recuperata · da verificare sul manoscritto
+Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-Verona 17 agosto 1914
+Verona 20-8-14
+24.20
+Gioia mia cara
+Linuccia mia... quanto più
+ti parlo e ti sono vicino, tanto più accresce in me la
+voglia e l'ardente desiderio
+di non più distaccarmi
+da te e di vivere sempre
+al tuo fianco amandoci
+teneramente ...
+Vorrei leggere nell'intimo
+del tuo cuore e dell'anima
+tua, per rilevare tutti i
+tuoi pensieri e desideri ed
+accontentarti sempre.
+Anche questa sera, io ho
 
-Ti penso… Ti voglio bene…  ti mando una miriade di baci.
-Giovannino tuo tutto tutto tutto tuo.
-Alla mia gioia carissima
-A Linuccia adorata
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-Testo dal documento familiare Paolo Mazzi-000031.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
-
-## 29 · 22/8/1914
+## 28 · 22/8/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -467,7 +451,7 @@ Un buon arrivederci
 
 Testo dal documento familiare Paolo Mazzi-000032.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 30 · 24/8/1914 parte 1
+## 29 · 24/8/1914 parte 1
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -480,11 +464,11 @@ sei buono Giovanni. Senti
 Linuccia mia, non è per bontà
 dell'anima mia, comportarmi
 così verso di te, non è per la gratitudine
-che ho perte ma
-è perl'affetto che tu mi porti.
-Tuse sei immensamente
+che ho per te ma
+è per l’affetto che tu mi porti.
+Tu sei immensamente
 buona, affettuosa, di sentimenti
-delicati, sei un angelol...
+delicati, sei un angelo!...
 Se divengo buono
 è per te, sei tu, che mi
 rendi così.
@@ -498,24 +482,12 @@ Perdonami
 Bacioni
 ..continua cartolina 2 di 3
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 31 · 24/8/1914 parte 2
+## 30 · 24/8/1914 parte 2
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-ро)
-Кaчeнa
-.ono,
-Рва
-рен
-ola
-vala,
-9
-0, шn
-7 з0г
-аркіиі
-tив,
 Cartolina 2 di 3
 Quando a cena, parlavi di omissis,
 di distacco.... mi straziava
@@ -526,23 +498,23 @@ vicino, o almeno,
 vederla quando voglio.
 Durante il tratto di strada
 percorso stasera a braccetto,
-in principio della vaCavalcaselle
+in principio della via Cavalcaselle
 ero taciturno, te ne
 sei accorta? Sai perchè?
 Era uno di quei momenti in
 cui l'anima mia è maggiormente
-sensiblle e vorrebbe aprirsi
+sensibile e vorrebbe aprirsi
 tutta tutta ed esternarti il
 grande affetto, l'amore tenace e
 l'adorazione che racchiude in
 essa. Vorrei in quei momenti...
 Nota laterale:
-Affettuossissimi saluti ai tuoi
+Affettuosissimi saluti ai tuoi
 ...continua in cartolina 3 di 3
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 32 · 24/8/1914 parte 3
+## 31 · 24/8/1914 parte 3
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -572,7 +544,7 @@ Ti bacio sulla bocca... addio Giovanni
 
 Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
 
-## 33 · 7/9/1914
+## 32 · 7/9/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -586,7 +558,48 @@ Giovannino
 
 Testo dal documento familiare Paolo Mazzi-000034.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 34 · 30/10/1914
+## 33 · 7/9/1914
+
+Bozza da verificare · lettura del testo dattiloscritto nella scansione
+
+7-9-14
+ore 22
+Mia adorata
+Lo scriverti spesso, il pensarti continuamente, l'aver costantemente il dolce
+nome di Lina sulla foto
+mi danno la grata
+illusione di avert vicino e di vivere con te.
+Tu sei gioia mia... tutta
+mia ...del tuo Giovanni,
+Di sera a quest'ora, ero con te
+a passeggio, al chiarore di luna,
+ci raccontavamo tante belle cose,
+ел
+
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+
+## 34 · 21/9/1914
+
+Bozza da verificare · lettura del testo dattiloscritto nella scansione
+
+Baci
+Recoaro 21/9/14
+ore 21.40
+Gioia mia cara
+Oggi ti ho inviato il pacco
+postale con i ciclamini,
+sono pochi i fiori, sono i
+soli che ho raccolto questa
+mattina con le mie proprie mani, pensando a te.
+Li ho mischiati con qualcuno
+che avevo raccolto l'altro
+giorno e che volevo porgerti personalmente. Sono i
+pochi rimasti vegeti, gli
+altri sono appassiti; mia
+
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
+
+## 35 · 30/10/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -597,15 +610,10 @@ Giovannino tuo
 
 Testo dal documento familiare Paolo Mazzi-000035.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 35 · 30/10/1914 parte 1
+## 36 · 30/10/1914 parte 1
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-2- 14
-калв
-- tr
-нія
-lиro,
 Tavernette 30-10-14
 Linuccia mia cara
 come cercherò, quando saremo sposi, d'indovinare tutti
@@ -621,14 +629,12 @@ mi dicesti: guardi che io non scherzo,
 certe cose le dico sul serio. Non lo potei
 fare, c'erano i tuoi troppo vicini,
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 36 · 30/10/1914 parte 2
+## 37 · 30/10/1914 parte 2
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-vi
-2
 Parliamo ora di cose allegre e piacevoli.
 Senti ciò che ti dice il tuo Giovannino: apri l'orario che ti ho mandato ieri, e troverai a pag. 2
 le varie corse da Tavernelle a Recoaro e viceversa.
@@ -640,15 +646,12 @@ arrivi, telegrafami, perchè se posso, come sarà certamente, verrò ad incontra
 di portare il cappottino. Se non vieni, mi diaspiace,
 ma tanto tanto.. ma tanto e assai.
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 37 · 30/10/1914 parte 3
+## 38 · 30/10/1914 parte 3
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-1
-",
-3
 Come noti tutto !...
 Tu sei il tipo che fai per me, sei
 molto energica e mi chiami
@@ -670,9 +673,9 @@ prima, perchè possa venire all stazione a prenderti. Ti mando un
 bellissimo e lungo bacione
 Giovanni tuo
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 38 · 25/11/1914
+## 39 · 25/11/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -688,7 +691,7 @@ Giovanni
 
 Testo dal documento familiare Paolo Mazzi-000036.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 39 · 1/12/1914
+## 40 · 1/12/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -703,7 +706,7 @@ Giovannino tuo
 
 Testo dal documento familiare Paolo Mazzi-000037.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 40 · 4/12/1914
+## 41 · 4/12/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -721,7 +724,7 @@ Eternamente tuo
 
 Testo dal documento familiare Paolo Mazzi-000042.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 41 · 5/12/1914
+## 42 · 5/12/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -736,7 +739,7 @@ Giovannino
 
 Testo dal documento familiare Paolo Mazzi-000038.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 42 · 8/12/1914
+## 43 · 8/12/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -753,7 +756,7 @@ Giovannino tuo
 
 Testo dal documento familiare Paolo Mazzi-000039.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 43 · 16/12/1914
+## 44 · 16/12/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -768,7 +771,7 @@ Giovannino
 
 Testo dal documento familiare Paolo Mazzi-000040.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 44 · 28/12/1914
+## 45 · 28/12/1914
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 

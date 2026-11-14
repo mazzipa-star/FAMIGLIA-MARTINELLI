@@ -1,8 +1,8 @@
 # Cartoline varie
 
-Letture preliminari: confrontare con le scansioni originali. Le date delle didascalie e le collocazioni delle raccolte sono quelle del sito Weebly.
+Revisione del 14 novembre 2026. Le letture dubbie non sono completate per supposizione.
 
-## 1 · Senza didascalia
+## 1 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -23,79 +23,10 @@ dello stesso amore
 
 Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
 
-## 2 · Senza didascalia
+## 2 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-erio
-6сі
-Verona 20-8-14
-24.20
-Gioia mia cara
-Linuccia mia... quanto più
-ti parlo e ti sono vicino, tanto più accresce in me la
-voglia e l'ardente desiderio
-di non più distaccarmi
-da te e di vivere sempre
-al tuo fianco amandoci
-teneramente ...
-Vorrei leggere nell'intimo
-del tuo cuore e dell'anima
-tua, per rilevare tutti i
-tuoi pensieri e desideri ed
-accontentarti sempre.
-Anche questa sera, io ho
-
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
-
-## 3 · Senza didascalia
-
-Bozza da verificare · lettura del testo dattiloscritto nella scansione
-
-7-9-14
-ore 22
-Mia adorata
-Lo scriverti spesso, il pensarti continuamente, l'aver costantemente il dolce
-nome di Lina sulla foto
-mi danno la grata
-illusione di avert vicino e di vivere con te.
-Tu sei gioia mia... tutta
-mia ...del tuo Giovanni,
-Di sera a quest'ora, ero con te
-a passeggio, al chiarore di luna,
-ci raccontavamo tante belle cose,
-ел
-
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
-
-## 4 · Senza didascalia
-
-Bozza da verificare · lettura del testo dattiloscritto nella scansione
-
-1.40
-faєco
-Baci
-Recoaro 21/9/14
-ore 21.40
-Gioia mia cara
-Oggi ti ho inviato il pacco
-postale con i ciclamini,
-sono pochi i fiori, sono i
-soli che ho raccolto questa
-mattina con le mie proprie mani, pensando a te.
-Li ho mischiati con qualcuno
-che avevo raccolto l'altro
-giorno e che volevo porgerti personalmente. Sono i
-pochi rimasti vegeti, gli
-altri sono appassiti; mia
-
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
-
-## 5 · Senza didascalia
-
-Bozza da verificare · lettura del testo dattiloscritto nella scansione
-
-ист.
 Quanto alla speranza di averti
 qui con me... Vi è pure
 una pianta, anzi più pianticelle di ciclamini e di
@@ -111,16 +42,12 @@ cure. In uno scatolino troverai un ricordo di Recoaro,
 è un oggettino, mi è piaciuto
 e l'ho acquistato per mandartelo.
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 6 · Senza didascalia
+## 3 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-моці
-кіль
-ти?
-2
 questa sera sono lontano
 22 km; ma il mio
 cuore, l'anima mia è da Linuccia, è da Lei.
@@ -137,15 +64,12 @@ pure questa volta?
 Sei stata al mercato stamattina?
 C'era molta gente?
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 7 · Senza didascalia
+## 4 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-10
-òl!:
-2)
 Anche questa è poetica
 vedi che sguardi espressivi e
 che occhioni? Ti piace?
@@ -161,13 +85,12 @@ l'ho costretto a rimanere con
 me, c'era pure il Capitano.
 Da quando sono soldato non
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 8 · Senza didascalia
+## 5 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-2
 differenza che un paese meridionale di montagna..L'aria ottima, l'unica cosa che offre, è
 un mortorio, una melanconia
 ma sono contento, tanto tanto
@@ -196,20 +119,17 @@ con una tenerissima carezza. Giovanni
 tutto tutto tuo.
 Baci a babbo e mamma
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 9 · Senza didascalia
+## 6 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-1
-e,
-2
 giorno della tua venuta.
 Fra quanti giorni... Mi
 auguro cara sarai vicino
 al tuo Giovannino, che ti anela e
-ti aspetta a braccia aperte.
+ti aspetta a braccia aper te.
 Vieni amore, ti voglio, ti
 desidero, bramo di vederti,
 parlarti, fissare i tuoi sguardi,
@@ -225,20 +145,12 @@ leri sera, sai, ti scrissi una
 lunghissima lettera, la chiusi in
 busta, dovevo imbucarla questa
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 10 · Senza didascalia
+## 7 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-?
-rucceo,
-rull
-104)
-, 1
-14?
-гаi?
-Рего?
 Linuccia. Vedi quel povero
 disgraziato che è sulla cartolina?
 Chissà cosa penserà!... Così fà
@@ -263,23 +175,12 @@ Non vuoi tu bacini? Ed io per
 dispetto te ne mando assai, assai, assai e
 forti forti forti. Sono bambinone !! Simpatico
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 11 · Senza didascalia
+## 8 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-ді
-макo.
--cao
-020
-Кіlо
-2 mdl,
-За
-ductela
-co- toni
-_ Com
-mieo
 Ti saranno antipatiche le cartoline, qui
 non ne ho trovate altre, vi sono due case, due
 stazioni ed una rivendita di tabacchi.
@@ -298,16 +199,12 @@ cosa è? Il pensiero che devo presto lasciarti. Come
 è opprimente, Lina, quella preoccupazione.
 Come sarò felice con te.... quando ci uniremo
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 12 · Senza didascalia
+## 9 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-10
-чяло
-Коїлня
-Aciia
 per tutta la vita e per non distaccarci mai più ci vorremo eternamente
 bene, ci adoreremo a vicenda, vivremo
 sempre l'uno per l'altro ...
@@ -330,22 +227,12 @@ Vuoi anche la mia? così le mandi assieme.
 Come scrivi sopra? Me lo dici prima
 Addio e baci ancora
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 13 · Senza didascalia
+## 10 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-7.
-ойо
-iо
-іза
-і?
-: Дa
-когò
-+ Jilhs
-cia
-3
 Mi hai perdonato, abbiamo fatto
 la pace? Siamo d'accordo
 più di prima?... dì è vero, tesoro
@@ -363,14 +250,12 @@ Avrò domani un tuo bacio? Sarà
 giornata. Giovannino tuo, ti bacia
 forte forte sulla bocca... addio!
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 14 · Senza didascalia
+## 11 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-. ?
-3
 La cartolina del Babbo,
 l'avevo in tasca nel giornale,
 che rabbia, l'avevo portata
@@ -391,13 +276,12 @@ Giovannino tuo
 rina
 Що
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 15 · Senza didascalia
+## 12 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-3
 I tuoi fiori io messi nell'acqua
 e sono ritornati forti e vegeti...
 li ho nella mia stanza da letto
@@ -420,13 +304,12 @@ miriade di bacioni affettuosi.
 Tuo eternamente affezionato
 Giovanni tutto tutto tuo
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 16 · Senza didascalia
+## 13 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-3
 Ti mando la cartolina, così
 potrai farti un'idea dei bei siti
 E dei panorami. Se difficile è
@@ -443,16 +326,12 @@ Addio, gioia mia diletta,
 il tuo Giovannino ti accarezza teneramente e affettuosissimamente. Baci baci
 Arrivederci a Domenica
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 17 · Senza didascalia
+## 14 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-,come
-зі
-оче ?
-6
 del nostro santo amore.
 Non mi sono ricordato a
 domandarti, perché mi facessi
@@ -469,24 +348,12 @@ A Linuccia tutta... tutta di
 Giovannino do un bel bacione
 forte forte forte. Addio.
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 18 · Senza didascalia
+## 15 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-Mà co
-За вл
-/
-во , 4
-шумо
-імй?
-ùa cіt
-a 1
-5
-tрeл
-Лнап
--
 rivederti dopo il distacco
 doloroso dell'altra sera.
 Certe volte, quando si ama
@@ -503,19 +370,12 @@ ad entrambi antipatica e
 pure ci torneremo, perché
 ci ricorderà i primi idilli
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 19 · Senza didascalia
+## 16 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-сhя
-Д?
-оно
-alda
-an
-1
-4
 Lo tieni in camera tua?
 Non mi farai vedere la tua stanza
 qualche volta che vengo a trovarti?
@@ -532,18 +392,12 @@ che mi vorranno perdonare,
 tenendo conto dell'ansia e
 del desiderio che avevo di
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 20 · Senza didascalia
+## 17 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-2a
-l'c
-тоня
-Dmois
-cot
-3
 e confidenza, che mi sembra
 di essere fidanzati no da
 due soli mesi, e per posta, ma
@@ -561,24 +415,12 @@ a ciò che Ella ti disse, circa il
 suo matrimonio, di non sposarti mai.
 Cosa le dirai tu?...Dovevi farmi udire il cardellino e ti sei dimenticata.
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 21 · Senza didascalia
+## 18 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-Le dotria-
-кров.
-la
-чатов
-Atueno
-lò coni
-apui ai
-Com
-наї.
-in
-нна
-cone.
 Non dimenticarti di guardare... che rabbia...
 Domani manderò costà il mio
 attendente per prendere e portarmi la
@@ -597,26 +439,12 @@ lunghissimo e forte bacione sulla
 boccuzza.
 tuo Giovannino caro
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 22 · Senza didascalia
+## 19 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-шло
-зі ала,
-тел
-жено
-outrato
-ви?
-прадмін
-вhà, i
-+ on) hà
-ну
-na
--
-рійи
-3
 ho mai tanto il mio
 dovere come adesso. E sai perchè?
 Perchè non ho interesse di uscire e di svagarmi e non mi
@@ -635,20 +463,12 @@ la materia più difficile.
 Non ti ho domandato se ti piace
 questa cartolina...
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 23 · Senza didascalia
+## 20 · Senza data
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-вв.
-ione
-бо
--
-• Lл.
-4 lu
-гіри.
-ha na
 Anche stamani sono allegro sebbene il tempo sia pessimo e piove
 fortissimo. Sono contento perchè dopodomani fra... due ... soli ...
 giorni ... ti vedrò di nuovo e
@@ -663,5 +483,18 @@ Vedremo! Addio anima cara.
 Giovannino della sua Linuccia ti bacia
 con affetto e passione sulla bocca.
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
+
+## 21 · 19 ottobre · anno incerto
+
+Bozza da verificare · lettura del testo dattiloscritto nella scansione
+
+Signorina
+Linuccia Masoni
+Peschiera
+omissis 19-10-?
+Saluti
+Giovanni
+
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. L’anno di questa cartolina non è accertato: la collocazione originaria nella raccolta 1919 non costituisce una conferma della data.
 

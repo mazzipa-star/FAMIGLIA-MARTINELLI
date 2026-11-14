@@ -1,6 +1,6 @@
 # Cartoline 1919
 
-Letture preliminari: confrontare con le scansioni originali. Le date delle didascalie e le collocazioni delle raccolte sono quelle del sito Weebly.
+Revisione del 14 novembre 2026. Le letture dubbie non sono completate per supposizione.
 
 ## 1 · 17-03-1919
 
@@ -38,17 +38,4 @@ Perugia è una residenza stabile?
 Mandami la direzione della casa.
 
 Testo dal documento familiare Paolo Mazzi-000046.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
-
-## 3 · 19-10-1919
-
-Bozza da verificare · lettura del testo dattiloscritto nella scansione
-
-Signorina
-Linuccia Masoni
-Peschiera
-omissis 19-10-?
-Saluti
-Giovanni
-
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
 

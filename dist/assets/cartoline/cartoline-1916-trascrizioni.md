@@ -1,6 +1,6 @@
 # Cartoline 1916
 
-Letture preliminari: confrontare con le scansioni originali. Le date delle didascalie e le collocazioni delle raccolte sono quelle del sito Weebly.
+Revisione del 14 novembre 2026. Le letture dubbie non sono completate per supposizione.
 
 ## 1 · 12-06-1916
 

@@ -1,21 +1,39 @@
 # Cartoline 1915
 
-Letture preliminari: confrontare con le scansioni originali. Le date delle didascalie e le collocazioni delle raccolte sono quelle del sito Weebly.
+Revisione del 14 novembre 2026. Le letture dubbie non sono completate per supposizione.
 
-## 1 · 1/2/1915
+## 1 · 27/01/1915
+
+Trascrizione familiare recuperata · da verificare sul manoscritto
+
+27 gennaio 1915 20.00
+
+!!!… Sempre così!…
+Giovannino tuo
+
+Un pensiero… 1000 affezioni
+1000 baci…
+Giovanni tuo
+
+Al mio caro ideale
+… Linuccia
+Mia…
+
+Testo dal documento familiare Paolo Mazzi-000004.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+
+## 2 · 1/2/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-umno
 Alla mia carissima
 Linuccia
 Verona 1 febbraio 1915
 baci!...........
 Giovannino
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 2 · 9/2/1915
+## 3 · 9/2/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -33,7 +51,7 @@ Giovannino tuo
 
 Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
 
-## 3 · 12/2/1915
+## 4 · 12/2/1915
 
 Trascrizione familiare recuperata · da verificare sul manoscritto
 
@@ -48,39 +66,37 @@ Giovanni
 
 Testo dal documento familiare Paolo Mazzi-000043.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
 
-## 4 · 12/2/1915
+## 5 · 12/2/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-Nr. 115.
 A Linuccia mia
 baciandoti...
 Firenze 12 febbraio 1915
 IIl..... (parla da sè)
 Giovannino
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 5 · 12/2/1915
+## 6 · 12/2/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-12 pнh 19%.
 Roma 12 febbraio 1915
 ore 18
 Gioia mia t'invio da Roma un affettuosissimo
 pensiero... ed un lunghissimo
 bacione... Ti dispiace se ti ho fatto bis
-conlastessa cartolina? Mi piace tanto
+con la stessa cartolina? Mi piace tanto
 e poi a questa vi sono pure dei versi.
 Te ne mando un'altra perchè l'acquistai già
 L'ho acquistata perche in essa raffiguro le
 nostre anime,
 Gio vannino tuo ti bacia affettuosamente
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 6 · 19/2/1915
+## 7 · 19/2/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -96,7 +112,7 @@ tuo Giovannino
 
 Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
 
-## 7 · 19/3/1915
+## 8 · 19/3/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -114,7 +130,7 @@ Giovannino
 
 Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
 
-## 8 · 23/3/1915
+## 9 · 23/3/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
@@ -124,16 +140,29 @@ Linuccia
 Bacioni lunghi
 appassionatissimi da
 Giovannino
-tuO
+tuo
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 9 · 29/5/1915
+## 10 · 23/03/1915
+
+Trascrizione familiare recuperata · da verificare sul manoscritto
+
+Poiano 23 marzo 1915
+
+Affettuosissimi…
+Giovanni
+
+Distintissima
+Signorina Lina Masoni
+Peschiera
+
+Testo dal documento familiare Paolo Mazzi-000009.docx. Sono conservate le sue letture e omissioni; non è stato ricontrollato integralmente sul manoscritto.
+
+## 11 · 29/5/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-SNO
-eX CN
 Signorina
 Lina Masoni
 Peschiera
@@ -150,13 +179,12 @@ e baci
 Giovannino
 TUO
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 10 · 6/7/1915
+## 12 · 6/7/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-R.
 la Principessa Giobanna
 Egregio sig.
 Amedeo Emilia Masoni
@@ -166,16 +194,12 @@ saluti e baci filiali
 Affezionatissimo
 Giovanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 11 · 9/7/1915
+## 13 · 9/7/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
--Sco
-рurа
-и5я мн
-чо L"
 Distintissima
 Signorina Lina Masoni
 Peschiera
@@ -188,14 +212,12 @@ felicità, gioia e contentezza
 Saluti, pensieri e baci
 Giovannino
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 12 · 21/7/1915
+## 14 · 21/7/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-OMTE
-Sorie 618 N.
 Distintissima
 Signorina Lina Masoni
 Peschiera
@@ -207,15 +229,12 @@ tuo Giovanni
 Baci a Mamma e
 Babbo
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 13 · 13/8/1915
+## 15 · 13/8/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-eschiera
-10, рен
-w0mі.
 Signorina
 Lina Masoni
 Peschiera
@@ -226,16 +245,14 @@ e baci, dal tuo
 affezionatissimo
 Giovanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 14 · 12/9/1915
+## 16 · 12/9/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-(Caгora)
-9 /1.
-", athan:
-DistintissimaSignorina
+Distintissima
+Signorina
 Lina Masoni
 Peschiera
 (Verona)
@@ -244,13 +261,12 @@ Saluti affettuosi, abbracci
 e baci dal tuo aff
 Giovanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 15 · 18/9/1915
+## 17 · 18/9/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-escuera
 TT OA MMSOYS
 Signorina
 Lina Masoni
@@ -261,14 +277,12 @@ Bacioni
 Giovanni tuo
 1819
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 16 · 18/9/1915
+## 18 · 18/9/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-tul fonoa
-tta.
 Signorina Distintissima
 Lina Masoni
 Peschiera
@@ -277,17 +291,12 @@ Settembre 1915
 Baci
 Giovanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 17 · 26/9/1915
+## 19 · 26/9/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-es fiera
-Rodio
-онаено.с
-ї Мриа я ров
-221 49 40 20
 Signorina
 Lina Masoni
 Peschiera
@@ -295,7 +304,7 @@ Peschiera
 ore 10
 Carissima Lina
 lo sto benissimo e di
-ouonissimo umore.
+buonissimo umore.
 E tustai bene? La
 corrispondenza tua mi
 giunge regolarmente.
@@ -304,19 +313,12 @@ coraggio. Saluti e baci
 affettuosi dal tuo
 Giovanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
-## 18 · 21/10/1915
+## 20 · 21/10/1915
 
 Bozza da verificare · lettura del testo dattiloscritto nella scansione
 
-екника
-wizisdodd
-EROISMO FEMMINILE.
-in A27 pet abo 1915 a vande i eo dasi aciaui etrasaio
-occupare una palazzetta forte trincerata. La signorina
-Abriani si offti arditamente di accompagnare i soldati
-per alcune scorciatoie
 Distintissima
 Signorina Lina Masoni
 Peschiera
@@ -325,5 +327,5 @@ Con mille baci e
 abbracci affezionati
 tuo Gio vanni
 
-Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva.
+Testo recuperato dalla colonna dattiloscritta presente nella scansione familiare. Il riconoscimento può contenere errori, parole incomplete e righe fuori ordine; confronta sempre il manoscritto. Non è una trascrizione definitiva. Revisione del 14 novembre 2026: rimossi frammenti OCR estranei e corretti refusi evidenti. Le parole dubbie e le omissioni della lettura familiare richiedono ancora confronto con il manoscritto.
 
