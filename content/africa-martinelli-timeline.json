@@ -1,0 +1,87 @@
+{
+  "title": "Da Verona a Gondar · La famiglia Martinelli tra le due guerre",
+  "status": "Bozza archivistica: date familiari da verificare",
+  "entries": [
+    {
+      "id": 1,
+      "file": "01-verona-anna-enrico.jpg",
+      "date": "Prima della partenza per l’Africa",
+      "title": "Enrico e Annamaria a Verona",
+      "caption": "Enrico Calenda e Annamaria (Mannina) Martinelli nel giardino della casa di famiglia a Verona, prima della partenza per l’Africa. Data da accertare.",
+      "path": "assets/africa-martinelli/01-verona-anna-enrico.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 2,
+      "file": "02-gondar-carlo-enrico-1939.jpg",
+      "date": "1939 · Gondar",
+      "title": "Carlo Martucci ed Enrico Calenda",
+      "caption": "Carlo Martucci a sinistra ed Enrico Calenda a destra, a Gondar nel 1939, secondo la testimonianza familiare.",
+      "path": "assets/africa-martinelli/02-gondar-carlo-enrico-1939.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 3,
+      "file": "03-anna-cerimonia-26-maggio.jpg",
+      "date": "26 maggio · anno da verificare",
+      "title": "Annamaria alla cerimonia",
+      "caption": "Annamaria Martinelli durante una cerimonia in Africa orientale. Sul verso della fotografia compare una data manoscritta; l’anno è ancora da verificare.",
+      "path": "assets/africa-martinelli/03-anna-cerimonia-26-maggio.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 4,
+      "file": "04-verso-cerimonia-26-maggio.jpg",
+      "date": "26 maggio · documento",
+      "title": "Verso della fotografia",
+      "caption": "La scritta sul retro della fotografia della cerimonia. Conservata come testimonianza documentale.",
+      "path": "assets/africa-martinelli/04-verso-cerimonia-26-maggio.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 5,
+      "file": "05-matrimonio-anna-enrico.jpg",
+      "date": "Data da verificare",
+      "title": "Le nozze di Enrico e Annamaria",
+      "caption": "Enrico Calenda e Annamaria Martinelli durante la loro cerimonia nuziale in Africa.",
+      "path": "assets/africa-martinelli/05-matrimonio-anna-enrico.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 6,
+      "file": "06-matrimonio-graziella-paggetta.jpg",
+      "date": "Data da verificare",
+      "title": "Graziella paggetta",
+      "caption": "Un momento delle nozze di Annamaria ed Enrico. Graziella Martinelli partecipa come paggetta.",
+      "path": "assets/africa-martinelli/06-matrimonio-graziella-paggetta.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 7,
+      "file": "07-matrimonio-gruppo.jpg",
+      "date": "Doppio matrimonio",
+      "title": "La famiglia riunita",
+      "caption": "Nel gruppo sono riconosciuti Graziella, Vera, Carlo, Lina, Enrico, Annamaria e Sante. L’uomo seduto potrebbe essere Giovanni: attribuzione da verificare.",
+      "path": "assets/africa-martinelli/07-matrimonio-gruppo.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 8,
+      "file": "08-matrimonio-due-coppie.jpg",
+      "date": "Doppio matrimonio",
+      "title": "Le due coppie di sposi",
+      "caption": "Da sinistra: Carlo Martucci, Vera Martinelli, Annamaria Martinelli ed Enrico Calenda. Le due sorelle si sposarono nello stesso giorno e nella stessa chiesa in Africa orientale.",
+      "path": "assets/africa-martinelli/08-matrimonio-due-coppie.jpg",
+      "verified_date": false
+    },
+    {
+      "id": 9,
+      "file": "09-giovanni-figlie-generi.jpg",
+      "date": "Periodo africano",
+      "title": "Giovanni, le figlie e i generi",
+      "caption": "In alto Giovanni Martinelli; al centro Annamaria e Vera; seduti Enrico Calenda a sinistra e Carlo Martucci a destra.",
+      "path": "assets/africa-martinelli/09-giovanni-figlie-generi.jpg",
+      "verified_date": false
+    }
+  ]
+}
