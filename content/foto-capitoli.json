@@ -827,11 +827,6 @@
         "url": "https://famiglia-martinelli.weebly.com/uploads/5/2/9/8/52986659/niccolo.jpg",
         "width": "234",
         "height": "319"
-      },
-      {
-        "url": "https://famiglia-martinelli.weebly.com/uploads/5/2/9/8/52986659/stefano.jpg",
-        "width": "587",
-        "height": "800"
       }
     ]
   },
@@ -1434,6 +1429,12 @@
         "height": 540,
         "fullHeight": 540,
         "fullWidth": 540
+      },
+      {
+        "url": "https://famiglia-martinelli.weebly.com/uploads/5/2/9/8/52986659/stefano.jpg",
+        "width": "587",
+        "height": "800",
+        "caption": "Stefano Mazzi"
       }
     ]
   }
