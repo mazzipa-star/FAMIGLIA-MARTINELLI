@@ -126,3 +126,7 @@ apply_nascita(R)
 
 from medaglia import apply_medaglia
 apply_medaglia(R)
+
+# Raccolta fotografica Verona–Gondar (aggiunta dopo gli altri generatori).
+from africa import apply_africa
+apply_africa(R)
