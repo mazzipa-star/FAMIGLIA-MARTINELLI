@@ -134,3 +134,6 @@ apply_africa(R)
 # Scheda dello stemma della famiglia nella sezione Documenti.
 from stemma_documenti import apply_stemma_documenti
 apply_stemma_documenti(R)
+
+from invito_nozze import apply_invito_nozze
+apply_invito_nozze(R)
