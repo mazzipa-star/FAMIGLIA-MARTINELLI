@@ -137,3 +137,7 @@ apply_stemma_documenti(R)
 
 from invito_nozze import apply_invito_nozze
 apply_invito_nozze(R)
+
+# Raccolta delle nozze di Anna e Vera: banner in Foto e video e archivio delle immagini.
+from matrimonio_anna_vera import apply_matrimonio_anna_vera
+apply_matrimonio_anna_vera(R)
