@@ -120,3 +120,6 @@ apply_ritratti(R)
 
 from araldo import apply_araldo
 apply_araldo(R)
+
+from nascita import apply_nascita
+apply_nascita(R)
