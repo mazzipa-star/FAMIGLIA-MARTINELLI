@@ -130,3 +130,7 @@ apply_medaglia(R)
 # Raccolta fotografica Verona–Gondar (aggiunta dopo gli altri generatori).
 from africa import apply_africa
 apply_africa(R)
+
+# Scheda dello stemma della famiglia nella sezione Documenti.
+from stemma_documenti import apply_stemma_documenti
+apply_stemma_documenti(R)
