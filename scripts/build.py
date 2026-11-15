@@ -123,3 +123,6 @@ apply_araldo(R)
 
 from nascita import apply_nascita
 apply_nascita(R)
+
+from medaglia import apply_medaglia
+apply_medaglia(R)
