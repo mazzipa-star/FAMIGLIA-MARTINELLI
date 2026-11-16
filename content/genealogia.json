@@ -476,7 +476,7 @@
       {
         "id": "discendenti-8",
         "name": "Annamaria Martinelli",
-        "date": "?-?",
+        "date": "1917-?",
         "x": 4926,
         "y": 474,
         "portrait": "assets/ritratti-famiglia/family-23.webp",
@@ -487,10 +487,10 @@
         "partners": [
           "discendenti-9"
         ],
-        "birth": "",
+        "birth": "30 dicembre 1917",
         "death": "",
         "deceased_recorded": true,
-        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "date_source": "Data di nascita comunicata dalla famiglia il 16 novembre 2026; dato da verificare con documento anagrafico.",
         "catalog_id": "family-23",
         "record_name": "Annamaria Martinelli (Tortora)",
         "identity_note": "",
