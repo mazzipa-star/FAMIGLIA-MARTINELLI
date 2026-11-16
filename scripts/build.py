@@ -141,3 +141,7 @@ apply_invito_nozze(R)
 # Raccolta delle nozze di Anna e Vera: banner in Foto e video e archivio delle immagini.
 from matrimonio_anna_vera import apply_matrimonio_anna_vera
 apply_matrimonio_anna_vera(R)
+
+# Nuovi ritratti storici di Lina e Giovanni, con originali e restauri.
+from ritratti_anteguerra import apply_ritratti_anteguerra
+apply_ritratti_anteguerra(R)
