@@ -149,3 +149,7 @@ apply_ritratti_anteguerra(R)
 # Collegamenti ai filmati di repertorio di Gondar nella sezione Foto e video.
 from gondar_repertorio import apply_gondar_repertorio
 apply_gondar_repertorio(R)
+
+# Indici Foto/Video compatti, album a miniature e navigazione globale separata.
+from archivio_raccolte import apply_collections
+apply_collections(R)
