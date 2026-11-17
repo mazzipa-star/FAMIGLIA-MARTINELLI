@@ -87,5 +87,14 @@
       "path": "assets/africa-martinelli/09-giovanni-figlie-generi.jpg",
       "verified_date": false
     }
-  ]
+  ],
+  "family_testimony": {
+    "recorded_on": "2026-11-17",
+    "house_location": "Azozò",
+    "house_photo": "assets/c3822fc967-casa-martinelli-verona.jpg",
+    "return_ship": "Duilio",
+    "return_date": null,
+    "giovanni_remained_in_africa_without_family": true,
+    "note": "Secondo la testimonianza familiare raccolta il 17 novembre 2026, la casa raffigurata si trovava ad Azozò. I familiari rientrarono dall’Africa a bordo della nave Duilio; Giovanni Martinelli rimase in Africa senza la famiglia. La data del rientro è da precisare."
+  }
 }
