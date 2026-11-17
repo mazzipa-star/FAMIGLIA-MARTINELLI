@@ -145,3 +145,7 @@ apply_matrimonio_anna_vera(R)
 # Nuovi ritratti storici di Lina e Giovanni, con originali e restauri.
 from ritratti_anteguerra import apply_ritratti_anteguerra
 apply_ritratti_anteguerra(R)
+
+# Collegamenti ai filmati di repertorio di Gondar nella sezione Foto e video.
+from gondar_repertorio import apply_gondar_repertorio
+apply_gondar_repertorio(R)
