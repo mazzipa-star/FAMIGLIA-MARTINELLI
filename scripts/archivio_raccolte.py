@@ -42,11 +42,11 @@ def apply_collections(root):
     collections.append(dict(id='matrimoni',title='Il matrimonio di Anna e Vera',desc='Fotografie delle due coppie, famiglia e invito di nozze.',images=wedding,href='album-matrimoni.html',more='matrimonio-anna-vera.html'))
     portrait_base='assets/famiglia-martinelli-storiche/'
     portraits=[dict(src=portrait_base+x+'-restaurata.jpg',full=portrait_base+x+'-restaurata.jpg',caption=t)
-               for x,t in [('lina-diploma','Lina Masoni al diploma'),('giovanni-giovane-ufficiale','Giovanni giovane ufficiale'),('giovanni-con-padre','Giovanni con il padre')]]
+               for x,t in [('giovanni-giovane-ufficiale','Giovanni giovane ufficiale'),('lina-diploma','Lina Masoni al diploma'),('giovanni-con-padre','Giovanni con il padre')]]
     if all((dist/i['src']).is_file() for i in portraits):
         collections.append(dict(id='ritratti',title='Lina e Giovanni · Ritratti storici',desc='Tre ritratti restaurati con originali.',images=portraits,href='album-ritratti.html',more='ritratti-lina-giovanni.html'))
     else:
-        collections.append(dict(id='ritratti',title='Lina e Giovanni · Ritratti storici',desc='Scheda già presente; le nuove fotografie originali e restaurate devono ancora essere caricate.',images=[],href='ritratti-lina-giovanni.html',cover='assets/1b8375d93e-enrico-calenda.jpg',missing=True))
+        collections.append(dict(id='ritratti',title='Lina e Giovanni · Ritratti storici',desc='Scheda già presente; le nuove fotografie originali e restaurate devono ancora essere caricate.',images=[],href='ritratti-lina-giovanni.html',cover=portrait_base+'giovanni-giovane-ufficiale-restaurata.jpg',missing=True))
     menu='<nav class="collection-tabs" aria-label="Sezioni dell’archivio"><a href="foto.html">Foto</a><a href="video.html">Video</a></nav>'
     def shell(title,subtitle,body,filename):
         h=head.replace('Foto e video · Famiglia Martinelli',escape(title)+' · Famiglia Martinelli')
