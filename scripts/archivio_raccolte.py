@@ -77,7 +77,7 @@ def apply_collections(root):
     movies=[
      dict(title='Le origini e gli antenati',description='Dalle radici della casata alle generazioni di Giovanni e Lina.',slug='martinelli-origini-e-antenati'),
      dict(title='Giovanni e Lina — Un amore oltre la distanza',description='Cartoline, fotografie e diario dalla Grande Guerra al ritorno.',slug='giovanni-lina-un-amore-oltre-la-distanza'),
-     dict(title='Tra le due guerre — La famiglia Martinelli',description='Da Verona all’Africa orientale e al ritorno: fotografie, storia e memorie della famiglia Martinelli. Durata: 5 minuti e 34 secondi.',slug='tra-le-due-guerre'),
+     dict(title='Tra le due guerre — La famiglia Martinelli',description='Da Verona all’Africa orientale e al ritorno: fotografie, storia e memorie della famiglia Martinelli. Durata: 5 minuti e 34 secondi.',slug='tra-le-due-guerre',version='out-of-africa-20261118'),
      dict(title='La marmellata di Caprino',description='Un filmato conservato nell’archivio familiare.',slug='marmellata-di-caprino'),
      dict(title='Una giornata particolare',description='Un ricordo filmato dell’archivio di famiglia.',slug='una-giornata-particolare')
     ]
@@ -96,12 +96,13 @@ def apply_collections(root):
            images=[dict(src=x['poster'],caption=x['title']) for x in links])
     ]
     idx='<nav class="collection-index" aria-label="Indice video">'+''.join('<a href="#raccolta-'+v['id']+'">'+escape(v['title'])+'</a>' for v in videos)+'</nav>'
-    featured='<article class="video-gallery-card" id="tra-le-due-guerre"><h2>Tra le due guerre — La famiglia Martinelli</h2><p>Da Verona all’Africa orientale e al ritorno. Durata: 5 minuti e 34 secondi.</p><video controls preload="none" playsinline poster="assets/media/tra-le-due-guerre.jpg" aria-label="Tra le due guerre — La famiglia Martinelli"><source src="assets/media/tra-le-due-guerre.mp4" type="video/mp4">Il tuo browser non supporta il video.</video><p><a href="assets/media/tra-le-due-guerre.mp4" download>Scarica MP4</a></p></article>'
+    featured='<article class="video-gallery-card" id="tra-le-due-guerre"><h2>Tra le due guerre — La famiglia Martinelli</h2><p>Da Verona all’Africa orientale e al ritorno. Durata: 5 minuti e 34 secondi.</p><video controls preload="none" playsinline poster="assets/media/tra-le-due-guerre.jpg" aria-label="Tra le due guerre — La famiglia Martinelli"><source src="assets/media/tra-le-due-guerre.mp4?v=out-of-africa-20261118" type="video/mp4">Il tuo browser non supporta il video.</video><p><a href="assets/media/tra-le-due-guerre.mp4?v=out-of-africa-20261118" download>Scarica MP4</a></p></article>'
     shell('Video','Scegli una cartella di filmati. Usa le frecce sulle anteprime oppure apri la raccolta per vedere tutti i video e i collegamenti alle fonti.',featured+idx+'<section class="collection-grid" aria-label="Cartelle video">'+''.join(video_card(v) for v in videos)+'</section>','video.html')
     movie_cards=[]
     for m in movies:
        base='assets/media/'+m['slug']
-       movie_cards.append('<article class="video-gallery-card" id="'+escape(m['slug'])+'"><h2>'+escape(m['title'])+'</h2><p>'+escape(m['description'])+'</p><video controls preload="none" playsinline poster="'+base+'.jpg"><source src="'+base+'.mp4" type="video/mp4">Il tuo browser non supporta il video.</video><p><a href="'+base+'.mp4" download>Scarica MP4</a></p></article>')
+       video_url=base+'.mp4'+('?v='+m['version'] if m.get('version') else '')
+       movie_cards.append('<article class="video-gallery-card" id="'+escape(m['slug'])+'"><h2>'+escape(m['title'])+'</h2><p>'+escape(m['description'])+'</p><video controls preload="none" playsinline poster="'+base+'.jpg"><source src="'+escape(video_url,quote=True)+'" type="video/mp4">Il tuo browser non supporta il video.</video><p><a href="'+escape(video_url,quote=True)+'" download>Scarica MP4</a></p></article>')
     shell('I film della famiglia Martinelli','Tutti i film conservati nel sito, pronti per la riproduzione.','<a class="collection-back" href="video.html">← Torna alle cartelle video</a><nav class="collection-index">'+''.join('<a href="#'+escape(m['slug'])+'">'+escape(m['title'])+'</a>' for m in movies)+'</nav>'+''.join(movie_cards),'video-famiglia.html')
     link_cards=[]
     for i,l in enumerate(links,1):
