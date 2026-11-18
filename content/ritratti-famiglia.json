@@ -108,17 +108,20 @@
       6287.898999999999
     ],
     "record_name": "Giacomo Galletti",
-    "birth": "",
+    "birth": "25 febbraio 1972",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-4.webp",
     "photo_full": "assets/ritratti-famiglia/family-4-grande.webp",
     "collection": "Martucci",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-galletti-giacomo"
+    ],
+    "birth_place": "Verona"
   },
   {
     "id": "family-5",
@@ -708,14 +711,16 @@
     "birth": "",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-28.webp",
     "photo_full": "assets/ritratti-famiglia/family-28-grande.webp",
     "collection": "Martucci",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-mauro-nicola"
+    ]
   },
   {
     "id": "family-29",
@@ -1192,17 +1197,20 @@
       6287.898999999999
     ],
     "record_name": "Marcello Galletti",
-    "birth": "",
+    "birth": "27 gennaio 1975",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-48.webp",
     "photo_full": "assets/ritratti-famiglia/family-48-grande.webp",
     "collection": "Martucci",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-galletti-marcello"
+    ],
+    "birth_place": "Verona"
   },
   {
     "id": "family-49",
@@ -1393,14 +1401,16 @@
     "birth": "",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-56.webp",
     "photo_full": "assets/ritratti-famiglia/family-56-grande.webp",
     "collection": "Martucci",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-galletti-tullo"
+    ]
   },
   {
     "id": "family-57",
@@ -2218,21 +2228,26 @@
   },
   {
     "id": "extra-5",
-    "name": "Elisabetta Galletti",
+    "name": "Elisabetta Leoni",
     "record_name": "Elisabetta Galletti",
-    "birth": "",
+    "birth": "14 febbraio 1976",
     "death": "",
     "deceased_recorded": false,
-    "source": "Nome riportato sul file dell’archivio familiare.",
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "",
-    "aliases": [],
+    "aliases": [
+      "Elisabetta Galletti"
+    ],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/extra-5.webp",
     "photo_full": "assets/ritratti-famiglia/extra-5-grande.webp",
     "collection": "Martucci",
-    "tree_ids": [],
+    "tree_ids": [
+      "discendenti-galletti-elisabetta"
+    ],
     "text": "",
-    "box": null
+    "box": null,
+    "birth_place": "Prato"
   },
   {
     "id": "extra-6",
@@ -2289,5 +2304,105 @@
     "tree_ids": [
       "discendenti-tortora-costanza"
     ]
+  },
+  {
+    "id": "family-galletti-piera-dabizi",
+    "name": "Piera Dabizi",
+    "text": "Piera Dabizi",
+    "record_name": "Piera Dabizi",
+    "birth": "17 luglio 1972",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-galletti-piera"
+    ],
+    "birth_place": "Prato"
+  },
+  {
+    "id": "family-mauro-giuseppe",
+    "name": "Giuseppe Mauro",
+    "text": "Giuseppe Mauro",
+    "record_name": "Giuseppe Mauro",
+    "birth": "2 marzo 1978",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-mauro-giuseppe"
+    ],
+    "birth_place": "Verona"
+  },
+  {
+    "id": "family-mauro-antonella-polimeni",
+    "name": "Antonella Polimeni",
+    "text": "Antonella Polimeni",
+    "record_name": "Antonella Polimeni",
+    "birth": "23 giugno 1978",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-mauro-antonella"
+    ],
+    "birth_place": "Belluno"
+  },
+  {
+    "id": "family-mauro-riccardo",
+    "name": "Riccardo Mauro",
+    "text": "Riccardo Mauro",
+    "record_name": "Riccardo Mauro",
+    "birth": "23 novembre 1979",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-mauro-riccardo"
+    ],
+    "birth_place": "Verona"
+  },
+  {
+    "id": "family-mauro-alessandra-pace",
+    "name": "Alessandra Pace",
+    "text": "Alessandra Pace",
+    "record_name": "Alessandra Pace",
+    "birth": "4 agosto 1981",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Martucci",
+    "tree_ids": [
+      "discendenti-mauro-alessandra"
+    ],
+    "birth_place": "Reggio Calabria"
   }
 ]

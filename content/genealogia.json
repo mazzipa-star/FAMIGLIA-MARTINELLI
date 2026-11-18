@@ -298,7 +298,7 @@
         "id": "discendenti-0",
         "name": "Giovanni Martinelli",
         "date": "?-?",
-        "x": 2845,
+        "x": 3305.5,
         "y": 318,
         "portrait": "assets/ritratti-famiglia/family-34.webp",
         "parents": [],
@@ -319,7 +319,7 @@
         "id": "discendenti-1",
         "name": "Lina Masoni",
         "date": "?-?",
-        "x": 3030,
+        "x": 3490.5,
         "y": 318,
         "portrait": "assets/ritratti-famiglia/family-67.webp",
         "parents": [],
@@ -430,7 +430,7 @@
         "id": "discendenti-6",
         "name": "Sante Martinelli",
         "date": "?-?",
-        "x": 3400,
+        "x": 4600,
         "y": 474,
         "portrait": "assets/ritratti-famiglia/family-5.webp",
         "parents": [
@@ -455,7 +455,7 @@
         "id": "discendenti-7",
         "name": "Ines Ardoino",
         "date": "?-?",
-        "x": 3585,
+        "x": 4785,
         "y": 474,
         "portrait": "assets/ritratti-famiglia/family-35.webp",
         "parents": [],
@@ -477,7 +477,7 @@
         "id": "discendenti-8",
         "name": "Annamaria Martinelli",
         "date": "1917-?",
-        "x": 4926,
+        "x": 6126,
         "y": 474,
         "portrait": "assets/ritratti-famiglia/family-23.webp",
         "parents": [
@@ -521,7 +521,7 @@
         "id": "discendenti-anna-enrico-calenda",
         "name": "Enrico Calenda",
         "date": "1914–1941",
-        "x": 4738,
+        "x": 5938,
         "y": 474,
         "portrait": "assets/ritratti-famiglia/family-58.webp",
         "portrait_full": "assets/ritratti-famiglia/family-58-grande.webp",
@@ -543,7 +543,7 @@
         "id": "discendenti-9",
         "name": "Mario Tortora",
         "date": "?-?",
-        "x": 5112,
+        "x": 6312,
         "y": 474,
         "portrait": "assets/ritratti-famiglia/family-49.webp",
         "parents": [],
@@ -744,14 +744,16 @@
         "id": "discendenti-18",
         "name": "Rossella Martucci",
         "date": "",
-        "x": 1992,
+        "x": 2290,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-45.webp",
         "parents": [
           "discendenti-4",
           "discendenti-5"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-mauro-nicola"
+        ],
         "birth": "",
         "death": "",
         "deceased_recorded": false,
@@ -760,20 +762,23 @@
         "record_name": "Rossella Martucci (Mauro)",
         "identity_note": "",
         "portrait_full": "assets/ritratti-famiglia/family-45-grande.webp",
-        "portrait_source": "Archivio fotografico familiare"
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026."
       },
       {
         "id": "discendenti-19",
         "name": "Patrizia Martucci",
         "date": "",
-        "x": 2162,
+        "x": 2940,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-20.webp",
         "parents": [
           "discendenti-4",
           "discendenti-5"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-galletti-tullo"
+        ],
         "birth": "",
         "death": "",
         "deceased_recorded": false,
@@ -782,13 +787,14 @@
         "record_name": "Patrizia Martucci (Galletti)",
         "identity_note": "",
         "portrait_full": "assets/ritratti-famiglia/family-20-grande.webp",
-        "portrait_source": "Archivio fotografico familiare"
+        "portrait_source": "Archivio fotografico familiare",
+        "relationship_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026."
       },
       {
         "id": "discendenti-20",
         "name": "Pietro Giovanni Martinelli",
         "date": "",
-        "x": 4100,
+        "x": 5300,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-65.webp",
         "parents": [
@@ -813,7 +819,7 @@
         "id": "discendenti-21",
         "name": "Roberto Martinelli",
         "date": "",
-        "x": 3400,
+        "x": 4600,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-83.webp",
         "parents": [
@@ -838,7 +844,7 @@
         "id": "discendenti-22",
         "name": "Enrico Martinelli",
         "date": "",
-        "x": 2700,
+        "x": 3900,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-18.webp",
         "parents": [
@@ -863,7 +869,7 @@
         "id": "discendenti-23",
         "name": "Loletta Calenda",
         "date": "",
-        "x": 4764,
+        "x": 5964,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-11.webp",
         "parents": [
@@ -885,7 +891,7 @@
         "id": "discendenti-24",
         "name": "Stefano Tortora",
         "date": "1951",
-        "x": 4932,
+        "x": 6132,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-16.webp",
         "parents": [
@@ -909,7 +915,7 @@
         "id": "discendenti-25",
         "name": "Marcello Tortora",
         "date": "?-?",
-        "x": 5520,
+        "x": 6720,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-78.webp",
         "parents": [
@@ -931,7 +937,7 @@
         "id": "discendenti-26",
         "name": "Andrea Tortora",
         "date": "",
-        "x": 5750,
+        "x": 6950,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-61.webp",
         "parents": [
@@ -1195,7 +1201,7 @@
         "id": "discendenti-sante-52",
         "name": "Alessandra Corbelli",
         "date": "",
-        "x": 2885,
+        "x": 4085,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [],
@@ -1216,7 +1222,7 @@
         "id": "discendenti-sante-24",
         "name": "Tiziana Alvari",
         "date": "",
-        "x": 3585,
+        "x": 4785,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-24.webp",
         "parents": [],
@@ -1238,7 +1244,7 @@
         "id": "discendenti-sante-69",
         "name": "Giovanna Recchia",
         "date": "",
-        "x": 4285,
+        "x": 5485,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [],
@@ -1259,7 +1265,7 @@
         "id": "discendenti-sante-54",
         "name": "Valentina Martinelli",
         "date": "",
-        "x": 2600,
+        "x": 3800,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [
@@ -1283,7 +1289,7 @@
         "id": "discendenti-sante-68",
         "name": "Stefano Benini",
         "date": "",
-        "x": 2785,
+        "x": 3985,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [],
@@ -1304,7 +1310,7 @@
         "id": "discendenti-sante-27",
         "name": "Andrea Martinelli",
         "date": "",
-        "x": 3000,
+        "x": 4200,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [
@@ -1326,7 +1332,7 @@
         "id": "discendenti-sante-57",
         "name": "Paola Martinelli",
         "date": "",
-        "x": 3400,
+        "x": 4600,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/family-57.webp",
         "parents": [
@@ -1351,7 +1357,7 @@
         "id": "discendenti-sante-72",
         "name": "Felice Bonavolontà",
         "date": "",
-        "x": 3585,
+        "x": 4785,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/family-72.webp",
         "parents": [],
@@ -1373,7 +1379,7 @@
         "id": "discendenti-sante-50",
         "name": "Edoardo Martinelli",
         "date": "",
-        "x": 4000,
+        "x": 5200,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [
@@ -1395,7 +1401,7 @@
         "id": "discendenti-sante-12",
         "name": "Federico Martinelli",
         "date": "",
-        "x": 4200,
+        "x": 5400,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/family-12.webp",
         "parents": [
@@ -1418,7 +1424,7 @@
         "id": "discendenti-sante-13",
         "name": "Carlo Benini Martinelli",
         "date": "",
-        "x": 2550,
+        "x": 3750,
         "y": 942,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [
@@ -1440,7 +1446,7 @@
         "id": "discendenti-sante-7",
         "name": "Mia Benini Martinelli",
         "date": "",
-        "x": 2750,
+        "x": 3950,
         "y": 942,
         "portrait": "assets/ritratti-famiglia/foto-non-disponibile.svg",
         "parents": [
@@ -1462,7 +1468,7 @@
         "id": "discendenti-sante-66",
         "name": "Sara Bonavolontà Martinelli",
         "date": "",
-        "x": 3500,
+        "x": 4700,
         "y": 942,
         "portrait": "assets/ritratti-famiglia/family-66.webp",
         "parents": [
@@ -1485,7 +1491,7 @@
         "id": "discendenti-tortora-giovanna-limone",
         "name": "Giovanna Limone",
         "date": "1953",
-        "x": 5117,
+        "x": 6317,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-70.webp",
         "portrait_full": "assets/ritratti-famiglia/family-70-grande.webp",
@@ -1506,7 +1512,7 @@
         "id": "discendenti-tortora-maria-beatrice",
         "name": "Maria Beatrice Tortora",
         "date": "1975",
-        "x": 4830,
+        "x": 6030,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/family-76.webp",
         "portrait_full": "assets/ritratti-famiglia/family-76-grande.webp",
@@ -1528,7 +1534,7 @@
         "id": "discendenti-tortora-giacomo",
         "name": "Giacomo Tortora",
         "date": "1977",
-        "x": 5030,
+        "x": 6230,
         "y": 786,
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
         "portrait_missing": true,
@@ -1550,7 +1556,7 @@
         "id": "discendenti-tortora-costanza",
         "name": "Costanza Tortora",
         "date": "1987",
-        "x": 5230,
+        "x": 6430,
         "y": 786,
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
         "portrait_missing": true,
@@ -1567,6 +1573,236 @@
         "catalog_id": "family-tortora-costanza",
         "record_name": "Costanza Tortora",
         "identity_note": ""
+      },
+      {
+        "id": "discendenti-galletti-tullo",
+        "name": "Tullo Galletti",
+        "date": "",
+        "x": 3125,
+        "y": 630,
+        "portrait": "assets/ritratti-famiglia/family-56.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [],
+        "partners": [
+          "discendenti-19"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-56",
+        "record_name": "Tullo Galletti",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-56-grande.webp"
+      },
+      {
+        "id": "discendenti-galletti-giacomo",
+        "name": "Giacomo Galletti",
+        "date": "1972",
+        "x": 2920,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/family-4.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [
+          "discendenti-19",
+          "discendenti-galletti-tullo"
+        ],
+        "partners": [
+          "discendenti-galletti-piera"
+        ],
+        "birth": "25 febbraio 1972",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-4",
+        "record_name": "Giacomo Galletti",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-4-grande.webp",
+        "birth_place": "Verona"
+      },
+      {
+        "id": "discendenti-galletti-piera",
+        "name": "Piera Dabizi",
+        "date": "1972",
+        "x": 3105,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [],
+        "partners": [
+          "discendenti-galletti-giacomo"
+        ],
+        "birth": "17 luglio 1972",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-galletti-piera-dabizi",
+        "record_name": "Piera Dabizi",
+        "identity_note": "",
+        "portrait_missing": true,
+        "birth_place": "Prato"
+      },
+      {
+        "id": "discendenti-galletti-marcello",
+        "name": "Marcello Galletti",
+        "date": "1975",
+        "x": 3330,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/family-48.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [
+          "discendenti-19",
+          "discendenti-galletti-tullo"
+        ],
+        "partners": [
+          "discendenti-galletti-elisabetta"
+        ],
+        "birth": "27 gennaio 1975",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-48",
+        "record_name": "Marcello Galletti",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-48-grande.webp",
+        "birth_place": "Verona"
+      },
+      {
+        "id": "discendenti-galletti-elisabetta",
+        "name": "Elisabetta Leoni",
+        "date": "1976",
+        "x": 3515,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/extra-5.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [],
+        "partners": [
+          "discendenti-galletti-marcello"
+        ],
+        "birth": "14 febbraio 1976",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "extra-5",
+        "record_name": "Elisabetta Galletti",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/extra-5-grande.webp",
+        "birth_place": "Prato"
+      },
+      {
+        "id": "discendenti-mauro-nicola",
+        "name": "Nicola Mauro",
+        "date": "",
+        "x": 2475,
+        "y": 630,
+        "portrait": "assets/ritratti-famiglia/family-28.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [],
+        "partners": [
+          "discendenti-18"
+        ],
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-28",
+        "record_name": "Nicola Mauro",
+        "identity_note": "",
+        "portrait_full": "assets/ritratti-famiglia/family-28-grande.webp"
+      },
+      {
+        "id": "discendenti-mauro-giuseppe",
+        "name": "Giuseppe Mauro",
+        "date": "1978",
+        "x": 2080,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [
+          "discendenti-18",
+          "discendenti-mauro-nicola"
+        ],
+        "partners": [
+          "discendenti-mauro-antonella"
+        ],
+        "birth": "2 marzo 1978",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-mauro-giuseppe",
+        "record_name": "Giuseppe Mauro",
+        "identity_note": "",
+        "portrait_missing": true,
+        "birth_place": "Verona"
+      },
+      {
+        "id": "discendenti-mauro-antonella",
+        "name": "Antonella Polimeni",
+        "date": "1978",
+        "x": 2265,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [],
+        "partners": [
+          "discendenti-mauro-giuseppe"
+        ],
+        "birth": "23 giugno 1978",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-mauro-antonella-polimeni",
+        "record_name": "Antonella Polimeni",
+        "identity_note": "",
+        "portrait_missing": true,
+        "birth_place": "Belluno"
+      },
+      {
+        "id": "discendenti-mauro-riccardo",
+        "name": "Riccardo Mauro",
+        "date": "1979",
+        "x": 2490,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [
+          "discendenti-18",
+          "discendenti-mauro-nicola"
+        ],
+        "partners": [
+          "discendenti-mauro-alessandra"
+        ],
+        "birth": "23 novembre 1979",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-mauro-riccardo",
+        "record_name": "Riccardo Mauro",
+        "identity_note": "",
+        "portrait_missing": true,
+        "birth_place": "Verona"
+      },
+      {
+        "id": "discendenti-mauro-alessandra",
+        "name": "Alessandra Pace",
+        "date": "1981",
+        "x": 2675,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [],
+        "partners": [
+          "discendenti-mauro-riccardo"
+        ],
+        "birth": "4 agosto 1981",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nomi, date, luoghi di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-mauro-alessandra-pace",
+        "record_name": "Alessandra Pace",
+        "identity_note": "",
+        "portrait_missing": true,
+        "birth_place": "Reggio Calabria"
       }
     ],
     "families": [
@@ -1738,6 +1974,54 @@
           "discendenti-tortora-giacomo",
           "discendenti-tortora-costanza"
         ]
+      },
+      {
+        "parents": [
+          "discendenti-19",
+          "discendenti-galletti-tullo"
+        ],
+        "children": [
+          "discendenti-galletti-giacomo",
+          "discendenti-galletti-marcello"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-galletti-giacomo",
+          "discendenti-galletti-piera"
+        ],
+        "children": []
+      },
+      {
+        "parents": [
+          "discendenti-galletti-marcello",
+          "discendenti-galletti-elisabetta"
+        ],
+        "children": []
+      },
+      {
+        "parents": [
+          "discendenti-18",
+          "discendenti-mauro-nicola"
+        ],
+        "children": [
+          "discendenti-mauro-giuseppe",
+          "discendenti-mauro-riccardo"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-mauro-giuseppe",
+          "discendenti-mauro-antonella"
+        ],
+        "children": []
+      },
+      {
+        "parents": [
+          "discendenti-mauro-riccardo",
+          "discendenti-mauro-alessandra"
+        ],
+        "children": []
       }
     ]
   }
