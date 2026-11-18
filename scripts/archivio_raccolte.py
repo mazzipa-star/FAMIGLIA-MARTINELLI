@@ -2,6 +2,7 @@
 from pathlib import Path
 from html import escape
 import json,re
+from album_generazioni import render_family_album
 
 def J(data): return escape(json.dumps(data,ensure_ascii=False,separators=(',',':')),quote=True)
 
@@ -10,13 +11,15 @@ def apply_collections(root):
     source=(dist/'media-gallery.html').read_text(encoding='utf-8')
     head=source[:source.index('<main id="contenuto">')]
     footer=source[source.index('</main>')+len('</main>'):]
-    head=head.replace('</head>','<link rel="stylesheet" href="collections.css?v=2"><script src="collections.js?v=2" defer></script></head>')
+    head=head.replace('</head>','<link rel="stylesheet" href="collections.css?v=3"><script src="collections.js?v=3" defer></script></head>')
     base='https://famiglia-martinelli.weebly.com'
     assets={x['url']:x['file'] for x in json.loads((root/'content/assets.json').read_text(encoding='utf-8'))}
     enhanced_path=root/'content/foto-guerra-originali.json'
     enhanced=json.loads(enhanced_path.read_text(encoding='utf-8')) if enhanced_path.exists() else {}
     groups=json.loads((root/'content/foto-capitoli.json').read_text(encoding='utf-8'))
     africa=json.loads((root/'content/africa-martinelli-timeline.json').read_text(encoding='utf-8'))
+    generation_path=root/'content/foto-generazioni.json'
+    family_generations=json.loads(generation_path.read_text(encoding='utf-8'))['families'] if generation_path.exists() else {}
     collections=[]
     for g in groups:
         pics=[]
@@ -26,7 +29,8 @@ def apply_collections(root):
             improve=enhanced.get(photo['url'],{})
             pics.append(dict(src=improve.get('preview',original),full=improve.get('file',original),
                              caption=photo.get('caption') or g['title']))
-        collections.append(dict(id=g['id'],title=g['title'],desc='Album originale della famiglia Martinelli',images=pics,
+        cover=family_generations.get(g['id'],{}).get('cover')
+        collections.append(dict(cover=cover,id=g['id'],title=g['title'],desc='Album originale della famiglia Martinelli',images=pics,
                                 href='album-'+g['id']+'.html'))
     africa_images=[dict(src=p['path'],full=p['path'],caption=p['title']+' — '+p['caption']) for p in africa['entries']]
     collections.append(dict(id='africa',title='Africa · Da Verona a Gondar',desc='Fotografie familiari tra Verona e Gondar, con date da verificare.',images=africa_images,href='album-africa.html',more='africa-famiglia.html'))
@@ -53,10 +57,10 @@ def apply_collections(root):
         m='<main id="contenuto"><div class="collection-intro"><p class="eyebrow">L’ARCHIVIO DI FAMIGLIA</p><h1>'+escape(title)+'</h1><p>'+escape(subtitle)+'</p>'+menu+'</div><div class="collection-shell">'+body+'</div></main>'
         (dist/filename).write_text(h+m+footer,encoding='utf-8')
     def card(c):
-        pics=c['images'];cover=pics[0]['src'] if pics else c.get('cover','assets/album/famiglia-martinelli.webp')
+        pics=c['images'];cover=c.get('cover') or (pics[0]['src'] if pics else 'assets/album/famiglia-martinelli.webp')
         slides=[dict(src=x['src'],caption=x['caption']) for x in pics]
         buttons=('''<button type="button" class="gallery-arrow prev" aria-label="Fotografia precedente">‹</button><button type="button" class="gallery-arrow next" aria-label="Fotografia successiva">›</button><span class="gallery-counter">1 / '''+str(len(slides))+'''</span>''') if len(slides)>1 else ''
-        return '<article class="collection-card" id="raccolta-'+escape(c['id'])+'" data-items="'+J(slides)+'"><div class="collection-media"><img src="'+escape(cover,quote=True)+'" loading="lazy" alt="'+escape(c['title'],quote=True)+'">'+buttons+'</div><div class="collection-info"><h2>'+escape(c['title'])+'</h2><p>'+str(len(slides))+' fotografie'+(' · caricamento da completare' if c.get('missing') else '')+'</p><p class="collection-description">'+escape(c['desc'])+'</p><div class="collection-actions"><a href="'+escape(c['href'])+'">'+('Apri la scheda' if c.get('missing') else 'Apri la cartella')+' →</a>'+('<a class="secondary" href="'+escape(c['more'])+'">Approfondimento</a>' if c.get('more') else '')+'</div></div></article>'
+        return '<article class="collection-card" id="raccolta-'+escape(c['id'])+'"'+(' data-cover="'+escape(cover,quote=True)+'"' if c.get('cover') else '')+' data-items="'+J(slides)+'"><div class="collection-media"><img src="'+escape(cover,quote=True)+'" loading="lazy" alt="'+escape(c['title'],quote=True)+'">'+buttons+'</div><div class="collection-info"><h2>'+escape(c['title'])+'</h2><p>'+str(len(slides))+' fotografie'+(' · caricamento da completare' if c.get('missing') else '')+'</p><p class="collection-description">'+escape(c['desc'])+'</p><div class="collection-actions"><a href="'+escape(c['href'])+'">'+('Apri la scheda' if c.get('missing') else 'Apri la cartella')+' →</a>'+('<a class="secondary" href="'+escape(c['more'])+'">Approfondimento</a>' if c.get('more') else '')+'</div></div></article>'
     index='<nav class="collection-index" aria-label="Indice fotografico">'+''.join('<a href="#raccolta-'+escape(c['id'])+'">'+escape(c['title'])+'</a>' for c in collections)+'</nav>'
     shell('Foto','Scegli una raccolta: sfogliala direttamente nella scheda con le frecce, oppure apri l’album con tutte le miniature.',index+'<section class="collection-grid" aria-label="Cartelle delle fotografie">'+''.join(card(c) for c in collections)+'</section>','foto.html')
 
@@ -66,6 +70,8 @@ def apply_collections(root):
         first=pictures[0]
         thumbs=''.join('<button type="button" data-slide="'+str(i)+'" aria-label="Mostra fotografia '+str(i+1)+'" aria-pressed="'+('true' if i==0 else 'false')+'"><img src="'+escape(x['src'],quote=True)+'" loading="lazy" alt=""><span>'+str(i+1)+'. '+escape(x['caption'][:50])+'</span></button>' for i,x in enumerate(pictures))
         viewer='<article class="full-album" data-items="'+J(pictures)+'"><div class="album-viewer"><div class="album-stage"><img src="'+escape(first['src'])+'" alt="'+escape(first['caption'])+'"><button class="prev" type="button" aria-label="Precedente">‹</button><button class="next" type="button" aria-label="Successiva">›</button></div><div class="album-copy"><p data-count>Fotografia 1 di '+str(len(pictures))+'</p><h2>'+escape(c['title'])+'</h2><p data-caption>'+escape(first['caption'])+'</p><p><a data-original href="'+escape(first['full'])+'" target="_blank" rel="noopener">Ingrandisci l’originale ↗</a></p><p>Seleziona una miniatura oppure usa le frecce per sfogliare.</p></div></div><h2 class="collection-heading">Tutte le fotografie · '+str(len(pictures))+'</h2><div class="album-thumbs">'+thumbs+'</div></article>'
+        if c['id'] in family_generations:
+            viewer=render_family_album(c,family_generations[c['id']])
         shell(c['title'],c['desc'],'<a class="collection-back" href="foto.html#raccolta-'+escape(c['id'])+'">← Torna a tutte le raccolte fotografiche</a>'+viewer,'album-'+c['id']+'.html')
 
     movies=[
