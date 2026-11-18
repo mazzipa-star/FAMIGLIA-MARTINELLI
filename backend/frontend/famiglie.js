@@ -4,6 +4,7 @@ const $=id=>document.getElementById(id);
 const fields=['name','birth','birth_place','death','death_place','notes'];
 const labels={name:'Nome',birth:'Nascita',birth_place:'Luogo di nascita',death:'Morte',death_place:'Luogo di morte',notes:'Note',parents:'Genitori',partners:'Coniugi',portrait:'Fotografia'};
 let api,context,selected,people=new Map(),relativeKind,needsPassword=false,busy=false;
+let requestedPerson=new URLSearchParams(location.search).get('persona');
 const initialType=new URLSearchParams(location.hash.slice(1)).get('type');
 needsPassword=['invite','recovery'].includes(initialType);
 function status(text,error=false){$('family-status').textContent=text;$('family-status').classList.toggle('error',error);}
@@ -55,6 +56,10 @@ async function refresh(id=selected?.id){
  else status('Puoi aggiornare le schede dei rami assegnati. Le modifiche vengono pubblicate subito.');
  if(context.admin){
   const root=$('grant-form').elements.root,oldRoot=root.value;root.replaceChildren();for(const p of context.people.filter(p=>p.tree_id==='discendenti').sort((a,b)=>a.name.localeCompare(b.name,'it')))root.append(option(p.id,p.name));if(oldRoot)root.value=oldRoot;updateBranchLabel();await renderAccesses();
+ }
+ if(requestedPerson){const requested=requestedPerson;requestedPerson=null;
+  if(context.people.some(p=>p.id===requested))id=requested;
+  else status('Non hai il permesso di modificare questa persona. Puoi scegliere una scheda del tuo ramo.',true);
  }
  renderList();if(id&&context.people.some(p=>p.id===id))select(id);else{selected=null;$('person-form').hidden=true;$('choose-person').hidden=false;}
 }

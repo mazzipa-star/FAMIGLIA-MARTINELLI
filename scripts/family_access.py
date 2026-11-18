@@ -15,16 +15,17 @@ def apply_family_access(root):
  public={'enabled':enabled,'supabaseUrl':url if enabled else '', 'publishableKey':key if enabled else ''}
  (root/'dist/family-access-config.json').write_text(json.dumps(public))
  p=root/'dist/genealogia.html';page=p.read_text()
- page=re.sub(r'genealogia.css\?v=[^"\s]+','genealogia.css?v=rami-20261118',page)
- page=re.sub(r'genealogia.js\?v=[^"\s]+','genealogia.js?v=rami-20261118',page)
+ page=re.sub(r'genealogia.css\?v=[^"\s]+','genealogia.css?v=modifica-20261118',page)
+ page=re.sub(r'genealogia.js\?v=[^"\s]+','genealogia.js?v=modifica-20261118',page)
  page=re.sub(r'ritratti.js\?v=[^"\s]+','ritratti.js?v=accessi-20261118',page)
  page=page.replace('Esplora l’albero oppure consulta le schede, una persona alla volta.','Usa i simboli + e − nelle schede per aprire e chiudere i rami. Puoi anche cercare una persona o consultare le schede.')
  if enabled:
-  page=page.replace('<div class="tree-tabs"','<p><a class="button secondary" href="area-famiglie.html">Area famiglie · Aggiorna il tuo ramo</a></p><div class="tree-tabs"',1)
+  page=page.replace('class="genealogy"','class="genealogy" data-family-access="enabled"',1)
+  page=page.replace('<button type="button" id="cards-mode" aria-pressed="false">Schede</button>','<button type="button" id="cards-mode" aria-pressed="false">Schede</button><a class="family-update-button" href="area-famiglie.html"><span aria-hidden="true">✎</span> Aggiorna famiglie</a>',1)
   page=page.replace('</head>','<script src="genealogia-live.js?v=20261118" defer></script></head>')
  p.write_text(page)
  prefix=page.split('<main',1)[0];footer=page.split('</main>',1)[1].split('<script',1)[0]
  prefix=prefix.replace('<title>Genealogia · Famiglia Martinelli</title>','<title>Area famiglie · Famiglia Martinelli</title>')
  prefix=re.sub(r'<script[^>]*src="(?:genealogia|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
- prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=20261118"><script src="famiglie.js?v=20261118" defer></script></head>')
+ prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=20261118"><script src="famiglie.js?v=modifica-20261118" defer></script></head>')
  (root/'dist/area-famiglie.html').write_text(prefix+(root/'templates/area-famiglie.html').read_text()+footer+'</body></html>')
