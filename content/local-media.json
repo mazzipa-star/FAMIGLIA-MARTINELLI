@@ -25,5 +25,14 @@
     "file": "assets/media/una-giornata-particolare.mp4",
     "bytes": 15212967,
     "sha256": "30a5999008837dec8651ff90e325ea6a34c53147c7376d1b1ce4395d651820d3"
+  },
+  {
+    "id": "tra-le-due-guerre",
+    "title": "Tra le due guerre — La famiglia Martinelli",
+    "source": "Tra_le_due_guerre_V11_FullHD.mp4",
+    "duration": 334,
+    "file": "assets/media/tra-le-due-guerre.mp4",
+    "bytes": 104656985,
+    "sha256": "b6b2b2434f9b5af8695432fd64455fcdb112125c36115316b4338989f2295f84"
   }
 ]

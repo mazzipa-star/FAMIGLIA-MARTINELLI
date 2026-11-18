@@ -71,6 +71,7 @@ def apply_collections(root):
     movies=[
      dict(title='Le origini e gli antenati',description='Dalle radici della casata alle generazioni di Giovanni e Lina.',slug='martinelli-origini-e-antenati'),
      dict(title='Giovanni e Lina — Un amore oltre la distanza',description='Cartoline, fotografie e diario dalla Grande Guerra al ritorno.',slug='giovanni-lina-un-amore-oltre-la-distanza'),
+     dict(title='Tra le due guerre — La famiglia Martinelli',description='Da Verona all’Africa orientale e al ritorno: fotografie, storia e memorie della famiglia Martinelli. Durata: 5 minuti e 34 secondi.',slug='tra-le-due-guerre'),
      dict(title='La marmellata di Caprino',description='Un filmato conservato nell’archivio familiare.',slug='marmellata-di-caprino'),
      dict(title='Una giornata particolare',description='Un ricordo filmato dell’archivio di famiglia.',slug='una-giornata-particolare')
     ]
@@ -83,13 +84,14 @@ def apply_collections(root):
         pictures=c['images'];slides=[dict(src=x['src'],caption=x.get('caption','')) for x in pictures]
         return '<article class="collection-card" id="raccolta-'+c['id']+'" data-items="'+J(slides)+'"><div class="collection-media"><img src="'+escape(slides[0]['src'])+'" loading="lazy" alt="'+escape(c['title'])+'"><button type="button" class="gallery-arrow prev" aria-label="Precedente">‹</button><button type="button" class="gallery-arrow next" aria-label="Successivo">›</button><span class="gallery-counter">1 / '+str(len(slides))+'</span></div><div class="collection-info"><h2>'+escape(c['title'])+'</h2><p>'+escape(c['desc'])+'</p><div class="collection-actions"><a href="'+c['href']+'">Apri la cartella →</a></div></div></article>'
     videos=[
-      dict(id='film-famiglia',title='I film della famiglia Martinelli',desc='Filmati originali del sito, riproducibili direttamente; 4 video.',href='video-famiglia.html',
+      dict(id='film-famiglia',title='I film della famiglia Martinelli',desc='I racconti e i ricordi della famiglia, riproducibili direttamente; '+str(len(movies))+' video.',href='video-famiglia.html',
            images=[dict(src='assets/media/'+m['slug']+'.jpg',caption=m['title']) for m in movies]),
       dict(id='gondar-storica',title='Gondar durante l’occupazione italiana in Africa',desc='Tre filmati storici presso Archivio Luce e Imperial War Museums.',href='video-gondar.html',
            images=[dict(src=x['poster'],caption=x['title']) for x in links])
     ]
     idx='<nav class="collection-index" aria-label="Indice video">'+''.join('<a href="#raccolta-'+v['id']+'">'+escape(v['title'])+'</a>' for v in videos)+'</nav>'
-    shell('Video','Scegli una cartella di filmati. Usa le frecce sulle anteprime oppure apri la raccolta per vedere tutti i video e i collegamenti alle fonti.',idx+'<section class="collection-grid" aria-label="Cartelle video">'+''.join(video_card(v) for v in videos)+'</section>','video.html')
+    featured='<article class="video-gallery-card" id="tra-le-due-guerre"><h2>Tra le due guerre — La famiglia Martinelli</h2><p>Da Verona all’Africa orientale e al ritorno. Durata: 5 minuti e 34 secondi.</p><video controls preload="none" playsinline poster="assets/media/tra-le-due-guerre.jpg" aria-label="Tra le due guerre — La famiglia Martinelli"><source src="assets/media/tra-le-due-guerre.mp4" type="video/mp4">Il tuo browser non supporta il video.</video><p><a href="assets/media/tra-le-due-guerre.mp4" download>Scarica MP4</a></p></article>'
+    shell('Video','Scegli una cartella di filmati. Usa le frecce sulle anteprime oppure apri la raccolta per vedere tutti i video e i collegamenti alle fonti.',featured+idx+'<section class="collection-grid" aria-label="Cartelle video">'+''.join(video_card(v) for v in videos)+'</section>','video.html')
     movie_cards=[]
     for m in movies:
        base='assets/media/'+m['slug']
