@@ -402,10 +402,10 @@
       5728.398999999999
     ],
     "record_name": "Stefano Tortora",
-    "birth": "",
+    "birth": "4 dicembre 1951",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
     "identity_note": "",
@@ -1739,17 +1739,19 @@
       5738.398999999999
     ],
     "record_name": "Giovanna Limone (Tortora)",
-    "birth": "",
+    "birth": "5 aprile 1953",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-70.webp",
     "photo_full": "assets/ritratti-famiglia/family-70-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-tortora-giovanna-limone"
+    ]
   },
   {
     "id": "family-71",
@@ -1878,7 +1880,7 @@
   },
   {
     "id": "family-76",
-    "name": "Beatrice Tortora",
+    "name": "Maria Beatrice Tortora",
     "text": "Beatrice Tortora",
     "box": [
       479.099,
@@ -1887,17 +1889,21 @@
       6287.898999999999
     ],
     "record_name": "Beatrice Tortora",
-    "birth": "",
+    "birth": "1 ottobre 1975",
     "death": "",
     "deceased_recorded": false,
-    "source": "Albero familiare «La Famiglia Martinelli.pdf»",
+    "source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
-    "aliases": [],
+    "aliases": [
+      "Beatrice"
+    ],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-76.webp",
     "photo_full": "assets/ritratti-famiglia/family-76-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-tortora-maria-beatrice"
+    ]
   },
   {
     "id": "family-77",
@@ -2245,5 +2251,43 @@
     "tree_ids": [],
     "text": "",
     "box": null
+  },
+  {
+    "id": "family-tortora-giacomo",
+    "name": "Giacomo Tortora",
+    "text": "Giacomo Tortora",
+    "record_name": "Giacomo Tortora",
+    "birth": "28 gennaio 1977",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-tortora-giacomo"
+    ]
+  },
+  {
+    "id": "family-tortora-costanza",
+    "name": "Costanza Tortora",
+    "text": "Costanza Tortora",
+    "record_name": "Costanza Tortora",
+    "birth": "9 gennaio 1987",
+    "death": "",
+    "deceased_recorded": false,
+    "source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+    "source_pdf": "",
+    "aliases": [],
+    "identity_note": "",
+    "photo": "",
+    "photo_full": "",
+    "collection": "Tortora",
+    "tree_ids": [
+      "discendenti-tortora-costanza"
+    ]
   }
 ]

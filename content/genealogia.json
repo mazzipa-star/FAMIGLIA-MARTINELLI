@@ -884,7 +884,7 @@
       {
         "id": "discendenti-24",
         "name": "Stefano Tortora",
-        "date": "",
+        "date": "1951",
         "x": 4932,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-16.webp",
@@ -892,11 +892,13 @@
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": [],
-        "birth": "",
+        "partners": [
+          "discendenti-tortora-giovanna-limone"
+        ],
+        "birth": "4 dicembre 1951",
         "death": "",
         "deceased_recorded": false,
-        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "date_source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
         "catalog_id": "family-16",
         "record_name": "Stefano Tortora",
         "identity_note": "",
@@ -907,7 +909,7 @@
         "id": "discendenti-25",
         "name": "Marcello Tortora",
         "date": "?-?",
-        "x": 5101,
+        "x": 5520,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-78.webp",
         "parents": [
@@ -929,7 +931,7 @@
         "id": "discendenti-26",
         "name": "Andrea Tortora",
         "date": "",
-        "x": 5272,
+        "x": 5750,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-61.webp",
         "parents": [
@@ -1478,6 +1480,93 @@
         "relationship_source": "Albero familiare e schede MyHeritage, verificate il 13 novembre 2026.",
         "portrait_full": "assets/ritratti-famiglia/family-66-grande.webp",
         "portrait_source": "Archivio fotografico familiare"
+      },
+      {
+        "id": "discendenti-tortora-giovanna-limone",
+        "name": "Giovanna Limone",
+        "date": "1953",
+        "x": 5117,
+        "y": 630,
+        "portrait": "assets/ritratti-famiglia/family-70.webp",
+        "portrait_full": "assets/ritratti-famiglia/family-70-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [],
+        "partners": [
+          "discendenti-24"
+        ],
+        "birth": "5 aprile 1953",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-70",
+        "record_name": "Giovanna Limone (Tortora)",
+        "identity_note": ""
+      },
+      {
+        "id": "discendenti-tortora-maria-beatrice",
+        "name": "Maria Beatrice Tortora",
+        "date": "1975",
+        "x": 4830,
+        "y": 786,
+        "portrait": "assets/ritratti-famiglia/family-76.webp",
+        "portrait_full": "assets/ritratti-famiglia/family-76-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [
+          "discendenti-24",
+          "discendenti-tortora-giovanna-limone"
+        ],
+        "partners": [],
+        "birth": "1 ottobre 1975",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-76",
+        "record_name": "Beatrice Tortora",
+        "identity_note": ""
+      },
+      {
+        "id": "discendenti-tortora-giacomo",
+        "name": "Giacomo Tortora",
+        "date": "1977",
+        "x": 5030,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_missing": true,
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [
+          "discendenti-24",
+          "discendenti-tortora-giovanna-limone"
+        ],
+        "partners": [],
+        "birth": "28 gennaio 1977",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-tortora-giacomo",
+        "record_name": "Giacomo Tortora",
+        "identity_note": ""
+      },
+      {
+        "id": "discendenti-tortora-costanza",
+        "name": "Costanza Tortora",
+        "date": "1987",
+        "x": 5230,
+        "y": 786,
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "portrait_missing": true,
+        "portrait_source": "Fotografia non disponibile",
+        "parents": [
+          "discendenti-24",
+          "discendenti-tortora-giovanna-limone"
+        ],
+        "partners": [],
+        "birth": "9 gennaio 1987",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Nome, data di nascita e legami familiari comunicati dalla famiglia il 18 novembre 2026.",
+        "catalog_id": "family-tortora-costanza",
+        "record_name": "Costanza Tortora",
+        "identity_note": ""
       }
     ],
     "families": [
@@ -1637,6 +1726,17 @@
         "children": [
           "discendenti-sante-50",
           "discendenti-sante-12"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-24",
+          "discendenti-tortora-giovanna-limone"
+        ],
+        "children": [
+          "discendenti-tortora-maria-beatrice",
+          "discendenti-tortora-giacomo",
+          "discendenti-tortora-costanza"
         ]
       }
     ]
