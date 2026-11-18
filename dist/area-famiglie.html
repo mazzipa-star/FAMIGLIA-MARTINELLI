@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Esplora gli antenati e i discendenti di Giovanni Martinelli: albero navigabile, ricerca e schede di famiglia."><title>Area famiglie · Famiglia Martinelli</title><link rel="stylesheet" href="style.css?v=album-20261113"><link rel="stylesheet" href="genealogia.css?v=rami-20261118"><script src="album.js?v=album-20261113" defer></script><link rel="icon" href="assets/album/stemma-martinelli.webp" type="image/webp"><link rel="stylesheet" href="layout.css?v=20261114-video"><link rel="stylesheet" href="ritratti.css?v=20261113"><link rel="stylesheet" href="famiglie.css?v=20261118"><script src="famiglie.js?v=20261118" defer></script></head>
+<body class="inside-page"><a class="skip" href="#contenuto">Vai ai contenuti</a><header class="site-header"><div class="header-inner"><a class="brand" href="index.html"><img src="assets/album/stemma-martinelli.webp" width="1174" height="1340" alt=""><span class="brand-wordmark">Famiglia Martinelli<span class="brand-tagline">IL NOSTRO ALBUM DI FAMIGLIA</span></span></a><nav class="site-nav" aria-label="Navigazione principale"><a href="index.html">Home</a><a href="la-storia.html">La storia</a><a href="documenti.html">Documenti</a><a href="la-memoria.html">La memoria</a><a aria-current="page" href="genealogia.html">Genealogia</a><a href="foto.html">Foto</a><a href="video.html">Video</a><a href="contribuisci.html">Contribuisci</a><a href="contact.html">Contatti</a></nav></div></header>
+<main id="contenuto" class="family-workspace">
+ <p class="eyebrow">L’ARCHIVIO DI FAMIGLIA</p><h1>Area famiglie</h1>
+ <p class="family-lead">Uno spazio per custodire e aggiornare il proprio ramo della genealogia.</p>
+ <p id="family-status" class="family-status" role="status" aria-live="polite">Verifica dell’accesso in corso…</p>
+ <section id="family-login" class="family-login" hidden>
+  <h2>Accedi al tuo ramo familiare</h2><p>Usa l’indirizzo email autorizzato dall’amministratore e la tua password personale.</p>
+  <form id="login-form"><label>Email<input name="email" type="email" autocomplete="username" required maxlength="254"></label>
+   <label>Password<input name="password" type="password" autocomplete="current-password" required></label>
+   <div class="family-actions"><button class="primary" type="submit">Accedi</button><button id="recover-password" type="button">Password dimenticata</button></div>
+  </form>
+ </section>
+ <section id="password-setup" class="family-login" hidden><h2>Imposta la tua password</h2>
+  <form id="password-form"><label>Nuova password<input name="password" type="password" autocomplete="new-password" minlength="12" required></label>
+   <label>Ripeti la password<input name="repeat" type="password" autocomplete="new-password" minlength="12" required></label><p>Usa almeno 12 caratteri.</p><button class="primary">Salva password</button></form>
+ </section>
+ <section id="family-dashboard" hidden>
+  <div class="family-toolbar"><div><p class="eyebrow">IL TUO ARCHIVIO</p><h2 id="welcome-title">Le schede della tua famiglia</h2></div><button id="logout">Esci</button></div>
+  <div class="family-editor-layout">
+   <aside class="family-sidebar"><label>Ramo familiare<select id="branch-filter"><option value="">Tutti i rami assegnati</option></select></label>
+    <label>Cerca una persona<input id="person-filter" type="search" placeholder="Nome e cognome"></label><div id="editable-people" class="editable-people"></div>
+   </aside>
+   <section class="family-editor"><div id="choose-person"><h2>Una famiglia, tante storie</h2><p>Seleziona una persona per aggiornare la sua scheda o aggiungere un familiare.</p></div>
+    <form id="person-form" hidden><div class="family-editor-heading"><div><p id="person-version" class="eyebrow"></p><h2 id="person-title"></h2></div><img id="person-portrait" alt="" hidden></div>
+     <div class="family-fields"><label class="wide">Nome e cognome<input name="name" maxlength="160" required></label>
+      <label>Data di nascita<input name="birth" maxlength="160" placeholder="Per esempio: 25 febbraio 1972"></label><label>Luogo di nascita<input name="birth_place" maxlength="160"></label>
+      <label>Data di morte<input name="death" maxlength="160"></label><label>Luogo di morte<input name="death_place" maxlength="160"></label>
+      <label class="wide">Note e ricordi<textarea name="notes" rows="5" maxlength="20000"></textarea></label>
+      <label>Genitori<select name="parents" multiple size="4"></select></label><label>Coniugi e partner<select name="partners" multiple size="4"></select></label>
+      <p class="wide family-help">Puoi selezionare fino a due genitori. I collegamenti verso altri rami possono essere modificati dall’amministratore.</p>
+      <label class="wide">Fotografia<input name="photo" type="file" accept="image/jpeg,image/png,image/webp"><span class="family-help">JPG, PNG o WebP, fino a 10 MB.</span></label>
+     </div><p class="family-publication-note">Le modifiche salvate saranno subito visibili nella genealogia pubblica.</p>
+     <div class="family-actions"><button class="primary" type="submit">Salva modifiche</button><button id="add-child" type="button">Aggiungi figlio o figlia</button><button id="add-partner" type="button">Aggiungi coniuge</button><button id="show-history" type="button">Cronologia</button></div>
+    </form>
+   </section>
+  </div>
+  <section id="family-admin" class="family-admin" hidden><p class="eyebrow">AMMINISTRAZIONE</p><h2>Referenti e rami familiari</h2><p>Assegna a ogni referente la famiglia che può aggiornare. L’accesso comprende i discendenti e i rispettivi coniugi.</p>
+   <form id="grant-form" class="family-fields"><label>Password assegnata<input name="password" type="password" autocomplete="new-password" minlength="12" maxlength="128" required></label><label>Email del referente<input name="email" type="email" required maxlength="254"></label><label>Capostipite del ramo<select name="root" required></select></label><label>Nome della famiglia<input name="label" required maxlength="160"></label><div class="family-actions"><button class="primary" type="submit">Assegna password e ramo</button></div></form>
+   <div id="family-access-list"></div>
+  </section>
+ </section>
+ <dialog id="relative-dialog"><form id="relative-form"><h2 id="relative-title"></h2><label>Nome e cognome<input name="name" maxlength="160" required></label><label>Data di nascita<input name="birth" maxlength="160"></label><label>Luogo di nascita<input name="birth_place" maxlength="160"></label><label id="other-parent-field">Altro genitore<select name="other_parent"><option value="">Non indicato</option></select></label><div class="family-actions"><button class="primary">Aggiungi alla famiglia</button><button type="button" data-close="relative-dialog">Annulla</button></div></form></dialog>
+ <dialog id="history-dialog"><div class="family-toolbar"><h2>Cronologia della scheda</h2><button data-close="history-dialog">Chiudi</button></div><div id="history-content"></div></dialog>
+</main>
+<footer class="site-footer"><div><a class="footer-brand" href="index.html">Famiglia Martinelli</a><p>Custodire, ricordare, tramandare.</p></div><div class="footer-links"><a href="contribuisci.html">Condividi un ricordo</a><a href="genealogia.html">Il nostro albero</a><a href="contact.html">Contatti</a><a href="https://famiglia-martinelli.weebly.com/" target="_blank" rel="noopener">Il sito originale ↗</a></div></footer>
+</body></html>

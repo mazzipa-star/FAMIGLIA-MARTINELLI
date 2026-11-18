@@ -153,3 +153,7 @@ apply_gondar_repertorio(R)
 # Indici Foto/Video compatti, album a miniature e navigazione globale separata.
 from archivio_raccolte import apply_collections
 apply_collections(R)
+
+# Accessi personali e navigazione dei rami genealogici.
+from family_access import apply_family_access
+apply_family_access(R)

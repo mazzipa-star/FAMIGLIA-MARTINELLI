@@ -1,0 +1,11 @@
+{
+  "name": "martinelli-family-access",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "node build.mjs"
+  },
+  "dependencies": {"@supabase/supabase-js": "2.119.1"},
+  "devDependencies": {"@electric-sql/pglite": "0.5.16", "esbuild": "0.28.2"}
+}
