@@ -485,6 +485,7 @@
           "discendenti-1"
         ],
         "partners": [
+          "discendenti-anna-enrico-calenda",
           "discendenti-9"
         ],
         "birth": "30 dicembre 1917",
@@ -495,7 +496,48 @@
         "record_name": "Annamaria Martinelli (Tortora)",
         "identity_note": "",
         "portrait_full": "assets/ritratti-famiglia/family-23-grande.webp",
-        "portrait_source": "Archivio fotografico familiare"
+        "portrait_source": "Archivio fotografico familiare",
+        "marriages": [
+          {
+            "partner": "discendenti-anna-enrico-calenda",
+            "label": "Primo marito",
+            "children": [
+              "discendenti-23"
+            ]
+          },
+          {
+            "partner": "discendenti-9",
+            "label": "Secondo marito",
+            "children": [
+              "discendenti-24",
+              "discendenti-26",
+              "discendenti-25"
+            ]
+          }
+        ],
+        "relationship_source": "Correzione comunicata dalla famiglia il 18 novembre 2026."
+      },
+      {
+        "id": "discendenti-anna-enrico-calenda",
+        "name": "Enrico Calenda",
+        "date": "1914–1941",
+        "x": 4738,
+        "y": 474,
+        "portrait": "assets/ritratti-famiglia/family-58.webp",
+        "portrait_full": "assets/ritratti-famiglia/family-58-grande.webp",
+        "portrait_source": "Archivio fotografico familiare",
+        "parents": [],
+        "partners": [
+          "discendenti-8"
+        ],
+        "birth": "17/12/1914",
+        "death": "25/08/1941",
+        "deceased_recorded": true,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-58",
+        "record_name": "Enrico Calenda",
+        "identity_note": "Primo marito di Annamaria Martinelli e padre di Loletta Calenda.",
+        "relationship_source": "Correzione comunicata dalla famiglia il 18 novembre 2026."
       },
       {
         "id": "discendenti-9",
@@ -826,7 +868,7 @@
         "portrait": "assets/ritratti-famiglia/family-11.webp",
         "parents": [
           "discendenti-8",
-          "discendenti-9"
+          "discendenti-anna-enrico-calenda"
         ],
         "partners": [],
         "birth": "20/08/1941",
@@ -1475,15 +1517,25 @@
       },
       {
         "parents": [
+          "discendenti-anna-enrico-calenda",
+          "discendenti-8"
+        ],
+        "children": [
+          "discendenti-23"
+        ],
+        "label": "Primo matrimonio di Anna"
+      },
+      {
+        "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
         "children": [
-          "discendenti-23",
           "discendenti-24",
-          "discendenti-25",
-          "discendenti-26"
-        ]
+          "discendenti-26",
+          "discendenti-25"
+        ],
+        "label": "Secondo matrimonio di Anna"
       },
       {
         "parents": [

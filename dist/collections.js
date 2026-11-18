@@ -35,7 +35,7 @@
     image.src=list[i].src;
     image.alt=list[i].caption || 'Fotografia dell’archivio';
     if(caption) caption.textContent=list[i].caption || 'Fotografia dell’archivio';
-    if(number) number.textContent='Fotografia '+(list[i].original_number || (i+1))+' di '+list.length;
+    if(number) number.textContent=album.classList.contains('family-album') ? 'Foto '+list[i].original_number+' · '+list.length+' fotografie nell’album' : 'Fotografia '+(i+1)+' di '+list.length;
     const generation=album.querySelector('[data-generation-label]');
     if(generation)generation.textContent=list[i].generation_label || '';
     if(full) full.href=list[i].full || list[i].src;

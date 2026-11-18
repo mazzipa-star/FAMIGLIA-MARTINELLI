@@ -15,5 +15,5 @@ def apply_ritratti(root):
  s=s.replace('Nomi, date, ritratti e collegamenti sono trascritti dai due alberi MyHeritage presenti nel sito originale. Le date mancanti non sono state ricostruite; gli anni riportati sono quelli del documento e non indicano lo stato attuale delle persone.','Le due viste interattive integrano gli alberi originali con il ramo di Sante Martinelli e Ines Ardoino, verificato su MyHeritage. Ritratti e date provengono dall’archivio familiare e dalle schede documentate. Le date mancanti non sono state ricostruite e non indicano lo stato attuale delle persone.')
  s=s.replace('</main>',section+'</main>',1)
  s=s.replace('<div class="tree-tabs"','<p class="family-jump"><a class="button secondary" href="#ritratti-famiglia">Sfoglia i '+str(count)+' ritratti di famiglia ↓</a></p><div class="tree-tabs"',1)
- s=s.replace('</head>','<link rel="stylesheet" href="ritratti.css?v=20261113"><script src="ritratti.js?v=20261113" defer></script></head>');s=re.sub(r'genealogia.js\?v=[^\"]+','genealogia.js?v=ritratti-20261113',s);p.write_text(s)
+ s=s.replace('</head>','<link rel="stylesheet" href="ritratti.css?v=20261113"><script src="ritratti.js?v=20261113" defer></script></head>');s=re.sub(r'genealogia.js\?v=[^\"]+','genealogia.js?v=anna-20261118',s);p.write_text(s)
  print('Ritratti di famiglia:',count,'fotografie e',len(records),'schede documentate.')
