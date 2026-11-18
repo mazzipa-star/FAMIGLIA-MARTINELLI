@@ -33,6 +33,22 @@
     </form>
    </section>
   </div>
+<section id="family-photos" class="family-admin" hidden aria-labelledby="photo-section-title">
+ <p class="eyebrow">LE FOTOGRAFIE DI FAMIGLIA</p><h2 id="photo-section-title">Gestisci le tue raccolte fotografiche</h2>
+ <p>Puoi modificare soltanto le raccolte assegnate al tuo ramo. Le modifiche salvate vengono pubblicate subito.</p>
+ <label>Cartella di famiglia<select id="photo-album"></select></label>
+ <div id="photo-album-controls" hidden>
+ <form id="album-description-form"><label>Descrizione della raccolta<textarea id="album-description" rows="3" maxlength="20000"></textarea></label><button type="submit" class="primary">Salva descrizione raccolta</button></form>
+ <div class="family-actions"><button type="button" id="new-album-photo">Aggiungi fotografia</button><button type="button" id="reload-album">Ricarica fotografie</button><a id="public-album-link" target="_blank" rel="noopener">Apri raccolta pubblica ↗</a></div>
+ <div id="album-photo-list" class="album-edit-grid"></div>
+ <form id="album-photo-form" hidden><h3 id="photo-edit-title">Modifica fotografia</h3><img id="album-photo-preview" class="album-photo-preview" alt="Fotografia selezionata" hidden>
+ <label>Descrizione della fotografia<textarea name="caption" rows="3" maxlength="4000"></textarea></label>
+ <label>Generazione<select name="generation"><option value="">Da collocare</option><option value="1">Prima generazione</option><option value="2">Seconda generazione</option><option value="3">Terza generazione</option></select></label>
+ <label>Carica o sostituisci fotografia<input type="file" name="file" accept="image/jpeg,image/png,image/webp"><span>JPG, PNG o WebP, fino a 10 MB. Lascia vuoto per conservare la foto attuale.</span></label>
+ <label class="photo-visible"><input type="checkbox" name="visible" checked>Visibile nella raccolta pubblica</label>
+ <p>Nascondere una foto la rimuove dall’album, ma non rende privato il file o le copie già pubblicate. Gli originali e la cronologia vengono conservati.</p>
+ <div class="family-actions"><button class="primary" type="submit">Salva fotografia</button><button id="cancel-photo-edit" type="button">Annulla</button></div></form>
+ </div></section>
   <section id="family-admin" class="family-admin" hidden><p class="eyebrow">AMMINISTRAZIONE</p><h2>Referenti e rami familiari</h2><p>Assegna a ogni referente la famiglia che può aggiornare. L’accesso comprende i discendenti e i rispettivi coniugi.</p>
    <form id="grant-form" class="family-fields"><label>Password assegnata<input name="password" type="password" autocomplete="new-password" minlength="12" maxlength="128" required></label><label>Email del referente<input name="email" type="email" required maxlength="254"></label><label>Capostipite del ramo<select name="root" required></select></label><label>Nome della famiglia<input name="label" required maxlength="160"></label><div class="family-actions"><button class="primary" type="submit">Assegna password e ramo</button></div></form>
    <div id="family-access-list"></div>

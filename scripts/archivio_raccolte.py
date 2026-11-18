@@ -11,7 +11,7 @@ def apply_collections(root):
     source=(dist/'media-gallery.html').read_text(encoding='utf-8')
     head=source[:source.index('<main id="contenuto">')]
     footer=source[source.index('</main>')+len('</main>'):]
-    head=head.replace('</head>','<link rel="stylesheet" href="collections.css?v=4"><script src="collections.js?v=4" defer></script></head>')
+    head=head.replace('</head>','<link rel="stylesheet" href="collections.css?v=4"><script src="collections.js?v=foto-accessi-20261118" defer></script></head>')
     base='https://famiglia-martinelli.weebly.com'
     assets={x['url']:x['file'] for x in json.loads((root/'content/assets.json').read_text(encoding='utf-8'))}
     enhanced_path=root/'content/foto-guerra-originali.json'

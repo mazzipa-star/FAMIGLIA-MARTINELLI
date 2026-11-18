@@ -27,5 +27,5 @@ def apply_family_access(root):
  prefix=page.split('<main',1)[0];footer=page.split('</main>',1)[1].split('<script',1)[0]
  prefix=prefix.replace('<title>Genealogia · Famiglia Martinelli</title>','<title>Area famiglie · Famiglia Martinelli</title>')
  prefix=re.sub(r'<script[^>]*src="(?:genealogia|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
- prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=20261118"><script src="famiglie.js?v=modifica-20261118" defer></script></head>')
+ prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=foto-accessi-20261118"><script src="famiglie.js?v=foto-accessi-20261118" defer></script></head>')
  (root/'dist/area-famiglie.html').write_text(prefix+(root/'templates/area-famiglie.html').read_text()+footer+'</body></html>')

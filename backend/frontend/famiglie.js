@@ -1,8 +1,10 @@
+import {setupPhotos} from './foto-manager.js';
 import {createClient} from '@supabase/supabase-js';
 
 const $=id=>document.getElementById(id);
 const fields=['name','birth','birth_place','death','death_place','notes'];
 const labels={name:'Nome',birth:'Nascita',birth_place:'Luogo di nascita',death:'Morte',death_place:'Luogo di morte',notes:'Note',parents:'Genitori',partners:'Coniugi',portrait:'Fotografia'};
+let photoManager;
 let api,context,selected,people=new Map(),relativeKind,needsPassword=false,busy=false;
 let requestedPerson=new URLSearchParams(location.search).get('persona');
 const initialType=new URLSearchParams(location.hash.slice(1)).get('type');
@@ -61,6 +63,7 @@ async function refresh(id=selected?.id){
   if(context.people.some(p=>p.id===requested))id=requested;
   else status('Non hai il permesso di modificare questa persona. Puoi scegliere una scheda del tuo ramo.',true);
  }
+ await photoManager.refresh();
  renderList();if(id&&context.people.some(p=>p.id===id))select(id);else{selected=null;$('person-form').hidden=true;$('choose-person').hidden=false;}
 }
 async function renderAccesses(){
@@ -106,6 +109,7 @@ async function start(){
   if(!cfg.enabled){status('Gli accessi personali sono in preparazione. La genealogia pubblica resta consultabile.');return;}
   if(!/^https:\/\/[a-z0-9-]+\.supabase\.co$/.test(cfg.supabaseUrl)||!cfg.publishableKey)throw new Error();
   api=createClient(cfg.supabaseUrl,cfg.publishableKey,{auth:{persistSession:false,autoRefreshToken:true,detectSessionInUrl:true}});
+  photoManager=setupPhotos({rpc,task,status,image});
   api.auth.onAuthStateChange(event=>{if(event==='PASSWORD_RECOVERY'){needsPassword=true;$('family-login').hidden=true;$('family-dashboard').hidden=true;$('password-setup').hidden=false;status('Scegli la tua nuova password personale.');}if(event==='SIGNED_OUT')loginView();});
   const {data:{session}}=await api.auth.getSession();
   if(session&&needsPassword){$('password-setup').hidden=false;status('Imposta la tua password personale per continuare.');}
