@@ -23,9 +23,22 @@ def apply_family_access(root):
   page=page.replace('class="genealogy"','class="genealogy" data-family-access="enabled"',1)
   page=page.replace('<button type="button" id="cards-mode" aria-pressed="false">Schede</button>','<button type="button" id="cards-mode" aria-pressed="false">Schede</button><a class="family-update-button" href="area-famiglie.html"><span aria-hidden="true">✎</span> Aggiorna famiglie</a>',1)
   page=page.replace('</head>','<script src="genealogia-live.js?v=20261118" defer></script></head>')
+ page=page.replace('</head>','<link rel="stylesheet" href="guida-famiglie.css?v=20261119"></head>')
+ page=page.replace('</div></div>\n<p id="tree-summary"', '<a class="family-help-link" href="guida-famiglie.html" target="_blank" rel="noopener">? Come aggiornare</a></div></div>\n<p id="tree-summary"')
  p.write_text(page)
  prefix=page.split('<main',1)[0];footer=page.split('</main>',1)[1].split('<script',1)[0]
  prefix=prefix.replace('<title>Genealogia · Famiglia Martinelli</title>','<title>Area famiglie · Famiglia Martinelli</title>')
  prefix=re.sub(r'<script[^>]*src="(?:genealogia|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
  prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=foto-accessi-20261118"><script src="famiglie.js?v=foto-accessi-20261118" defer></script></head>')
  (root/'dist/area-famiglie.html').write_text(prefix+(root/'templates/area-famiglie.html').read_text()+footer+'</body></html>')
+
+ guide_prefix=re.sub(r'<script[^>]*src="famiglie\.js[^>]*></script>','',prefix)
+ guide_prefix=guide_prefix.replace('<title>Area famiglie · Famiglia Martinelli</title>','<title>Guida per i referenti · Famiglia Martinelli</title>')
+ guide_prefix=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="Guida interattiva per aggiornare le schede e le fotografie del proprio ramo familiare.">',guide_prefix)
+ guide_prefix=guide_prefix.replace('</head>','<script src="guida-famiglie.js?v=20261119" defer></script></head>')
+ (root/'dist/guida-famiglie.html').write_text(guide_prefix+(root/'templates/guida-famiglie.html').read_text()+footer+'</body></html>')
+ photo_page=root/'dist/foto.html'
+ if photo_page.exists():
+  photos=photo_page.read_text()
+  photos=photos.replace('<h1>Foto</h1>','<h1>Foto</h1><p><a href="guida-famiglie.html#foto">? Come gestire fotografie e descrizioni</a></p>',1)
+  photo_page.write_text(photos)
