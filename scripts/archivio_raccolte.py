@@ -3,6 +3,7 @@ from pathlib import Path
 from html import escape
 import json,re
 from album_generazioni import render_family_album
+from matrimonio_anna_vera import load_wedding_copies
 
 def J(data): return escape(json.dumps(data,ensure_ascii=False,separators=(',',':')),quote=True)
 
@@ -43,6 +44,10 @@ def apply_collections(root):
        ('Invito alle nozze · 1940',invito),
        ('Invito originale','assets/documenti/matrimonio-anna-enrico/invito-nozze-1940-originale.jpg')]
     wedding=[dict(src=p,full=p,caption=t) for t,p in wedding_paths]
+    wedding.extend(
+        dict(src=item['src'], full=item['src'], caption=item['title']+' — '+item['credit'])
+        for item in load_wedding_copies(root)
+    )
     collections.append(dict(id='matrimoni',title='Il matrimonio di Anna e Vera',desc='Fotografie delle due coppie, famiglia e invito di nozze.',images=wedding,href='album-matrimoni.html',more='matrimonio-anna-vera.html'))
     portrait_base='assets/famiglia-martinelli-storiche/'
     portraits=[dict(src=portrait_base+x+'-restaurata.jpg',full=portrait_base+x+'-restaurata.jpg',caption=t)
@@ -68,8 +73,9 @@ def apply_collections(root):
         if c.get('missing'):continue
         pictures=c['images']
         first=pictures[0]
+        open_label='Apri a piena risoluzione ↗' if c['id']=='matrimoni' else 'Ingrandisci l’originale ↗'
         thumbs=''.join('<button type="button" data-slide="'+str(i)+'" aria-label="Mostra fotografia '+str(i+1)+'" aria-pressed="'+('true' if i==0 else 'false')+'"><img src="'+escape(x['src'],quote=True)+'" loading="lazy" alt=""><span>'+str(i+1)+'. '+escape(x['caption'][:50])+'</span></button>' for i,x in enumerate(pictures))
-        viewer='<article class="full-album" data-items="'+J(pictures)+'"><div class="album-viewer"><div class="album-stage"><img src="'+escape(first['src'])+'" alt="'+escape(first['caption'])+'"><button class="prev" type="button" aria-label="Precedente">‹</button><button class="next" type="button" aria-label="Successiva">›</button></div><div class="album-copy"><p data-count>Fotografia 1 di '+str(len(pictures))+'</p><h2>'+escape(c['title'])+'</h2><p data-caption>'+escape(first['caption'])+'</p><p><a data-original href="'+escape(first['full'])+'" target="_blank" rel="noopener">Ingrandisci l’originale ↗</a></p><p>Seleziona una miniatura oppure usa le frecce per sfogliare.</p></div></div><h2 class="collection-heading">Tutte le fotografie · '+str(len(pictures))+'</h2><div class="album-thumbs">'+thumbs+'</div></article>'
+        viewer='<article class="full-album" data-items="'+J(pictures)+'"><div class="album-viewer"><div class="album-stage"><img src="'+escape(first['src'])+'" alt="'+escape(first['caption'])+'"><button class="prev" type="button" aria-label="Precedente">‹</button><button class="next" type="button" aria-label="Successiva">›</button></div><div class="album-copy"><p data-count>Fotografia 1 di '+str(len(pictures))+'</p><h2>'+escape(c['title'])+'</h2><p data-caption>'+escape(first['caption'])+'</p><p><a data-original href="'+escape(first['full'])+'" target="_blank" rel="noopener">'+open_label+'</a></p><p>Seleziona una miniatura oppure usa le frecce per sfogliare.</p></div></div><h2 class="collection-heading">Tutte le fotografie · '+str(len(pictures))+'</h2><div class="album-thumbs">'+thumbs+'</div></article>'
         if c['id'] in family_generations:
             viewer=render_family_album(c,family_generations[c['id']])
         shell(c['title'],c['desc'],'<a class="collection-back" href="foto.html#raccolta-'+escape(c['id'])+'">← Torna a tutte le raccolte fotografiche</a>'+viewer,'album-'+c['id']+'.html')
