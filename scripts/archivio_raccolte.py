@@ -110,7 +110,7 @@ def apply_collections(root):
     shell('Gondar durante l’occupazione italiana in Africa','Repertorio storico collegato agli archivi originali; i filmati non sono ripubblicati sul nostro sito.','<a class="collection-back" href="video.html">← Torna alle cartelle video</a><nav class="collection-index">'+''.join('<a href="#repertorio-'+str(i)+'">'+escape(l['title'])+'</a>' for i,l in enumerate(links,1))+'</nav>'+''.join(link_cards)+'<p>Nota: il primo filmato è precedente all’occupazione italiana di Gondar e il terzo è successivo. Per il riutilizzo delle riprese occorre verificare i diritti presso gli archivi.</p>','video-gondar.html')
     # Preserve existing media-gallery.html and its historic #foto-* anchors for old links.
     # Refresh the global menu after every generator has finished, including special pages.
-    nav_items=[('index.html','Home'),('la-storia.html','La storia'),('documenti.html','Documenti'),('la-memoria.html','La memoria'),('genealogia.html','Genealogia'),('foto.html','Foto'),('video.html','Video'),('contribuisci.html','Contribuisci'),('contact.html','Contatti')]
+    nav_items=[('index.html','Home'),('la-storia.html','La storia'),('documenti.html','Documenti'),('la-memoria.html','La memoria'),('genealogia.html','Genealogia'),('foto.html','Foto'),('video.html','Video'),('contribuisci.html','Contribuisci'),('contact.html','Contatti'),('area-famiglie.html','Accedi')]
     for file in dist.glob('*.html'):
         content=file.read_text(encoding='utf-8')
         current='foto.html' if file.name.startswith('album-') or file.name in ('foto.html','africa-famiglia.html','matrimonio-anna-vera.html','ritratti-lina-giovanni.html') else 'video.html' if file.name in ('video.html','video-famiglia.html','video-gondar.html') else file.name
