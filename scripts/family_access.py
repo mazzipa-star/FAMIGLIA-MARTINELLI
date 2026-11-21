@@ -27,6 +27,7 @@ def apply_family_access(root):
  page=page.replace('</div></div>\n<p id="tree-summary"', '<a class="family-help-link" href="guida-famiglie.html" target="_blank" rel="noopener">? Come aggiornare</a></div></div>\n<p id="tree-summary"')
  p.write_text(page)
  prefix=page.split('<main',1)[0];footer=page.split('</main>',1)[1].split('<script',1)[0]
+ prefix=prefix.replace('aria-current="page" href="genealogia.html"','href="genealogia.html"').replace('href="area-famiglie.html"','aria-current="page" href="area-famiglie.html"')
  prefix=prefix.replace('<title>Genealogia · Famiglia Martinelli</title>','<title>Area famiglie · Famiglia Martinelli</title>')
  prefix=re.sub(r'<script[^>]*src="(?:genealogia|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
  prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=foto-accessi-20261118"><script src="famiglie.js?v=foto-accessi-20261118" defer></script></head>')
