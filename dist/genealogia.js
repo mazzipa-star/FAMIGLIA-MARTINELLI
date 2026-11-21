@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-let trees=JSON.parse(document.getElementById('genealogy-data').textContent);
+let trees=FamilyTreeViews.withComplete(JSON.parse(document.getElementById('genealogy-data').textContent));
 const $=id=>document.getElementById(id), map=$('tree-map'),canvas=$('tree-canvas');
 let tree=trees[0], selected=null, mode='map', scale=1, tx=0,ty=0, bounds={w:1,h:1};
 const positions=new Map(),pointers=new Map();let gesture=null,moved=false;
@@ -38,7 +38,7 @@ function render(preserve=false){
  $('cards-view').innerHTML=tree.people.map(p=>`<button type="button" class="person-card" data-person="${p.id}">${node(p,'card')}</button>`).join('');
  $('tree-summary').textContent=`${tree.title} di Giovanni Martinelli · ${tree.people.length} persone nell’albero`;
  document.querySelectorAll('[data-tree]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.tree===tree.id)));
- if(!preserve){$('person-detail').hidden=true;selected=null;focusPerson(root().id,window.innerWidth<650?.95:1);}else transform();
+ if(!preserve){$('person-detail').hidden=true;selected=null;if(tree.id==='completo')fit();else focusPerson(root().id,window.innerWidth<650?.95:1);}else transform();
 }
 function relatives(ids){return ids.map(id=>`<button type="button" data-person="${id}">${escape(person(id).name)}</button>`).join('');}
 function showPerson(id,scroll=true){
@@ -56,7 +56,7 @@ function showPerson(id,scroll=true){
 }
 function setMode(value){mode=value;$('map-view').hidden=value!=='map';$('cards-view').hidden=value!=='cards';$('map-mode').setAttribute('aria-pressed',String(value==='map'));$('cards-mode').setAttribute('aria-pressed',String(value==='cards'));if(value==='map')focusPerson(selected||root().id);}
 document.addEventListener('click',e=>{const toggle=e.target.closest('[data-branch]');if(toggle){if(!moved){const key=toggle.dataset.branch;collapsed().has(key)?collapsed().delete(key):collapsed().add(key);render(true);canvas.querySelector('[data-branch=\"'+key+'\"]')?.focus({preventScroll:true});}moved=false;return;}const p=e.target.closest('[data-person]');if(p){if(!moved||!map.contains(p)){if(p.dataset.sourceTree&&p.dataset.sourceTree!==tree.id){tree=trees.find(t=>t.id===p.dataset.sourceTree);render();}showPerson(p.dataset.person);focusPerson(p.dataset.person);$('search-results').replaceChildren();}moved=false;return;}const t=e.target.closest('[data-tree]');if(t){tree=trees.find(x=>x.id===t.dataset.tree);render();$('person-search').value='';$('search-results').replaceChildren();}if(!e.target.closest('.search-field'))$('search-results').replaceChildren();});
-$('person-search').addEventListener('input',e=>{const q=e.target.value.trim().toLocaleLowerCase('it');if(!q){$('search-results').replaceChildren();return;}const matches=trees.flatMap(t=>t.people.filter(p=>p.name.toLocaleLowerCase('it').includes(q)).map(p=>({p,t})));$('search-results').innerHTML=matches.length?matches.map(({p,t})=>`<button type="button" data-person="${p.id}" data-source-tree="${t.id}">${escape(p.name)}<small>${t.title} · ${escape(date(p))}</small></button>`).join(''):'<p>Nessuna persona trovata. Prova con una parte del nome.</p>';});
+$('person-search').addEventListener('input',e=>{const q=e.target.value.trim().toLocaleLowerCase('it');if(!q){$('search-results').replaceChildren();return;}const matches=(tree.id==='completo'?[tree]:trees.filter(t=>t.id!=='completo')).flatMap(t=>t.people.filter(p=>p.name.toLocaleLowerCase('it').includes(q)).map(p=>({p,t})));$('search-results').innerHTML=matches.length?matches.map(({p,t})=>`<button type="button" data-person="${p.id}" data-source-tree="${t.id}">${escape(p.name)}<small>${t.title} · ${escape(date(p))}</small></button>`).join(''):'<p>Nessuna persona trovata. Prova con una parte del nome.</p>';});
 $('person-search').addEventListener('keydown',e=>{if(e.key==='Escape')$('search-results').replaceChildren();if(e.key==='ArrowDown'){e.preventDefault();$('search-results').querySelector('button')?.focus();}});
 $('search-results').addEventListener('keydown',e=>{const b=[...$('search-results').querySelectorAll('button')],i=b.indexOf(document.activeElement);if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();b[(i+(e.key==='ArrowDown'?1:-1)+b.length)%b.length]?.focus();}if(e.key==='Escape'){$('search-results').replaceChildren();$('person-search').focus();}});
 $('map-mode').onclick=()=>setMode('map');$('cards-mode').onclick=()=>setMode('cards');$('zoom-in').onclick=()=>zoom(scale*1.25);$('zoom-out').onclick=()=>zoom(scale/1.25);$('fit-tree').onclick=fit;$('home-person').onclick=()=>{focusPerson(root().id);};
@@ -72,6 +72,6 @@ function endPointer(e){pointers.delete(e.pointerId);if(pointers.size)beginGestur
 map.addEventListener('pointerup',endPointer);map.addEventListener('pointercancel',endPointer);window.addEventListener('pointerup',endPointer);
 map.addEventListener('wheel',e=>{e.preventDefault();const r=map.getBoundingClientRect();if(e.ctrlKey||e.metaKey)zoom(scale*Math.exp(-e.deltaY*.008),e.clientX-r.left,e.clientY-r.top);else{tx-=e.deltaX;ty-=e.deltaY;transform();}},{passive:false});
 window.addEventListener('resize',()=>{if(mode==='map')focusPerson(selected||root().id);});
-window.addEventListener('family-genealogy-updated',e=>{const previous=tree.id,id=selected;trees=e.detail.trees;tree=trees.find(t=>t.id===previous)||trees[0];render(true);if(id&&person(id))showPerson(id,false);});
+window.addEventListener('family-genealogy-updated',e=>{const previous=tree.id,id=selected;trees=FamilyTreeViews.withComplete(e.detail.trees);tree=trees.find(t=>t.id===previous)||trees[0];render(true);if(id&&person(id))showPerson(id,false);});
 render();
 })();

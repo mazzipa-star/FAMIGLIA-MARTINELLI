@@ -15,8 +15,8 @@ def apply_family_access(root):
  public={'enabled':enabled,'supabaseUrl':url if enabled else '', 'publishableKey':key if enabled else ''}
  (root/'dist/family-access-config.json').write_text(json.dumps(public))
  p=root/'dist/genealogia.html';page=p.read_text()
- page=re.sub(r'genealogia.css\?v=[^"\s]+','genealogia.css?v=modifica-20261118',page)
- page=re.sub(r'genealogia.js\?v=[^"\s]+','genealogia.js?v=modifica-20261118',page)
+ page=re.sub(r'genealogia.css\?v=[^"\s]+','genealogia.css?v=completo-20261121',page)
+ page=re.sub(r'genealogia.js\?v=[^"\s]+','genealogia.js?v=completo-20261121',page)
  page=re.sub(r'ritratti.js\?v=[^"\s]+','ritratti.js?v=accessi-20261118',page)
  page=page.replace('Esplora l’albero oppure consulta le schede, una persona alla volta.','Usa i simboli + e − nelle schede per aprire e chiudere i rami. Puoi anche cercare una persona o consultare le schede.')
  if enabled:
@@ -29,7 +29,7 @@ def apply_family_access(root):
  prefix=page.split('<main',1)[0];footer=page.split('</main>',1)[1].split('<script',1)[0]
  prefix=prefix.replace('aria-current="page" href="genealogia.html"','href="genealogia.html"').replace('href="area-famiglie.html"','aria-current="page" href="area-famiglie.html"')
  prefix=prefix.replace('<title>Genealogia · Famiglia Martinelli</title>','<title>Area famiglie · Famiglia Martinelli</title>')
- prefix=re.sub(r'<script[^>]*src="(?:genealogia|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
+ prefix=re.sub(r'<script[^>]*src="(?:genealogia|genealogia-completo|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
  prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=foto-accessi-20261118"><script src="famiglie.js?v=foto-accessi-20261118" defer></script></head>')
  (root/'dist/area-famiglie.html').write_text(prefix+(root/'templates/area-famiglie.html').read_text()+footer+'</body></html>')
 

@@ -9,3 +9,5 @@
 .genealogy .node-edit{position:absolute;left:5px;top:5px;z-index:2;display:flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid #8e5034;border-radius:50%;background:#fff4df;color:#703b25;font:24px/1 system-ui;text-decoration:none}
 .genealogy .node-edit:hover{background:#8e5034;color:white}
 @media(max-width:650px){.genealogy .family-update-button{flex:1 0 100%}}
+
+.tree-tabs{flex-wrap:wrap}.tree-tabs button[data-tree="completo"]{font-weight:700}@media(max-width:650px){.tree-tabs button{flex:1 1 140px}}
