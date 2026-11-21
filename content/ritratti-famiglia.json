@@ -52,7 +52,7 @@
   {
     "id": "family-2",
     "name": "Marcella Tortora",
-    "text": "Marcella Tortora\nNascita 13/2/80\nClearwater, Florida, USA",
+    "text": "Marcella Tortora\nNascita 11 febbraio 1980",
     "box": [
       1104.099,
       5973.398999999999,
@@ -60,17 +60,19 @@
       6321.898999999999
     ],
     "record_name": "Marcella Tortora",
-    "birth": "13/2/80",
+    "birth": "11 febbraio 1980",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "",
     "photo_full": "",
     "collection": "Albero familiare",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-2"
+    ]
   },
   {
     "id": "family-3",
@@ -251,7 +253,7 @@
   {
     "id": "family-10",
     "name": "Davide Tortora",
-    "text": "Davide Tortora\nNascita 25/9/93",
+    "text": "Davide Tortora\nNascita 25 settembre 1992",
     "box": [
       1729.099,
       5973.398999999999,
@@ -259,36 +261,38 @@
       6312.898999999999
     ],
     "record_name": "Davide Tortora",
-    "birth": "25/9/93",
+    "birth": "25 settembre 1992",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "",
     "photo_full": "",
     "collection": "Albero familiare",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-10"
+    ]
   },
   {
     "id": "family-11",
-    "name": "Loletta Calenda",
-    "text": "Loletta Calenda\nNascita 20/08/1941\nAsmara, Eritrea",
+    "name": "Maria Pia Calenda",
+    "text": "Maria Pia Calenda\nNascita 20/08/1941\nAsmara, Eritrea",
     "box": [
       2229.099,
       5413.898999999999,
       2409.099,
       5762.398999999999
     ],
-    "record_name": "Loletta Calenda",
+    "record_name": "Maria Pia Calenda",
     "birth": "20/08/1941",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [
-      "Loletta Tortora"
+      "Maria Pia Tortora"
     ],
     "identity_note": "",
     "photo": "assets/ritratti-famiglia/family-11.webp",
@@ -351,7 +355,7 @@
   {
     "id": "family-14",
     "name": "Francesca Romana Colussi",
-    "text": "Francesca Romana\nColussi\nNascita 01/04/1973\nverona",
+    "text": "Francesca Romana Colussi\nNascita 1 aprile 1973",
     "box": [
       2209.099,
       5973.398999999999,
@@ -359,40 +363,44 @@
       6341.898999999999
     ],
     "record_name": "Francesca Romana Colussi",
-    "birth": "01/04/1973",
+    "birth": "1 aprile 1973",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-14.webp",
     "photo_full": "assets/ritratti-famiglia/family-14-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-14"
+    ]
   },
   {
     "id": "family-15",
     "name": "Laura Uribe",
-    "text": "Laura Uribe (Tortora)\nNascita 10/11/52\nCartagena, Colombia",
+    "text": "Laura Uribe\nNascita 10 novembre 1952",
     "box": [
       1006.599,
       5426.898999999999,
       1186.599,
       5775.398999999999
     ],
-    "record_name": "Laura Uribe (Tortora)",
-    "birth": "10/11/52",
+    "record_name": "Laura Uribe",
+    "birth": "10 novembre 1952",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-15.webp",
     "photo_full": "assets/ritratti-famiglia/family-15-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-15"
+    ]
   },
   {
     "id": "family-16",
@@ -421,26 +429,28 @@
   },
   {
     "id": "family-17",
-    "name": "Anna Carolina Tortora",
-    "text": "Anna Carolina Tortora\nNascita 30/9/77\nOttawa, Canada",
+    "name": "Carolina Tortora",
+    "text": "Carolina Tortora\nNascita 30 ottobre 1977",
     "box": [
       714.099,
       5973.398999999999,
       894.099,
       6321.898999999999
     ],
-    "record_name": "Anna Carolina Tortora",
-    "birth": "30/9/77",
+    "record_name": "Carolina Tortora",
+    "birth": "30 ottobre 1977",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-17.webp",
     "photo_full": "assets/ritratti-famiglia/family-17-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-17"
+    ]
   },
   {
     "id": "family-18",
@@ -470,7 +480,7 @@
   {
     "id": "family-19",
     "name": "Ludovica Colussi",
-    "text": "Ludovica Colussi\nNascita 26/05/1977\nVerona",
+    "text": "Ludovica Colussi\nNascita 26 maggio 1977",
     "box": [
       2639.099,
       5973.398999999999,
@@ -478,17 +488,19 @@
       6321.898999999999
     ],
     "record_name": "Ludovica Colussi",
-    "birth": "26/05/1977",
+    "birth": "26 maggio 1977",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-19.webp",
     "photo_full": "assets/ritratti-famiglia/family-19-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-19"
+    ]
   },
   {
     "id": "family-20",
@@ -775,7 +787,7 @@
   {
     "id": "family-31",
     "name": "Laura Emilia Tortora",
-    "text": "Laura Emilia Tortora\nNascita 5/11/85\nPaterson, New Jersey, USA",
+    "text": "Laura Emilia Tortora\nNascita 5 novembre 1985",
     "box": [
       1299.099,
       5973.398999999999,
@@ -783,17 +795,19 @@
       6321.898999999999
     ],
     "record_name": "Laura Emilia Tortora",
-    "birth": "5/11/85",
+    "birth": "5 novembre 1985",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-31.webp",
     "photo_full": "assets/ritratti-famiglia/family-31-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-31"
+    ]
   },
   {
     "id": "family-32",
@@ -1069,26 +1083,28 @@
   },
   {
     "id": "family-43",
-    "name": "Fabio Colussi",
-    "text": "Fabio Colussi",
+    "name": "Fabio Giorgio Colussi",
+    "text": "Fabio Giorgio Colussi\nNascita 15 marzo 1936",
     "box": [
       2424.099,
       5430.898999999999,
       2604.099,
       5745.398999999999
     ],
-    "record_name": "Fabio Colussi",
-    "birth": "",
+    "record_name": "Fabio Giorgio Colussi",
+    "birth": "15 marzo 1936",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-43.webp",
     "photo_full": "assets/ritratti-famiglia/family-43-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-43"
+    ]
   },
   {
     "id": "family-44",
@@ -1166,7 +1182,7 @@
   {
     "id": "family-47",
     "name": "Niccolò Tortora",
-    "text": "Niccolò Tortora\nNascita 30/5/95",
+    "text": "Niccolò Tortora\nNascita 30 maggio 1994",
     "box": [
       1924.099,
       5973.398999999999,
@@ -1174,17 +1190,19 @@
       6312.898999999999
     ],
     "record_name": "Niccolò Tortora",
-    "birth": "30/5/95",
+    "birth": "30 maggio 1994",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-47.webp",
     "photo_full": "assets/ritratti-famiglia/family-47-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-47"
+    ]
   },
   {
     "id": "family-48",
@@ -1521,7 +1539,7 @@
       5779.398999999999
     ],
     "record_name": "Andrea Tortora",
-    "birth": "29/5/58",
+    "birth": "29 maggio 1958",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
@@ -2018,25 +2036,27 @@
   {
     "id": "family-81",
     "name": "Lucia Inviso",
-    "text": "Lucia Inviso (Tortora)\nNascita 5/4/58\nMatrimonio\nAndrea Tortora",
+    "text": "Lucia Inviso\nNascita 5 aprile 1958",
     "box": [
       1729.099,
       5413.898999999999,
       1909.099,
       5779.398999999999
     ],
-    "record_name": "Lucia Inviso (Tortora)",
-    "birth": "5/4/58",
+    "record_name": "Lucia Inviso",
+    "birth": "5 aprile 1958",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "assets/ritratti-famiglia/family-81.webp",
     "photo_full": "assets/ritratti-famiglia/family-81-grande.webp",
     "collection": "Tortora",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-81"
+    ]
   },
   {
     "id": "family-82",
@@ -2116,7 +2136,7 @@
   {
     "id": "family-85",
     "name": "Jacopo Tortora",
-    "text": "Jacopo Tortora\nNascita 3/4/86",
+    "text": "Jacopo Tortora\nNascita 2 aprile 1986",
     "box": [
       1534.099,
       5973.398999999999,
@@ -2124,17 +2144,19 @@
       6312.898999999999
     ],
     "record_name": "Jacopo Tortora",
-    "birth": "3/4/86",
+    "birth": "2 aprile 1986",
     "death": "",
     "deceased_recorded": false,
     "source": "Albero familiare «La Famiglia Martinelli.pdf»",
     "source_pdf": "assets/genealogia/famiglia-completa.pdf",
     "aliases": [],
-    "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
+    "identity_note": "Dati comunicati dalla famiglia il 21 novembre 2026",
     "photo": "",
     "photo_full": "",
     "collection": "Albero familiare",
-    "tree_ids": []
+    "tree_ids": [
+      "discendenti-nuovo-family-85"
+    ]
   },
   {
     "id": "extra-0",

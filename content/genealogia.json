@@ -536,7 +536,7 @@
         "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
         "catalog_id": "family-58",
         "record_name": "Enrico Calenda",
-        "identity_note": "Primo marito di Annamaria Martinelli e padre di Loletta Calenda.",
+        "identity_note": "Primo marito di Annamaria Martinelli e padre di Maria Pia Calenda.",
         "relationship_source": "Correzione comunicata dalla famiglia il 18 novembre 2026."
       },
       {
@@ -867,7 +867,7 @@
       },
       {
         "id": "discendenti-23",
-        "name": "Loletta Calenda",
+        "name": "Maria Pia Calenda",
         "date": "",
         "x": 5964,
         "y": 630,
@@ -876,13 +876,15 @@
           "discendenti-8",
           "discendenti-anna-enrico-calenda"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-nuovo-family-43"
+        ],
         "birth": "20/08/1941",
         "death": "",
         "deceased_recorded": false,
         "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
         "catalog_id": "family-11",
-        "record_name": "Loletta Calenda",
+        "record_name": "Maria Pia Calenda",
         "identity_note": "",
         "portrait_full": "assets/ritratti-famiglia/family-11-grande.webp",
         "portrait_source": "Archivio fotografico familiare"
@@ -891,7 +893,7 @@
         "id": "discendenti-24",
         "name": "Stefano Tortora",
         "date": "1951",
-        "x": 6132,
+        "x": 6900,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-16.webp",
         "parents": [
@@ -915,14 +917,16 @@
         "id": "discendenti-25",
         "name": "Marcello Tortora",
         "date": "?-?",
-        "x": 6720,
+        "x": 7750,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-78.webp",
         "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-nuovo-family-15"
+        ],
         "birth": "8/7/54",
         "death": "11/5/97",
         "deceased_recorded": true,
@@ -937,18 +941,20 @@
         "id": "discendenti-26",
         "name": "Andrea Tortora",
         "date": "",
-        "x": 6950,
+        "x": 8750,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-61.webp",
         "parents": [
           "discendenti-8",
           "discendenti-9"
         ],
-        "partners": [],
-        "birth": "29/5/58",
+        "partners": [
+          "discendenti-nuovo-family-81"
+        ],
+        "birth": "29 maggio 1958",
         "death": "",
         "deceased_recorded": false,
-        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-61",
         "record_name": "Andrea Tortora",
         "identity_note": "La data di nascita è riportata con l’anno a due cifre, come nel documento familiare.",
@@ -1491,7 +1497,7 @@
         "id": "discendenti-tortora-giovanna-limone",
         "name": "Giovanna Limone",
         "date": "1953",
-        "x": 6317,
+        "x": 7085,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-70.webp",
         "portrait_full": "assets/ritratti-famiglia/family-70-grande.webp",
@@ -1512,7 +1518,7 @@
         "id": "discendenti-tortora-maria-beatrice",
         "name": "Maria Beatrice Tortora",
         "date": "1975",
-        "x": 6030,
+        "x": 6750,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/family-76.webp",
         "portrait_full": "assets/ritratti-famiglia/family-76-grande.webp",
@@ -1534,7 +1540,7 @@
         "id": "discendenti-tortora-giacomo",
         "name": "Giacomo Tortora",
         "date": "1977",
-        "x": 6230,
+        "x": 6980,
         "y": 786,
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
         "portrait_missing": true,
@@ -1556,7 +1562,7 @@
         "id": "discendenti-tortora-costanza",
         "name": "Costanza Tortora",
         "date": "1987",
-        "x": 6430,
+        "x": 7210,
         "y": 786,
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
         "portrait_missing": true,
@@ -1803,6 +1809,204 @@
         "identity_note": "",
         "portrait_missing": true,
         "birth_place": "Reggio Calabria"
+      },
+      {
+        "id": "discendenti-nuovo-family-43",
+        "name": "Fabio Giorgio Colussi",
+        "record_name": "Fabio Giorgio Colussi",
+        "birth": "15 marzo 1936",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-43",
+        "portrait": "assets/ritratti-famiglia/family-43.webp",
+        "x": 6150,
+        "y": 630,
+        "parents": [],
+        "partners": [
+          "discendenti-23"
+        ]
+      },
+      {
+        "id": "discendenti-nuovo-family-14",
+        "name": "Francesca Romana Colussi",
+        "record_name": "Francesca Romana Colussi",
+        "birth": "1 aprile 1973",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-14",
+        "portrait": "assets/ritratti-famiglia/family-14.webp",
+        "x": 5850,
+        "y": 786,
+        "parents": [
+          "discendenti-23",
+          "discendenti-nuovo-family-43"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-nuovo-family-19",
+        "name": "Ludovica Colussi",
+        "record_name": "Ludovica Colussi",
+        "birth": "26 maggio 1977",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-19",
+        "portrait": "assets/ritratti-famiglia/family-19.webp",
+        "x": 6150,
+        "y": 786,
+        "parents": [
+          "discendenti-23",
+          "discendenti-nuovo-family-43"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-nuovo-family-15",
+        "name": "Laura Uribe",
+        "record_name": "Laura Uribe",
+        "birth": "10 novembre 1952",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-15",
+        "portrait": "assets/ritratti-famiglia/family-15.webp",
+        "x": 7935,
+        "y": 630,
+        "parents": [],
+        "partners": [
+          "discendenti-25"
+        ]
+      },
+      {
+        "id": "discendenti-nuovo-family-17",
+        "name": "Carolina Tortora",
+        "record_name": "Carolina Tortora",
+        "birth": "30 ottobre 1977",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-17",
+        "portrait": "assets/ritratti-famiglia/family-17.webp",
+        "x": 7600,
+        "y": 786,
+        "parents": [
+          "discendenti-25",
+          "discendenti-nuovo-family-15"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-nuovo-family-2",
+        "name": "Marcella Tortora",
+        "record_name": "Marcella Tortora",
+        "birth": "11 febbraio 1980",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-2",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 7830,
+        "y": 786,
+        "parents": [
+          "discendenti-25",
+          "discendenti-nuovo-family-15"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-nuovo-family-31",
+        "name": "Laura Emilia Tortora",
+        "record_name": "Laura Emilia Tortora",
+        "birth": "5 novembre 1985",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-31",
+        "portrait": "assets/ritratti-famiglia/family-31.webp",
+        "x": 8060,
+        "y": 786,
+        "parents": [
+          "discendenti-25",
+          "discendenti-nuovo-family-15"
+        ],
+        "partners": []
+      },
+      {
+        "id": "discendenti-nuovo-family-81",
+        "name": "Lucia Inviso",
+        "record_name": "Lucia Inviso",
+        "birth": "5 aprile 1958",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-81",
+        "portrait": "assets/ritratti-famiglia/family-81.webp",
+        "x": 8935,
+        "y": 630,
+        "parents": [],
+        "partners": [
+          "discendenti-26"
+        ]
+      },
+      {
+        "id": "discendenti-nuovo-family-85",
+        "name": "Jacopo Tortora",
+        "record_name": "Jacopo Tortora",
+        "birth": "2 aprile 1986",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-85",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 8600,
+        "y": 786,
+        "parents": [
+          "discendenti-26",
+          "discendenti-nuovo-family-81"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-nuovo-family-10",
+        "name": "Davide Tortora",
+        "record_name": "Davide Tortora",
+        "birth": "25 settembre 1992",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-10",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 8830,
+        "y": 786,
+        "parents": [
+          "discendenti-26",
+          "discendenti-nuovo-family-81"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-nuovo-family-47",
+        "name": "Niccolò Tortora",
+        "record_name": "Niccolò Tortora",
+        "birth": "30 maggio 1994",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-47",
+        "portrait": "assets/ritratti-famiglia/family-47.webp",
+        "x": 9060,
+        "y": 786,
+        "parents": [
+          "discendenti-26",
+          "discendenti-nuovo-family-81"
+        ],
+        "partners": []
       }
     ],
     "families": [
@@ -2022,6 +2226,38 @@
           "discendenti-mauro-alessandra"
         ],
         "children": []
+      },
+      {
+        "parents": [
+          "discendenti-23",
+          "discendenti-nuovo-family-43"
+        ],
+        "children": [
+          "discendenti-nuovo-family-14",
+          "discendenti-nuovo-family-19"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-25",
+          "discendenti-nuovo-family-15"
+        ],
+        "children": [
+          "discendenti-nuovo-family-17",
+          "discendenti-nuovo-family-2",
+          "discendenti-nuovo-family-31"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-26",
+          "discendenti-nuovo-family-81"
+        ],
+        "children": [
+          "discendenti-nuovo-family-85",
+          "discendenti-nuovo-family-10",
+          "discendenti-nuovo-family-47"
+        ]
       }
     ]
   }
