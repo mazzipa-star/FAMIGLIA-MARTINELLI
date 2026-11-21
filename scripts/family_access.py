@@ -15,9 +15,9 @@ def apply_family_access(root):
  public={'enabled':enabled,'supabaseUrl':url if enabled else '', 'publishableKey':key if enabled else ''}
  (root/'dist/family-access-config.json').write_text(json.dumps(public))
  p=root/'dist/genealogia.html';page=p.read_text()
- page=re.sub(r'genealogia.css\?v=[^"\s]+','genealogia.css?v=rami-20261121',page)
- page=re.sub(r'genealogia.js\?v=[^"\s]+','genealogia.js?v=rami-20261121',page)
- page=re.sub(r'ritratti.js\?v=[^"\s]+','ritratti.js?v=rami-20261121',page)
+ page=re.sub(r'genealogia.css\?v=[^"\s]+','genealogia.css?v=tortora-20261121',page)
+ page=re.sub(r'genealogia.js\?v=[^"\s]+','genealogia.js?v=tortora-20261121',page)
+ page=re.sub(r'ritratti.js\?v=[^"\s]+','ritratti.js?v=tortora-20261121',page)
  page=page.replace('Esplora l’albero oppure consulta le schede, una persona alla volta.','Usa i simboli + e − nelle schede per aprire e chiudere i rami. Puoi anche cercare una persona o consultare le schede.')
  if enabled:
   page=page.replace('class="genealogy"','class="genealogy" data-family-access="enabled"',1)
@@ -30,7 +30,7 @@ def apply_family_access(root):
  prefix=prefix.replace('aria-current="page" href="genealogia.html"','href="genealogia.html"').replace('href="area-famiglie.html"','aria-current="page" href="area-famiglie.html"')
  prefix=prefix.replace('<title>Genealogia · Famiglia Martinelli</title>','<title>Area famiglie · Famiglia Martinelli</title>')
  prefix=re.sub(r'<script[^>]*src="(?:genealogia|genealogia-completo|ritratti|genealogia-live)\.js[^>]*></script>','',prefix)
- prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=foto-rami-20261121"><script src="famiglie.js?v=foto-rami-20261121" defer></script></head>')
+ prefix=prefix.replace('</head>','<link rel="stylesheet" href="famiglie.css?v=foto-tortora-20261121"><script src="famiglie.js?v=foto-tortora-20261121" defer></script></head>')
  (root/'dist/area-famiglie.html').write_text(prefix+(root/'templates/area-famiglie.html').read_text()+footer+'</body></html>')
 
  guide_prefix=re.sub(r'<script[^>]*src="famiglie\.js[^>]*></script>','',prefix)

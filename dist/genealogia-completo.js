@@ -30,12 +30,12 @@
    if(!seen.has(key)){seen.add(key);families.push(family);}
   }
   const full={id:'completo',title:'Albero completo',people:[...people.values()],families};
-  const branches=[['vera','Vera','discendenti-4'],['graziella','Graziella','discendenti-2'],['sante','Sante','discendenti-6'],['annamaria','Annamaria','discendenti-8']].map(([key,name,id])=>{
+  const branches=[['vera','Vera','discendenti-4'],['graziella','Graziella','discendenti-2'],['sante','Sante','discendenti-6'],['annamaria','Anna Maria','discendenti-8']].map(([key,name,id])=>{
    const descendants=new Set([id]);let changed=true;
    while(changed){changed=false;for(const p of full.people)if(p.parents.some(x=>descendants.has(x))&&!descendants.has(p.id)){descendants.add(p.id);changed=true;}}
    const scope=new Set(descendants);for(const p of full.people)if(descendants.has(p.id))for(const partner of p.partners)scope.add(partner);
    const scoped=full.people.filter(p=>scope.has(p.id)).map(p=>({...p,parents:p.parents.filter(x=>scope.has(x)),partners:p.partners.filter(x=>scope.has(x)),...(p.marriages?{marriages:p.marriages.filter(m=>scope.has(m.partner)).map(m=>({...m,children:m.children.filter(x=>scope.has(x))}))}:{})}));
-   return {id:'ramo-'+key,title:'Famiglia '+name,root_id:id,people:scoped,families:families.map(f=>({...f,parents:f.parents.filter(x=>scope.has(x)),children:f.children.filter(x=>scope.has(x))})).filter(f=>f.parents.length&&f.children.length)};
+   return {id:'ramo-'+key,title:'Famiglia '+name,root_id:id,people:scoped,families:families.map(f=>({...f,parents:f.parents.filter(x=>scope.has(x)),children:f.children.filter(x=>scope.has(x))})).filter(f=>f.parents.length===2||f.parents.length===1&&f.children.length>0)};
   });
   return [full,...sources,...branches];
  }

@@ -15,7 +15,7 @@ def apply_africa(root):
         section = '''<section class="photo-chapter" id="nuove-foto-africa" aria-labelledby="africa-title"><header>
 <h2 id="africa-title" class="chapter-heading">Africa · Da Verona a Gondar<span class="chapter-art" aria-hidden="true"><img loading="lazy" src="assets/africa-martinelli/08-matrimonio-due-coppie.jpg" alt=""></span></h2>
 <p>9 fotografie restaurate · 1939 e altre date da verificare</p>
-<p>Il soggiorno in Africa orientale di Giovanni Martinelli e della sua famiglia, i matrimoni di Annamaria ed Enrico Calenda e di Vera e Carlo Martucci.</p></header>
+<p>Il soggiorno in Africa orientale di Giovanni Martinelli e della sua famiglia, i matrimoni di Anna Maria ed Enrico Calenda e di Vera e Carlo Martucci.</p></header>
 <p><a class="button primary" href="africa-famiglia.html">Sfoglia la timeline fotografica →</a></p></section>'''
         marker = '<section class="photo-chapter" id="foto-giovanni"'
         if marker in source:

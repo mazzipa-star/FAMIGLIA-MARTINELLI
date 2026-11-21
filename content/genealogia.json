@@ -475,7 +475,7 @@
       },
       {
         "id": "discendenti-8",
-        "name": "Annamaria Martinelli",
+        "name": "Anna Maria Martinelli",
         "date": "1917-?",
         "x": 6126,
         "y": 474,
@@ -493,7 +493,7 @@
         "deceased_recorded": true,
         "date_source": "Data di nascita comunicata dalla famiglia il 16 novembre 2026; dato da verificare con documento anagrafico.",
         "catalog_id": "family-23",
-        "record_name": "Annamaria Martinelli (Tortora)",
+        "record_name": "Anna Maria Martinelli (Tortora)",
         "identity_note": "",
         "portrait_full": "assets/ritratti-famiglia/family-23-grande.webp",
         "portrait_source": "Archivio fotografico familiare",
@@ -536,7 +536,7 @@
         "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
         "catalog_id": "family-58",
         "record_name": "Enrico Calenda",
-        "identity_note": "Primo marito di Annamaria Martinelli e padre di Maria Pia Calenda.",
+        "identity_note": "Primo marito di Anna Maria Martinelli e padre di Maria Pia Calenda.",
         "relationship_source": "Correzione comunicata dalla famiglia il 18 novembre 2026."
       },
       {
@@ -891,7 +891,7 @@
       },
       {
         "id": "discendenti-24",
-        "name": "Stefano Tortora",
+        "name": "Stefano Maria Tortora",
         "date": "1951",
         "x": 6900,
         "y": 630,
@@ -915,9 +915,9 @@
       },
       {
         "id": "discendenti-25",
-        "name": "Marcello Tortora",
+        "name": "Marcello Maria Tortora",
         "date": "?-?",
-        "x": 7750,
+        "x": 7870,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-78.webp",
         "parents": [
@@ -939,9 +939,9 @@
       },
       {
         "id": "discendenti-26",
-        "name": "Andrea Tortora",
+        "name": "Andrea Giovanni Tortora",
         "date": "",
-        "x": 8750,
+        "x": 9000,
         "y": 630,
         "portrait": "assets/ritratti-famiglia/family-61.webp",
         "parents": [
@@ -1518,7 +1518,7 @@
         "id": "discendenti-tortora-maria-beatrice",
         "name": "Maria Beatrice Tortora",
         "date": "1975",
-        "x": 6750,
+        "x": 6530,
         "y": 786,
         "portrait": "assets/ritratti-famiglia/family-76.webp",
         "portrait_full": "assets/ritratti-famiglia/family-76-grande.webp",
@@ -1527,7 +1527,9 @@
           "discendenti-24",
           "discendenti-tortora-giovanna-limone"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-tortora-antonio-criminisi"
+        ],
         "birth": "1 ottobre 1975",
         "death": "",
         "deceased_recorded": false,
@@ -1540,7 +1542,7 @@
         "id": "discendenti-tortora-giacomo",
         "name": "Giacomo Tortora",
         "date": "1977",
-        "x": 6980,
+        "x": 6970,
         "y": 786,
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
         "portrait_missing": true,
@@ -1549,7 +1551,9 @@
           "discendenti-24",
           "discendenti-tortora-giovanna-limone"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-tortora-anna-giorgi"
+        ],
         "birth": "28 gennaio 1977",
         "death": "",
         "deceased_recorded": false,
@@ -1562,7 +1566,7 @@
         "id": "discendenti-tortora-costanza",
         "name": "Costanza Tortora",
         "date": "1987",
-        "x": 7210,
+        "x": 7380,
         "y": 786,
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
         "portrait_missing": true,
@@ -1865,7 +1869,7 @@
       },
       {
         "id": "discendenti-nuovo-family-15",
-        "name": "Laura Uribe",
+        "name": "Laura Uribe Gomez",
         "record_name": "Laura Uribe",
         "birth": "10 novembre 1952",
         "death": "",
@@ -1873,7 +1877,7 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-15",
         "portrait": "assets/ritratti-famiglia/family-15.webp",
-        "x": 7935,
+        "x": 8060,
         "y": 630,
         "parents": [],
         "partners": [
@@ -1882,7 +1886,7 @@
       },
       {
         "id": "discendenti-nuovo-family-17",
-        "name": "Carolina Tortora",
+        "name": "Anna Carolina Tortora",
         "record_name": "Carolina Tortora",
         "birth": "30 ottobre 1977",
         "death": "",
@@ -1896,11 +1900,13 @@
           "discendenti-25",
           "discendenti-nuovo-family-15"
         ],
-        "partners": []
+        "partners": [
+          "discendenti-tortora-luca-scuriatti"
+        ]
       },
       {
         "id": "discendenti-nuovo-family-2",
-        "name": "Marcella Tortora",
+        "name": "Marcella Maria Tortora",
         "record_name": "Marcella Tortora",
         "birth": "11 febbraio 1980",
         "death": "",
@@ -1908,14 +1914,17 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-2",
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
-        "x": 7830,
+        "x": 8010,
         "y": 786,
         "parents": [
           "discendenti-25",
           "discendenti-nuovo-family-15"
         ],
-        "partners": [],
-        "portrait_missing": true
+        "partners": [
+          "discendenti-tortora-andrea-nuccilli"
+        ],
+        "portrait_missing": true,
+        "notes": "Ex compagna di Andrea Nuccilli."
       },
       {
         "id": "discendenti-nuovo-family-31",
@@ -1927,7 +1936,7 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-31",
         "portrait": "assets/ritratti-famiglia/family-31.webp",
-        "x": 8060,
+        "x": 8420,
         "y": 786,
         "parents": [
           "discendenti-25",
@@ -1945,7 +1954,7 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-81",
         "portrait": "assets/ritratti-famiglia/family-81.webp",
-        "x": 8935,
+        "x": 9190,
         "y": 630,
         "parents": [],
         "partners": [
@@ -1962,13 +1971,15 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-85",
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
-        "x": 8600,
+        "x": 8670,
         "y": 786,
         "parents": [
           "discendenti-26",
           "discendenti-nuovo-family-81"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-tortora-francesca-guido"
+        ],
         "portrait_missing": true
       },
       {
@@ -1981,13 +1992,15 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-10",
         "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
-        "x": 8830,
+        "x": 9090,
         "y": 786,
         "parents": [
           "discendenti-26",
           "discendenti-nuovo-family-81"
         ],
-        "partners": [],
+        "partners": [
+          "discendenti-tortora-hsu-pei-chun"
+        ],
         "portrait_missing": true
       },
       {
@@ -2000,13 +2013,255 @@
         "date_source": "Dati comunicati dalla famiglia il 21 novembre 2026",
         "catalog_id": "family-47",
         "portrait": "assets/ritratti-famiglia/family-47.webp",
-        "x": 9060,
+        "x": 9510,
         "y": 786,
         "parents": [
           "discendenti-26",
           "discendenti-nuovo-family-81"
         ],
         "partners": []
+      },
+      {
+        "id": "discendenti-tortora-luca-scuriatti",
+        "name": "Luca Scuriatti",
+        "record_name": "Luca Scuriatti",
+        "birth": "2/10/73",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-42",
+        "portrait": "assets/ritratti-famiglia/family-42.webp",
+        "x": 7790,
+        "y": 786,
+        "parents": [],
+        "partners": [
+          "discendenti-nuovo-family-17"
+        ],
+        "portrait_full": "assets/ritratti-famiglia/family-42-grande.webp"
+      },
+      {
+        "id": "discendenti-tortora-andrea-nuccilli",
+        "name": "Andrea Nuccilli",
+        "record_name": "Andrea Nuccilli",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-andrea-nuccilli",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 8200,
+        "y": 786,
+        "parents": [],
+        "partners": [
+          "discendenti-nuovo-family-2"
+        ],
+        "portrait_missing": true,
+        "notes": "Ex compagno di Marcella Maria Tortora."
+      },
+      {
+        "id": "discendenti-tortora-antonio-criminisi",
+        "name": "Antonio Criminisi",
+        "record_name": "Antonio Criminisi",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-antonio-criminisi",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 6720,
+        "y": 786,
+        "parents": [],
+        "partners": [
+          "discendenti-tortora-maria-beatrice"
+        ],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-anna-giorgi",
+        "name": "Anna Giorgi",
+        "record_name": "Anna Giorgi",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-anna-giorgi",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 7160,
+        "y": 786,
+        "parents": [],
+        "partners": [
+          "discendenti-tortora-giacomo"
+        ],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-francesca-guido",
+        "name": "Francesca Guido",
+        "record_name": "Francesca Guido",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-francesca-guido",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 8860,
+        "y": 786,
+        "parents": [],
+        "partners": [
+          "discendenti-nuovo-family-85"
+        ],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-hsu-pei-chun",
+        "name": "Hsu Pei Chun",
+        "record_name": "Hsu Pei Chun",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-hsu-pei-chun",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 9280,
+        "y": 786,
+        "parents": [],
+        "partners": [
+          "discendenti-nuovo-family-10"
+        ],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-matteo-mauro-scuriatti-tortora",
+        "name": "Matteo Mauro Scuriatti Tortora",
+        "record_name": "Matteo Mauro Scuriatti",
+        "birth": "7/10/17",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero familiare «La Famiglia Martinelli.pdf»",
+        "catalog_id": "family-39",
+        "portrait": "assets/ritratti-famiglia/family-39.webp",
+        "x": 7695,
+        "y": 942,
+        "parents": [
+          "discendenti-nuovo-family-17",
+          "discendenti-tortora-luca-scuriatti"
+        ],
+        "partners": [],
+        "portrait_full": "assets/ritratti-famiglia/family-39-grande.webp"
+      },
+      {
+        "id": "discendenti-tortora-andrea-carlos-nuccilli-tortora",
+        "name": "Andrea Carlos Nuccilli Tortora",
+        "record_name": "Andrea Carlos Nuccilli Tortora",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-andrea-carlos-nuccilli-tortora",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 8105,
+        "y": 942,
+        "parents": [
+          "discendenti-nuovo-family-2",
+          "discendenti-tortora-andrea-nuccilli"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-francesco-criminisi-tortora",
+        "name": "Francesco Criminisi Tortora",
+        "record_name": "Francesco Criminisi Tortora",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-francesco-criminisi-tortora",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 6395,
+        "y": 942,
+        "parents": [
+          "discendenti-tortora-maria-beatrice",
+          "discendenti-tortora-antonio-criminisi"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-federico-criminisi-tortora",
+        "name": "Federico Criminisi Tortora",
+        "record_name": "Federico Criminisi Tortora",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-federico-criminisi-tortora",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 6595,
+        "y": 942,
+        "parents": [
+          "discendenti-tortora-maria-beatrice",
+          "discendenti-tortora-antonio-criminisi"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-matteo-criminisi-tortora",
+        "name": "Matteo Criminisi Tortora",
+        "record_name": "Matteo Criminisi Tortora",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-matteo-criminisi-tortora",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 6795,
+        "y": 942,
+        "parents": [
+          "discendenti-tortora-maria-beatrice",
+          "discendenti-tortora-antonio-criminisi"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-marcello-tortora-giorgi",
+        "name": "Marcello Tortora Giorgi",
+        "record_name": "Marcello Tortora Giorgi",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-marcello-tortora-giorgi",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 7065,
+        "y": 942,
+        "parents": [
+          "discendenti-tortora-giacomo",
+          "discendenti-tortora-anna-giorgi"
+        ],
+        "partners": [],
+        "portrait_missing": true
+      },
+      {
+        "id": "discendenti-tortora-lorenzo-tortora",
+        "name": "Lorenzo Tortora",
+        "record_name": "Lorenzo Tortora",
+        "birth": "",
+        "death": "",
+        "deceased_recorded": false,
+        "date_source": "Albero genealogico della famiglia Tortora condiviso dalla famiglia il 21 novembre 2026",
+        "catalog_id": "family-tortora-lorenzo-tortora",
+        "portrait": "assets/genealogia/ritratto-non-disponibile.svg",
+        "x": 9185,
+        "y": 942,
+        "parents": [
+          "discendenti-nuovo-family-10",
+          "discendenti-tortora-hsu-pei-chun"
+        ],
+        "partners": [],
+        "portrait_missing": true
       }
     ],
     "families": [
@@ -2257,6 +2512,60 @@
           "discendenti-nuovo-family-85",
           "discendenti-nuovo-family-10",
           "discendenti-nuovo-family-47"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-nuovo-family-17",
+          "discendenti-tortora-luca-scuriatti"
+        ],
+        "children": [
+          "discendenti-tortora-matteo-mauro-scuriatti-tortora"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-nuovo-family-2",
+          "discendenti-tortora-andrea-nuccilli"
+        ],
+        "children": [
+          "discendenti-tortora-andrea-carlos-nuccilli-tortora"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-tortora-maria-beatrice",
+          "discendenti-tortora-antonio-criminisi"
+        ],
+        "children": [
+          "discendenti-tortora-francesco-criminisi-tortora",
+          "discendenti-tortora-federico-criminisi-tortora",
+          "discendenti-tortora-matteo-criminisi-tortora"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-tortora-giacomo",
+          "discendenti-tortora-anna-giorgi"
+        ],
+        "children": [
+          "discendenti-tortora-marcello-tortora-giorgi"
+        ]
+      },
+      {
+        "parents": [
+          "discendenti-nuovo-family-85",
+          "discendenti-tortora-francesca-guido"
+        ],
+        "children": []
+      },
+      {
+        "parents": [
+          "discendenti-nuovo-family-10",
+          "discendenti-tortora-hsu-pei-chun"
+        ],
+        "children": [
+          "discendenti-tortora-lorenzo-tortora"
         ]
       }
     ]

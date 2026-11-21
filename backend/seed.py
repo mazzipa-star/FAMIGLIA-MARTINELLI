@@ -15,7 +15,7 @@ for tree in trees:
 for a,b in sorted(parents):s.append('insert into family_private.parents values('+q(a)+','+q(b)+');')
 for a,b in sorted(partners):s.append('insert into family_private.partners values('+q(a)+','+q(b)+');')
 for p in records:s.append('insert into family_private.records values('+q(p['id'])+','+j(p)+');')
-for id,name in [('2','Graziella'),('4','Vera'),('6','Sante'),('8','Anna')]:s.append('insert into family_private.branches(root_id,label) values('+q('discendenti-'+id)+','+q('Famiglia '+name)+');')
+for id,name in [('2','Graziella'),('4','Vera'),('6','Sante'),('8','Anna Maria')]:s.append('insert into family_private.branches(root_id,label) values('+q('discendenti-'+id)+','+q('Famiglia '+name)+');')
 s.append('commit;')
 (r/'backend/supabase/seed.sql').write_text('\n'.join(s)+'\n')
 print('Importazione preparata:',sum(len(t['people']) for t in trees),'persone e',len(records),'schede.')

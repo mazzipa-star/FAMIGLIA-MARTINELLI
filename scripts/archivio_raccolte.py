@@ -35,7 +35,7 @@ def apply_collections(root):
     africa_images=[dict(src=p['path'],full=p['path'],caption=p['title']+' — '+p['caption']) for p in africa['entries']]
     collections.append(dict(id='africa',title='Africa · Da Verona a Gondar',desc='Fotografie familiari tra Verona e Gondar, con date da verificare.',images=africa_images,href='album-africa.html',more='africa-famiglia.html'))
     invito='assets/documenti/matrimonio-anna-enrico/invito-nozze-1940-restaurato.jpg'
-    wedding_paths=[('Le nozze di Annamaria ed Enrico','assets/africa-martinelli/05-matrimonio-anna-enrico.jpg'),
+    wedding_paths=[('Le nozze di Anna Maria ed Enrico','assets/africa-martinelli/05-matrimonio-anna-enrico.jpg'),
        ('Graziella paggetta','assets/africa-martinelli/06-matrimonio-graziella-paggetta.jpg'),
        ('La famiglia riunita','assets/africa-martinelli/07-matrimonio-gruppo.jpg'),
        ('Le due coppie di sposi','assets/africa-martinelli/08-matrimonio-due-coppie.jpg'),
